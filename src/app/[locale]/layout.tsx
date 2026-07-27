@@ -70,7 +70,15 @@ export async function generateMetadata({
     // authored complete, per locale.
     title: { absolute: defaults.title },
     description: defaults.description,
-    icons: { icon: "/favicon.png", apple: "/favicon.png" },
+    icons: {
+      icon: [
+        { url: "/favicon.ico", sizes: "32x32" },
+        { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+        { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+        { url: "/favicon.png", sizes: "128x128", type: "image/png" },
+      ],
+      apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+    },
     openGraph: {
       type: "website",
       siteName: SITE.name,
