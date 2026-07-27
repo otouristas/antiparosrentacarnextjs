@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Right-sized for couples who want simple island mobility.",
   ],
   seo: {
-    title: "Rent Mini Automatic | AGGELOS Rentals",
-    description: "Automatic mini that keeps village parking easy after ferry or flight arrivals. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Skoda Citigo Automatic in Paros & Antiparos | AGGELOS",
+    description: "Book the Skoda Citigo Automatic (mini) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

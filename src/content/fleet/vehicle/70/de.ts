@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "ATV 70 | AGGELOS Rentals · Griechenland",
-    description: "ATV 70: Kurz: Sie wählen den Treffpunkt, wir bereiten Fahrzeug und Papiere vor. AGGELOS Rentals Paros Antiparos.",
+    title: "ATV CF Moto 520cc mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den ATV CF Moto 520cc (ATV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

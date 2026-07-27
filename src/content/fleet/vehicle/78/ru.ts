@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "SUV 78 | AGGELOS Rentals · Греция",
-    description: "SUV 78: На практике: с 1994 года в порту Антипароса мы знаем паромы, парковку и августовские пробки. AGGELOS Rentals Paros Antiparos.",
+    title: "Аренда Jeep Renegade 4x4 Full Extra Panorama Open Roof на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

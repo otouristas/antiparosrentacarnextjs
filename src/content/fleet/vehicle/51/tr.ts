@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Cabrio 51 | AGGELOS Rentals · Yunanistan",
-    description: "Cabrio 51: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Fiat 500C Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Fiat 500C (cabrio) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

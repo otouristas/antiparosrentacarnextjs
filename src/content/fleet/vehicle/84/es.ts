@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o similar",
   licence: "Confirmamos la categoría del carnet en la entrega.",
   seo: {
-    title: "Crossover 84 | AGGELOS Rentals · Grecia",
-    description: "Crossover 84: En la práctica: desde 1994 en el puerto de Antíparos conocemos ferries, parkings y el tráfico de agosto.",
+    title: "Alquilar Citroen C3 en Paros y Antíparos | AGGELOS Rentals",
+    description: "Reserve el Citroen C3 (crossover) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

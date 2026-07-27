@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ή παρόμοιο",
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
-    title: "Mini 60 | AGGELOS Rentals · Ελλάδα",
-    description: "Mini 60: Στην πράξη: μεταφέρουμε την εμπειρία μας από το 1994 στο λιμάνι της Αντιπάρου ώστε να σχεδιάσετε σωστά την ημέρα σας.",
+    title: "Ενοικίαση Skoda Citigo Automatic σε Πάρο & Αντίπαρο | AGGELOS",
+    description: "Κλείστε το Skoda Citigo Automatic (μικρό) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
     keywords: [],
   },
 };

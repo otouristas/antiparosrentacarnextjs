@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Kleinwagen 71 | AGGELOS Rentals · Griechenland",
-    description: "Kleinwagen 71: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "Mitsubishi SpaceStar 2025 mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den Mitsubishi SpaceStar 2025 (Kleinwagen) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

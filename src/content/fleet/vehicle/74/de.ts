@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Cabrio 74 | AGGELOS Rentals · Griechenland",
-    description: "Cabrio 74: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "Fiat 500c Hybrid mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den Fiat 500c Hybrid (Cabrio) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

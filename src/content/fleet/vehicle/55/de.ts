@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Großraum 55 | AGGELOS Rentals · Griechenland",
-    description: "Großraum 55: Kurz: Sie wählen den Treffpunkt, wir bereiten Fahrzeug und Papiere vor. AGGELOS Rentals Paros Antiparos.",
+    title: "Fiat Doblo 7 Seater mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den Fiat Doblo 7 Seater (Großraum) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

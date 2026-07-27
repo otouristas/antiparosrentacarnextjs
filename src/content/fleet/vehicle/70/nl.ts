@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "ATV 70 | AGGELOS Rentals · Griekenland",
-    description: "ATV 70: Kort gezegd: u kiest het afleverpunt, wij klaarzetten voertuig en papieren. AGGELOS Rentals Paros Antiparos.",
+    title: "ATV CF Moto 520cc huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de ATV CF Moto 520cc (ATV) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Kompakt 50 | AGGELOS Rentals · Yunanistan",
-    description: "Kompakt 50: İpucu: yüksek sezonda liman ve Naoussa yakınında zaman payı bırakın. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Fiat Panda Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Fiat Panda (kompakt) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

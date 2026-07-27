@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "SUV 76 | AGGELOS Rentals · Yunanistan",
-    description: "SUV 76: Kısaca: teslim noktasını siz seçersiniz, aracı ve evrakı biz hazırlarız. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos MG SUV ZS Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için MG SUV ZS (SUV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

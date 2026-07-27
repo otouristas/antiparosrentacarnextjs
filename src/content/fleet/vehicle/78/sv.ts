@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "SUV 78 | AGGELOS Rentals · Grekland",
-    description: "SUV 78: I praktiken: sedan 1994 i Antiparos hamn känner vi färjor, parkering och augustitrafik. AGGELOS Rentals Paros Antiparos.",
+    title: "Hyr Jeep Renegade 4x4 Full Extra Panorama Open Roof på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

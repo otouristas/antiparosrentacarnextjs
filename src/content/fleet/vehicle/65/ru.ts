@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "Скутер 65 | AGGELOS Rentals · Греция",
-    description: "Скутер 65: Совет: заложите запас времени в пик сезона у порта и Науссы. AGGELOS Rentals Paros Antiparos. Локальная выдача на Паросе и Антипаросе.",
+    title: "Аренда Scooter 300 cc на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Scooter 300 cc (скутер) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "SUV 53 | AGGELOS Rentals · Yunanistan",
-    description: "SUV 53: İpucu: yüksek sezonda liman ve Naoussa yakınında zaman payı bırakın. AGGELOS Rentals Paros Antiparos. Paros ve Antiparos’ta yerel teslim.",
+    title: "Paros & Antiparos Suzuki Jimny Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Suzuki Jimny (SUV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

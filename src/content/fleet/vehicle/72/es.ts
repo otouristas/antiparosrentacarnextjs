@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o similar",
   licence: "Confirmamos la categoría del carnet en la entrega.",
   seo: {
-    title: "Compacto 72 | AGGELOS Rentals · Grecia",
-    description: "Compacto 72: En la práctica: desde 1994 en el puerto de Antíparos conocemos ferries, parkings y el tráfico de agosto.",
+    title: "Alquilar Mitsubishi SpaceStar 2025 en Paros y Antíparos | AGGELOS",
+    description: "Reserve el Mitsubishi SpaceStar 2025 (compacto) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

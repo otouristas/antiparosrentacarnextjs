@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Ideal when parking space is tight in peak weeks.",
   ],
   seo: {
-    title: "Rent Elite Scooter 125cc | AGGELOS Rentals",
-    description: "Refined 125cc scooter option when you want a step up in finish and feel. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Vespa Primavera 125cc in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Vespa Primavera 125cc (scooter) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

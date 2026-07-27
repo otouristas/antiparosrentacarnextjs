@@ -72,17 +72,26 @@ export default async function VehicleDetail({
         </div>
       </div>
 
+      {/*
+        Desktop: image top-left, story under image, book rail right (spans both).
+        Mobile DOM order: image → book rail → story.
+      */}
       <section className="bg-brand-light">
-        <div className="mx-auto grid max-w-page gap-8 px-4 py-8 sm:px-6 lg:grid-cols-[minmax(0,1.15fr)_minmax(320px,0.85fr)] lg:gap-10 lg:py-12 xl:gap-14">
-          <div className="min-w-0">
-            <VehicleHero
+        <div className="mx-auto grid max-w-page gap-8 px-4 py-8 sm:px-6 lg:grid-cols-[minmax(0,1.2fr)_minmax(340px,0.8fr)] lg:items-start lg:gap-x-10 lg:gap-y-8 lg:py-12 xl:gap-x-14">
+          <VehicleHero vehicle={vehicle} name={name} />
+
+          <div className="min-w-0 lg:col-start-2 lg:row-span-2 lg:row-start-1">
+            <VehicleBookRail
               vehicle={vehicle}
-              name={name}
+              vehicleName={name}
               categoryLabel={categoryLabel}
               orSimilar={copy?.orSimilar}
               isAuto={isAuto}
               isManual={isManual}
             />
+          </div>
+
+          <div className="min-w-0 lg:col-start-1 lg:row-start-2">
             <VehicleStory
               name={name}
               blurb={copy?.blurb}
@@ -92,11 +101,14 @@ export default async function VehicleDetail({
               categoryStory={categoryStory}
               idealFor={insight?.idealFor}
             />
-            <VehicleSpecRunway vehicle={vehicle} />
-            <VehicleAmenities vehicle={vehicle} />
           </div>
+        </div>
+      </section>
 
-          <VehicleBookRail vehicle={vehicle} vehicleName={name} />
+      <section className="border-t border-navy/8 bg-white">
+        <div className="mx-auto max-w-page px-4 py-10 sm:px-6 sm:py-12">
+          <VehicleSpecRunway vehicle={vehicle} />
+          <VehicleAmenities vehicle={vehicle} />
         </div>
       </section>
 

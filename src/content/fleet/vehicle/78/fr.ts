@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similaire",
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
-    title: "SUV 78 | AGGELOS Rentals · Grèce",
-    description: "SUV 78: En pratique: depuis 1994 au port d'Antiparos, nous connaissons ferries, parkings et embouteillages d'août.",
+    title: "Louer Jeep Renegade 4x4 Full Extra Panorama Open Roof à Paros & Antiparos | AGGELOS Rentals",
+    description: "Réservez le Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
     keywords: [],
   },
 };

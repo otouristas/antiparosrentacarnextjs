@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "Scooter 80 | AGGELOS Rentals · Grecia",
-    description: "Scooter 80: Consiglio locale: lascia margine in alta stagione vicino al porto e a Naoussa. AGGELOS Rentals Paros Antiparos.",
+    title: "Noleggia Vespa Primavera 125cc a Paros e Antiparos | AGGELOS",
+    description: "Prenota la Vespa Primavera 125cc (scooter) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };

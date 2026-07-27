@@ -11,10 +11,10 @@ import type { Locale } from "@/i18n/routing";
 
 export default async function VehicleReviewsBand({
   slug,
-  locale,
 }: {
   slug: string;
-  locale: Locale;
+  /** Kept for call-site compatibility; Link prefixes locale via next-intl. */
+  locale?: Locale;
 }) {
   const tr = await getTranslations("reviews");
   const t = await getTranslations("fleet");
@@ -23,7 +23,7 @@ export default async function VehicleReviewsBand({
   const quotes = insight?.quotes?.slice(0, 2) ?? [];
 
   return (
-    <section className="mt-14 border-t border-navy/10 bg-sand/60 py-12 sm:py-14">
+    <section className="border-t border-navy/10 bg-sand/60 py-12 sm:py-14">
       <div className="mx-auto max-w-page px-4 sm:px-6">
         <div className="flex flex-wrap items-end justify-between gap-4">
           <div>

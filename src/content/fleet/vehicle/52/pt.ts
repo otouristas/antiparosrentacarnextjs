@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Crossover 52 | AGGELOS Rentals · Grécia",
-    description: "Crossover 52: Em resumo: escolhe o ponto de recolha e preparamos o veículo e os documentos. AGGELOS Rentals Paros Antiparos.",
+    title: "Alugar Hyundai i20 em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o Hyundai i20 (crossover) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

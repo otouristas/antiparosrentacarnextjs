@@ -74,7 +74,7 @@ export default async function VehicleSpecRunway({
   if (specs.length === 0) return null;
 
   return (
-    <section className="mt-12 border-t border-navy/10 pt-10">
+    <div>
       <h2 className="font-display text-2xl font-extrabold text-navy sm:text-3xl">
         {t("specRunwayTitle")}
       </h2>
@@ -102,6 +102,6 @@ export default async function VehicleSpecRunway({
           </li>
         ))}
       </ul>
-    </section>
+    </div>
   );
 }

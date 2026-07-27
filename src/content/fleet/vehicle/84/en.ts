@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Confident stance for coastal and inland drives.",
   ],
   seo: {
-    title: "Rent Crossover Manual | AGGELOS Rentals",
-    description: "Manual crossover when you want a higher seat without a full SUV footprint. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Citroen C3 in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Citroen C3 (crossover) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

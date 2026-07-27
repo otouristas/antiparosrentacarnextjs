@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "ATV 68 | AGGELOS Rentals · Греция",
-    description: "ATV 68: Совет: заложите запас времени в пик сезона у порта и Науссы. AGGELOS Rentals Paros Antiparos. Локальная выдача на Паросе и Антипаросе.",
+    title: "Аренда Kayo 300cc на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Kayo 300cc (ATV) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

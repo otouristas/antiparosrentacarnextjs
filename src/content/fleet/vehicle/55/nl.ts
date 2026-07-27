@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "Busje 55 | AGGELOS Rentals · Griekenland",
-    description: "Busje 55: Kort gezegd: u kiest het afleverpunt, wij klaarzetten voertuig en papieren. AGGELOS Rentals Paros Antiparos.",
+    title: "Fiat Doblo 7 Seater huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de Fiat Doblo 7 Seater (personenwagen) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

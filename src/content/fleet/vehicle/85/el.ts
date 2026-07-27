@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ή παρόμοιο",
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
-    title: "Cabrio 85 | AGGELOS Rentals · Ελλάδα",
-    description: "Cabrio 85: Με απλά λόγια: μεταφέρουμε την εμπειρία μας από το 1994 στο λιμάνι της Αντιπάρου ώστε να σχεδιάσετε σωστά την ημέρα σας.",
+    title: "Ενοικίαση Mini Cooper Cabrio σε Πάρο & Αντίπαρο | AGGELOS Rentals",
+    description: "Κλείστε το Mini Cooper Cabrio (cabrio) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
     keywords: [],
   },
 };

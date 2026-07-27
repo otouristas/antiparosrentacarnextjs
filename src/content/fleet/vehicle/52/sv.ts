@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "Crossover 52 | AGGELOS Rentals · Grekland",
-    description: "Crossover 52: Kort sagt: du väljer mötesplats, vi förbereder fordon och papper. AGGELOS Rentals Paros Antiparos.",
+    title: "Hyr Hyundai i20 på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Hyundai i20 (crossover) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Quad 70 | AGGELOS Rentals · Grécia",
-    description: "Quad 70: Em resumo: escolhe o ponto de recolha e preparamos o veículo e os documentos. AGGELOS Rentals Paros Antiparos.",
+    title: "Alugar ATV CF Moto 520cc em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o ATV CF Moto 520cc (ATV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

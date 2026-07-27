@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "Cabrio 51 | AGGELOS Rentals · Grecia",
-    description: "Cabrio 51: In pratica: dal 1994 al porto di Antiparos conosciamo traghetti, parcheggi e il traffico di agosto.",
+    title: "Noleggia Fiat 500C a Paros e Antiparos | AGGELOS Rentals",
+    description: "Prenota la Fiat 500C (cabrio) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };

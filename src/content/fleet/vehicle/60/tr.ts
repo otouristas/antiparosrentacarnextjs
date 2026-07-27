@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Mini 60 | AGGELOS Rentals · Yunanistan",
-    description: "Mini 60: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Skoda Citigo Automatic Kiralama | AGGELOS",
+    description: "Paros ve Antiparos için Skoda Citigo Automatic (mini) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

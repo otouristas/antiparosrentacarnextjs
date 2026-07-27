@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "ATV 82 | AGGELOS Rentals · Griekenland",
-    description: "ATV 82: Kort gezegd: u kiest het afleverpunt, wij klaarzetten voertuig en papieren. AGGELOS Rentals Paros Antiparos.",
+    title: "Kymco Mxu550i huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de Kymco Mxu550i (ATV) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

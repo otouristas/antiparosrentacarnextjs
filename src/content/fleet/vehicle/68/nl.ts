@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "ATV 68 | AGGELOS Rentals · Griekenland",
-    description: "ATV 68: Tip: plan in het hoogseizoen extra tijd nabij haven en Naoussa. AGGELOS Rentals Paros Antiparos. Lokale ophaalservice op Paros en Antiparos.",
+    title: "Kayo 300cc huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de Kayo 300cc (ATV) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

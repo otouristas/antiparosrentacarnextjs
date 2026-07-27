@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Briefing at pickup so you leave confident on island terrain.",
   ],
   seo: {
-    title: "Rent ATV 550cc | AGGELOS Rentals",
-    description: "Higher ATV displacement for experienced guests exploring further dirt routes. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Kymco Mxu550i in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Kymco Mxu550i (ATV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

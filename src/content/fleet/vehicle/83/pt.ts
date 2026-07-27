@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Quad 83 | AGGELOS Rentals · Grécia",
-    description: "Quad 83: Dica local: deixe margem em alta temporada junto ao porto e a Naoussa. AGGELOS Rentals Paros Antiparos.",
+    title: "Alugar CF Moto UTV ZFORCE 850cc em Paros e Antíparos | AGGELOS",
+    description: "Reserve o CF Moto UTV ZFORCE 850cc (ATV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

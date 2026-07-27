@@ -57,6 +57,7 @@ export default function BookingWidget({
   lockedVehicleType,
   typeId,
   vehicleName,
+  embedded = false,
 }: {
   compact?: boolean;
   /** `bar` = fleet strip; `panel` = glass card; `vehicle` = PDP locked-model form. */
@@ -65,6 +66,8 @@ export default function BookingWidget({
   lockedVehicleType?: VehicleTypeId;
   typeId?: string;
   vehicleName?: string;
+  /** When true with vehicle variant: fields only, parent supplies the chrome. */
+  embedded?: boolean;
 }) {
   const t = useTranslations("booking");
   const locale = useLocale();
@@ -328,6 +331,146 @@ export default function BookingWidget({
   }
 
   if (isVehicle) {
+    const formBody = (
+      <>
+        <div className="grid grid-cols-1 gap-3">
+          <label className="block min-w-0">
+            <span className={FIELD_LABEL}>
+              <MapPin className="h-3.5 w-3.5" />
+              {t("pickupLocation")}
+            </span>
+            <select
+              value={pickupId}
+              onChange={(e) => setPickupId(e.target.value)}
+              className={SELECT}
+              style={CHEVRON}
+            >
+              {GOCARS_LOCATIONS.map((loc) => (
+                <option key={loc.id} value={loc.id}>
+                  {t(loc.key)}
+                </option>
+              ))}
+            </select>
+          </label>
+
+          <label className="block min-w-0">
+            <span className={FIELD_LABEL}>
+              <Calendar className="h-3.5 w-3.5" />
+              {t("pickupDate")}
+            </span>
+            <div className="grid grid-cols-1 gap-2 @xs:grid-cols-[1fr_auto]">
+              <input
+                type="date"
+                value={dateFrom}
+                min={minDate}
+                onChange={(e) => onPickupDate(e.target.value)}
+                className={FIELD}
+              />
+              <input
+                type="time"
+                value={timeFrom}
+                onChange={(e) => setTimeFrom(e.target.value)}
+                className={`${FIELD} @xs:w-[7.5rem] @xs:flex-none`}
+              />
+            </div>
+          </label>
+
+          <label className="block min-w-0">
+            <span className={FIELD_LABEL}>
+              <Calendar className="h-3.5 w-3.5" />
+              {t("dropoffDate")}
+            </span>
+            <div className="grid grid-cols-1 gap-2 @xs:grid-cols-[1fr_auto]">
+              <input
+                type="date"
+                value={dateTo}
+                min={dateFrom}
+                onChange={(e) => {
+                  setDateTo(e.target.value);
+                  setError(null);
+                }}
+                aria-invalid={Boolean(error)}
+                className={`${FIELD} ${error ? "border-danger" : ""}`}
+              />
+              <input
+                type="time"
+                value={timeTo}
+                onChange={(e) => setTimeTo(e.target.value)}
+                className={`${FIELD} @xs:w-[7.5rem] @xs:flex-none`}
+              />
+            </div>
+          </label>
+
+          <label className="block min-w-0">
+            <span className={FIELD_LABEL}>
+              <User className="h-3.5 w-3.5" />
+              {t("ageGroup")}
+            </span>
+            <select
+              value={ageGroup}
+              onChange={(e) => setAgeGroup(e.target.value)}
+              className={SELECT}
+              style={CHEVRON}
+            >
+              {GOCARS_AGES.map((age) => (
+                <option key={age.id} value={age.id}>
+                  {t(age.key)}
+                </option>
+              ))}
+            </select>
+          </label>
+        </div>
+
+        <label className="mt-3 flex items-center gap-2 text-sm text-navy/80">
+          <input
+            type="checkbox"
+            checked={differentReturn}
+            onChange={(e) => setDifferentReturn(e.target.checked)}
+            className="h-4 w-4 accent-navy"
+          />
+          {t("differentReturn")}
+        </label>
+
+        {differentReturn ? (
+          <label className="mt-2 block min-w-0">
+            <span className={FIELD_LABEL}>{t("dropoffLocation")}</span>
+            <select
+              value={returnId}
+              onChange={(e) => setReturnId(e.target.value)}
+              className={SELECT}
+              style={CHEVRON}
+            >
+              {GOCARS_LOCATIONS.map((loc) => (
+                <option key={loc.id} value={loc.id}>
+                  {t(loc.key)}
+                </option>
+              ))}
+            </select>
+          </label>
+        ) : null}
+
+        {errorBlock ? <div className="mt-3">{errorBlock}</div> : null}
+
+        <div className="mt-5">{submitBtn}</div>
+        <a
+          href="https://antiparosrentacar.gocars.gr/user-area"
+          className="mt-3 block text-center text-sm font-semibold text-navy-panel underline-offset-2 hover:underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {t("existingClient")}
+        </a>
+      </>
+    );
+
+    if (embedded) {
+      return (
+        <form onSubmit={handleSubmit} noValidate className="@container w-full">
+          {formBody}
+        </form>
+      );
+    }
+
     return (
       <form
         onSubmit={handleSubmit}
@@ -342,135 +485,7 @@ export default function BookingWidget({
             {vehicleName ?? t("title")}
           </h2>
         </div>
-        <div className="p-4 sm:p-5">
-          <div className="grid grid-cols-1 gap-3">
-            <label className="block min-w-0">
-              <span className={FIELD_LABEL}>
-                <MapPin className="h-3.5 w-3.5" />
-                {t("pickupLocation")}
-              </span>
-              <select
-                value={pickupId}
-                onChange={(e) => setPickupId(e.target.value)}
-                className={SELECT}
-                style={CHEVRON}
-              >
-                {GOCARS_LOCATIONS.map((loc) => (
-                  <option key={loc.id} value={loc.id}>
-                    {t(loc.key)}
-                  </option>
-                ))}
-              </select>
-            </label>
-
-            <label className="block min-w-0">
-              <span className={FIELD_LABEL}>
-                <Calendar className="h-3.5 w-3.5" />
-                {t("pickupDate")}
-              </span>
-              <div className="grid grid-cols-1 gap-2 @xs:grid-cols-[1fr_auto]">
-                <input
-                  type="date"
-                  value={dateFrom}
-                  min={minDate}
-                  onChange={(e) => onPickupDate(e.target.value)}
-                  className={FIELD}
-                />
-                <input
-                  type="time"
-                  value={timeFrom}
-                  onChange={(e) => setTimeFrom(e.target.value)}
-                  className={`${FIELD} @xs:w-[7.5rem] @xs:flex-none`}
-                />
-              </div>
-            </label>
-
-            <label className="block min-w-0">
-              <span className={FIELD_LABEL}>
-                <Calendar className="h-3.5 w-3.5" />
-                {t("dropoffDate")}
-              </span>
-              <div className="grid grid-cols-1 gap-2 @xs:grid-cols-[1fr_auto]">
-                <input
-                  type="date"
-                  value={dateTo}
-                  min={dateFrom}
-                  onChange={(e) => {
-                    setDateTo(e.target.value);
-                    setError(null);
-                  }}
-                  aria-invalid={Boolean(error)}
-                  className={`${FIELD} ${error ? "border-danger" : ""}`}
-                />
-                <input
-                  type="time"
-                  value={timeTo}
-                  onChange={(e) => setTimeTo(e.target.value)}
-                  className={`${FIELD} @xs:w-[7.5rem] @xs:flex-none`}
-                />
-              </div>
-            </label>
-
-            <label className="block min-w-0">
-              <span className={FIELD_LABEL}>
-                <User className="h-3.5 w-3.5" />
-                {t("ageGroup")}
-              </span>
-              <select
-                value={ageGroup}
-                onChange={(e) => setAgeGroup(e.target.value)}
-                className={SELECT}
-                style={CHEVRON}
-              >
-                {GOCARS_AGES.map((age) => (
-                  <option key={age.id} value={age.id}>
-                    {t(age.key)}
-                  </option>
-                ))}
-              </select>
-            </label>
-          </div>
-
-          <label className="mt-3 flex items-center gap-2 text-sm text-navy/80">
-            <input
-              type="checkbox"
-              checked={differentReturn}
-              onChange={(e) => setDifferentReturn(e.target.checked)}
-              className="h-4 w-4 accent-navy"
-            />
-            {t("differentReturn")}
-          </label>
-
-          {differentReturn ? (
-            <label className="mt-2 block min-w-0">
-              <span className={FIELD_LABEL}>{t("dropoffLocation")}</span>
-              <select
-                value={returnId}
-                onChange={(e) => setReturnId(e.target.value)}
-                className={SELECT}
-                style={CHEVRON}
-              >
-                {GOCARS_LOCATIONS.map((loc) => (
-                  <option key={loc.id} value={loc.id}>
-                    {t(loc.key)}
-                  </option>
-                ))}
-              </select>
-            </label>
-          ) : null}
-
-          {errorBlock ? <div className="mt-3">{errorBlock}</div> : null}
-
-          <div className="mt-5">{submitBtn}</div>
-          <a
-            href="https://antiparosrentacar.gocars.gr/user-area"
-            className="mt-3 block text-center text-sm font-semibold text-navy-panel underline-offset-2 hover:underline"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            {t("existingClient")}
-          </a>
-        </div>
+        <div className="p-4 sm:p-5">{formBody}</div>
       </form>
     );
   }

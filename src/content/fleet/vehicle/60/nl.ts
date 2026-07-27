@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "Mini 60 | AGGELOS Rentals · Griekenland",
-    description: "Mini 60: In de praktijk: sinds 1994 in de haven van Antiparos kennen we veerboten, parkeren en augustusdrukte.",
+    title: "Skoda Citigo Automatic huren op Paros & Antiparos | AGGELOS",
+    description: "Boek de Skoda Citigo Automatic (mini) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

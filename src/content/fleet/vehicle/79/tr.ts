@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Minibüs 79 | AGGELOS Rentals · Yunanistan",
-    description: "Minibüs 79: Kısaca: teslim noktasını siz seçersiniz, aracı ve evrakı biz hazırlarız. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Volkswagen Transporter 9 Seater Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Volkswagen Transporter 9 Seater (çok koltuklu) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

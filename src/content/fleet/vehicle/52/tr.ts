@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Crossover 52 | AGGELOS Rentals · Yunanistan",
-    description: "Crossover 52: Kısaca: teslim noktasını siz seçersiniz, aracı ve evrakı biz hazırlarız. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Hyundai i20 Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Hyundai i20 (crossover) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

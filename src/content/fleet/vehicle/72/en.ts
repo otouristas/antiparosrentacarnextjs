@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Clear pickup at port, airport, or selected hotels.",
   ],
   seo: {
-    title: "Rent Compact Hybrid Manual | AGGELOS Rentals",
-    description: "Hybrid compact manual when you want a bit more efficiency on daily Paros loops. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Mitsubishi SpaceStar 2025 in Paros & Antiparos | AGGELOS",
+    description: "Book the Mitsubishi SpaceStar 2025 (compact) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

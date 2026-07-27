@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Kompakt 81 | AGGELOS Rentals · Yunanistan",
-    description: "Kompakt 81: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Peugeot 208 2024 Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Peugeot 208 2024 (kompakt) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

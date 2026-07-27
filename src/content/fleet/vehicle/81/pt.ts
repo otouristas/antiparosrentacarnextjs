@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Compacto 81 | AGGELOS Rentals · Grécia",
-    description: "Compacto 81: Na prática: desde 1994 no porto de Antíparos conhecemos ferries, estacionamento e o trânsito de agosto.",
+    title: "Alugar Peugeot 208 2024 em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o Peugeot 208 2024 (compacto) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

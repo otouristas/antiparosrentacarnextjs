@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "SUV 76 | AGGELOS Rentals · Griechenland",
-    description: "SUV 76: Kurz: Sie wählen den Treffpunkt, wir bereiten Fahrzeug und Papiere vor. AGGELOS Rentals Paros Antiparos.",
+    title: "MG SUV ZS mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den MG SUV ZS (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

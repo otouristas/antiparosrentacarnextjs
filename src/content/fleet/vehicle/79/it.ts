@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "Monovolume 79 | AGGELOS Rentals · Grecia",
-    description: "Monovolume 79: In sintesi: scegli il punto di ritiro e prepariamo veicolo e documenti. AGGELOS Rentals Paros Antiparos.",
+    title: "Noleggia Volkswagen Transporter 9 Seater a Paros e Antiparos | AGGELOS Rentals",
+    description: "Prenota la Volkswagen Transporter 9 Seater (monovolume) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };

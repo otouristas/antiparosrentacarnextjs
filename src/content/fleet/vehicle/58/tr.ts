@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "ATV 58 | AGGELOS Rentals · Yunanistan",
-    description: "ATV 58: Kısaca: teslim noktasını siz seçersiniz, aracı ve evrakı biz hazırlarız. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Buggy 500cc Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Buggy 500cc (ATV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

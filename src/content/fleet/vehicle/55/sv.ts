@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "Storbil 55 | AGGELOS Rentals · Grekland",
-    description: "Storbil 55: Kort sagt: du väljer mötesplats, vi förbereder fordon och papper. AGGELOS Rentals Paros Antiparos.",
+    title: "Hyr Fiat Doblo 7 Seater på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Fiat Doblo 7 Seater (stor bil) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

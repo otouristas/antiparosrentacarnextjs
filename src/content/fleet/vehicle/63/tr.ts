@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Scooter 63 | AGGELOS Rentals · Yunanistan",
-    description: "Scooter 63: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Scooter 150 cc Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Scooter 150 cc (scooter) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

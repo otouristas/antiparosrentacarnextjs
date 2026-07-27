@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "ATV 83 | AGGELOS Rentals · Griechenland",
-    description: "ATV 83: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "CF Moto UTV ZFORCE 850cc mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den CF Moto UTV ZFORCE 850cc (ATV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Confident stance for coastal and inland drives.",
   ],
   seo: {
-    title: "Rent Crossover Automatic | AGGELOS Rentals",
-    description: "Automatic crossover height for mixed roads and easier post-flight driving. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Hyundai i20 in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Hyundai i20 (crossover) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

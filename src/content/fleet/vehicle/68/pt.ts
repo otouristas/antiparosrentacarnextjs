@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Quad 68 | AGGELOS Rentals · Grécia",
-    description: "Quad 68: Dica local: deixe margem em alta temporada junto ao porto e a Naoussa. AGGELOS Rentals Paros Antiparos.",
+    title: "Alugar Kayo 300cc em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o Kayo 300cc (ATV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "SUV 54 | AGGELOS Rentals · Grécia",
-    description: "SUV 54: Na prática: desde 1994 no porto de Antíparos conhecemos ferries, estacionamento e o trânsito de agosto.",
+    title: "Alugar Mercedes Benz GLB em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o Mercedes Benz GLB (SUV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

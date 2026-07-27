@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "SUV 54 | AGGELOS Rentals · Grekland",
-    description: "SUV 54: I praktiken: sedan 1994 i Antiparos hamn känner vi färjor, parkering och augustitrafik. AGGELOS Rentals Paros Antiparos.",
+    title: "Hyr Mercedes Benz GLB på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Mercedes Benz GLB (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

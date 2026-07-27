@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Practical for shared itineraries across both islands.",
   ],
   seo: {
-    title: "Rent 9 Seater | AGGELOS Rentals",
-    description: "Nine-seat people carrier for larger groups. Confirm live bookability for your dates. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Volkswagen Transporter 9 Seater in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Volkswagen Transporter 9 Seater (people carrier) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

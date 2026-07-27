@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Roller 80 | AGGELOS Rentals · Griechenland",
-    description: "Roller 80: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "Vespa Primavera 125cc mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den Vespa Primavera 125cc (Roller) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

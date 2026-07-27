@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Kompakt 81 | AGGELOS Rentals · Griechenland",
-    description: "Kompakt 81: Praktisch: Seit 1994 am Hafen von Antiparos kennen wir Fähren, Parken und den Augustverkehr. AGGELOS Rentals Paros Antiparos.",
+    title: "Peugeot 208 2024 mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den Peugeot 208 2024 (Kompakt) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

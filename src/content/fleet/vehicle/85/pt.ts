@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similar",
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
-    title: "Descapotável 85 | AGGELOS · Grécia",
-    description: "Descapotável 85: Em resumo: escolhe o ponto de recolha e preparamos o veículo e os documentos. AGGELOS Rentals Paros Antiparos.",
+    title: "Alugar Mini Cooper Cabrio em Paros e Antíparos | AGGELOS Rentals",
+    description: "Reserve o Mini Cooper Cabrio (cabriolé) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

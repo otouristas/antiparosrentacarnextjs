@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Cabrio 73 | AGGELOS Rentals · Griechenland",
-    description: "Cabrio 73: Kurz: Sie wählen den Treffpunkt, wir bereiten Fahrzeug und Papiere vor. AGGELOS Rentals Paros Antiparos.",
+    title: "Peugeot 108 Soft Top mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den Peugeot 108 Soft Top (Cabrio) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

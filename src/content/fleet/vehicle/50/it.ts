@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "Compatta 50 | AGGELOS Rentals · Grecia",
-    description: "Compatta 50: Consiglio locale: lascia margine in alta stagione vicino al porto e a Naoussa. AGGELOS Rentals Paros Antiparos.",
+    title: "Noleggia Fiat Panda a Paros e Antiparos | AGGELOS Rentals",
+    description: "Prenota la Fiat Panda (compatta) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };

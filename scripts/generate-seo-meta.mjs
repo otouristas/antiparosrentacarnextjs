@@ -816,17 +816,17 @@ for (const [slug, byLoc] of Object.entries(cats)) {
 
 // ─── VEHICLES ───────────────────────────────────────────────────────
 const vehicleTitle = {
-  en: (n) => `Rent ${n} | ${BRAND}`,
-  el: (n) => `Ενοικίαση ${n} | ${BRAND}`,
-  fr: (n) => `Louer ${n} | ${BRAND}`,
-  es: (n) => `Alquilar ${n} | ${BRAND}`,
-  it: (n) => `Noleggia ${n} | ${BRAND}`,
-  de: (n) => `${n} mieten | ${BRAND}`,
-  nl: (n) => `${n} huren | ${BRAND}`,
-  sv: (n) => `Hyr ${n} | ${BRAND}`,
-  pt: (n) => `Alugar ${n} | ${BRAND}`,
-  ru: (n) => `Аренда ${n} | ${BRAND}`,
-  tr: (n) => `${n} Kiralama | ${BRAND}`,
+  en: (n) => `Rent ${n} in Paros & Antiparos | ${BRAND}`,
+  el: (n) => `Ενοικίαση ${n} σε Πάρο & Αντίπαρο | ${BRAND}`,
+  fr: (n) => `Louer ${n} à Paros & Antiparos | ${BRAND}`,
+  es: (n) => `Alquilar ${n} en Paros y Antíparos | ${BRAND}`,
+  it: (n) => `Noleggia ${n} a Paros e Antiparos | ${BRAND}`,
+  de: (n) => `${n} mieten auf Paros & Antiparos | ${BRAND}`,
+  nl: (n) => `${n} huren op Paros & Antiparos | ${BRAND}`,
+  sv: (n) => `Hyr ${n} på Paros & Antiparos | ${BRAND}`,
+  pt: (n) => `Alugar ${n} em Paros e Antíparos | ${BRAND}`,
+  ru: (n) => `Аренда ${n} на Паросе и Антипаросе | ${BRAND}`,
+  tr: (n) => `Paros & Antiparos ${n} Kiralama | ${BRAND}`,
 };
 
 const vehicleDesc = {

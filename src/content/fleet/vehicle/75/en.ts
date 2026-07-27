@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Pickup points match the rest of the AGGELOS fleet.",
   ],
   seo: {
-    title: "Rent SUV Manual | AGGELOS Rentals",
-    description: "Manual SUV for luggage, hills, and shared villa weeks on both islands. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Jeep Renegade Manual in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Jeep Renegade Manual (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

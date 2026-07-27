@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similaire",
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
-    title: "Cabriolet 73 | AGGELOS Rentals · Grèce",
-    description: "Cabriolet 73: En clair: vous choisissez le point de retrait, nous préparons le véhicule et les papiers. AGGELOS Rentals Paros Antiparos.",
+    title: "Louer Peugeot 108 Soft Top à Paros & Antiparos | AGGELOS Rentals",
+    description: "Réservez le Peugeot 108 Soft Top (cabriolet) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
     keywords: [],
   },
 };

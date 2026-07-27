@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o similar",
   licence: "Confirmamos la categoría del carnet en la entrega.",
   seo: {
-    title: "Monovolumen 55 | AGGELOS Rentals · Grecia",
-    description: "Monovolumen 55: En resumen: eliges el punto de recogida y preparamos el vehículo y los papeles. AGGELOS Rentals Paros Antiparos.",
+    title: "Alquilar Fiat Doblo 7 Seater en Paros y Antíparos | AGGELOS",
+    description: "Reserve el Fiat Doblo 7 Seater (monovolumen) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita. Empresa familiar desde 1994.",
     keywords: [],
   },
 };

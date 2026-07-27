@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "Кабриолет 85 | AGGELOS Rentals · Греция",
-    description: "Кабриолет 85: Коротко: вы выбираете точку выдачи, мы готовим авто и документы. AGGELOS Rentals Paros Antiparos.",
+    title: "Аренда Mini Cooper Cabrio на Паросе и Антипаросе | AGGELOS",
+    description: "Забронируйте Mini Cooper Cabrio (кабриолет) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

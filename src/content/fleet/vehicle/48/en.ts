@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Right-sized for couples who want simple island mobility.",
   ],
   seo: {
-    title: "Rent Mini Manual | AGGELOS Rentals",
-    description: "Nimble manual mini for village lanes and short island hops with light bags. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Toyota Aygo in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Toyota Aygo (mini) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

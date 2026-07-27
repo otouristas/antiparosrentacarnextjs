@@ -1,6 +1,7 @@
 import { getTranslations } from "next-intl/server";
 import { MapPin } from "lucide-react";
 
+/** Sits directly under the studio image in the left column. */
 export default async function VehicleStory({
   name,
   blurb,
@@ -28,23 +29,25 @@ export default async function VehicleStory({
     t("vehicleDesc", { name });
 
   return (
-    <section className="mt-12 border-t border-navy/10 pt-10">
-      <h2 className="font-display text-2xl font-extrabold text-navy sm:text-3xl">
+    <section className="animate-fade-up-delay">
+      <h2 className="font-display text-xl font-extrabold text-navy sm:text-2xl">
         {t("storyTitle")}
       </h2>
 
-      <p className="mt-4 max-w-prose text-lg leading-relaxed text-ink/75">{body}</p>
+      <p className="mt-3 max-w-prose text-base leading-relaxed text-ink/75 sm:text-lg">
+        {body}
+      </p>
 
       {blurb?.trim() && modelsLine ? (
         <p className="mt-2 text-sm font-medium text-navy/50">{modelsLine}</p>
       ) : null}
 
       {highlights && highlights.length > 0 ? (
-        <ul className="mt-6 max-w-prose space-y-3">
+        <ul className="mt-5 max-w-prose space-y-2.5">
           {highlights.slice(0, 3).map((line) => (
             <li
               key={line}
-              className="flex gap-3 text-base leading-snug text-ink/80"
+              className="flex gap-3 text-[15px] leading-snug text-ink/80"
             >
               <span
                 className="mt-2 h-1.5 w-1.5 shrink-0 rounded-full bg-yellow"
@@ -57,28 +60,28 @@ export default async function VehicleStory({
       ) : null}
 
       {idealFor ? (
-        <p className="mt-6 inline-flex max-w-prose items-start gap-2 border-l-4 border-yellow bg-sand/80 px-4 py-3 text-base text-ink/80">
-          <span className="font-bold text-navy">{tr("idealFor")}:</span>
-          <span>{idealFor}</span>
+        <p className="mt-5 border-l-4 border-yellow pl-4 text-[15px] text-ink/80">
+          <span className="font-bold text-navy">{tr("idealFor")}: </span>
+          {idealFor}
         </p>
       ) : null}
 
       {licence ? (
-        <p className="mt-5 max-w-prose text-sm leading-relaxed text-navy/60">
+        <p className="mt-4 max-w-prose text-sm leading-relaxed text-navy/60">
           <span className="font-bold text-navy">{t("license")}: </span>
           {licence}
         </p>
       ) : null}
 
-      <div className="mt-10 flex gap-4">
-        <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-sm bg-yellow text-navy">
-          <MapPin className="h-5 w-5" strokeWidth={2} aria-hidden />
+      <div className="mt-8 flex gap-3 border-t border-navy/10 pt-6">
+        <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-sm bg-yellow text-navy">
+          <MapPin className="h-4 w-4" strokeWidth={2} aria-hidden />
         </span>
         <div>
-          <h3 className="font-display text-lg font-bold text-navy">
+          <h3 className="font-display text-base font-bold text-navy">
             {t("pickupOptions")}
           </h3>
-          <p className="mt-1.5 max-w-prose text-sm leading-relaxed text-ink/70">
+          <p className="mt-1 max-w-prose text-sm leading-relaxed text-ink/70">
             {t("pickupOptionsBody")}
           </p>
         </div>

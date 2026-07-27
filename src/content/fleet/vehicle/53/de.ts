@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "SUV 53 | AGGELOS Rentals · Griechenland",
-    description: "SUV 53: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "Suzuki Jimny mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den Suzuki Jimny (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

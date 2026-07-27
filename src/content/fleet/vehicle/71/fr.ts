@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similaire",
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
-    title: "Mini 71 | AGGELOS Rentals · Grèce",
-    description: "Mini 71: Conseil local: prévoyez un peu de marge en haute saison près du port et de Naoussa. AGGELOS Rentals Paros Antiparos.",
+    title: "Louer Mitsubishi SpaceStar 2025 à Paros & Antiparos | AGGELOS",
+    description: "Réservez le Mitsubishi SpaceStar 2025 (mini) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
     keywords: [],
   },
 };

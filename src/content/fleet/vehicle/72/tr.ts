@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "Kompakt 72 | AGGELOS Rentals · Yunanistan",
-    description: "Kompakt 72: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Mitsubishi SpaceStar 2025 Kiralama | AGGELOS",
+    description: "Paros ve Antiparos için Mitsubishi SpaceStar 2025 (kompakt) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "SUV 76 | AGGELOS Rentals · Grekland",
-    description: "SUV 76: Kort sagt: du väljer mötesplats, vi förbereder fordon och papper. AGGELOS Rentals Paros Antiparos. Lokal upphämtning på Paros och Antiparos.",
+    title: "Hyr MG SUV ZS på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka MG SUV ZS (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "SUV 75 | AGGELOS Rentals · Grecia",
-    description: "SUV 75: In pratica: dal 1994 al porto di Antiparos conosciamo traghetti, parcheggi e il traffico di agosto. AGGELOS Rentals Paros Antiparos.",
+    title: "Noleggia Jeep Renegade Manual a Paros e Antiparos | AGGELOS",
+    description: "Prenota la Jeep Renegade Manual (SUV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };

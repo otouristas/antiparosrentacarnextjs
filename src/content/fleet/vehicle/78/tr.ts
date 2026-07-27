@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "SUV 78 | AGGELOS Rentals · Yunanistan",
-    description: "SUV 78: Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz. AGGELOS Rentals Paros Antiparos.",
+    title: "Paros & Antiparos Jeep Renegade 4x4 Full Extra Panorama Open Roof Kiralama | AGGELOS Rentals",
+    description: "Paros ve Antiparos için Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

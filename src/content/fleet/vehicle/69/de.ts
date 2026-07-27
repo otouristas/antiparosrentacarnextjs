@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "ATV 69 | AGGELOS Rentals · Griechenland",
-    description: "ATV 69: Praktisch: Seit 1994 am Hafen von Antiparos kennen wir Fähren, Parken und den Augustverkehr. AGGELOS Rentals Paros Antiparos.",
+    title: "ATV 450cc mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den ATV 450cc (ATV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

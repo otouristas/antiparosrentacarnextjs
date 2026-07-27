@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "SUV 77 | AGGELOS Rentals · Griechenland",
-    description: "SUV 77: Tipp: Im Hochsommer etwas Zeitpuffer nahe Hafen und Naoussa einplanen. AGGELOS Rentals Paros Antiparos.",
+    title: "Jeep Renegade UPLAND Hybrid 4xe mieten auf Paros & Antiparos | AGGELOS Rentals",
+    description: "Buchen Sie den Jeep Renegade UPLAND Hybrid 4xe (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

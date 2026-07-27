@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Ideal when parking space is tight in peak weeks.",
   ],
   seo: {
-    title: "Rent Scooter 150cc | AGGELOS Rentals",
-    description: "150cc scooter for stronger island loops between beaches and the port. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Scooter 150 cc in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Scooter 150 cc (scooter) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

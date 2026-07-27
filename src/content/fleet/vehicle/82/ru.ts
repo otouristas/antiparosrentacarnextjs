@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "ATV 82 | AGGELOS Rentals · Греция",
-    description: "ATV 82: Коротко: вы выбираете точку выдачи, мы готовим авто и документы. AGGELOS Rentals Paros Antiparos. Локальная выдача на Паросе и Антипаросе.",
+    title: "Аренда Kymco Mxu550i на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Kymco Mxu550i (ATV) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

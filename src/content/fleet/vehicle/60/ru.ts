@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "Мини 60 | AGGELOS Rentals · Греция",
-    description: "Мини 60: На практике: с 1994 года в порту Антипароса мы знаем паромы, парковку и августовские пробки. AGGELOS Rentals Paros Antiparos.",
+    title: "Аренда Skoda Citigo Automatic на Паросе и Антипаросе | AGGELOS",
+    description: "Забронируйте Skoda Citigo Automatic (мини) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

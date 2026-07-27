@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "Кроссовер 52 | AGGELOS Rentals · Греция",
-    description: "Кроссовер 52: Коротко: вы выбираете точку выдачи, мы готовим авто и документы. AGGELOS Rentals Paros Antiparos.",
+    title: "Аренда Hyundai i20 на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Hyundai i20 (кроссовер) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

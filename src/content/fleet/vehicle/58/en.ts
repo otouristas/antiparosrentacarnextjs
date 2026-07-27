@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Briefing at pickup so you leave confident on island terrain.",
   ],
   seo: {
-    title: "Rent Buggy 500cc | AGGELOS Rentals",
-    description: "Buggy fun with a more planted feel for two-up adventure near the coast. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Buggy 500cc in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Buggy 500cc (ATV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

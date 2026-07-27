@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ή παρόμοιο",
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
-    title: "Πολυθέσιο 79 | AGGELOS Rentals · Ελλάδα",
-    description: "Πολυθέσιο 79: Με απλά λόγια: μεταφέρουμε την εμπειρία μας από το 1994 στο λιμάνι της Αντιπάρου ώστε να σχεδιάσετε σωστά την ημέρα σας.",
+    title: "Ενοικίαση Volkswagen Transporter 9 Seater σε Πάρο & Αντίπαρο | AGGELOS Rentals",
+    description: "Κλείστε το Volkswagen Transporter 9 Seater (πολυθέσιο) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
     keywords: [],
   },
 };

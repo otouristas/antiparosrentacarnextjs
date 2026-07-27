@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "Pickup points match the rest of the AGGELOS fleet.",
   ],
   seo: {
-    title: "Rent SUV Open Top Automatic | AGGELOS Rentals",
-    description: "Open-top automatic SUV for sunny runs when you want air and elevation. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Jeep Renegade 4x4 Full Extra Panorama Open Roof in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

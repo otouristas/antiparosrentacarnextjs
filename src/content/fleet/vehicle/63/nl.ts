@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "Scooter 63 | AGGELOS Rentals · Griekenland",
-    description: "Scooter 63: In de praktijk: sinds 1994 in de haven van Antiparos kennen we veerboten, parkeren en augustusdrukte.",
+    title: "Scooter 150 cc huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de Scooter 150 cc (scooter) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

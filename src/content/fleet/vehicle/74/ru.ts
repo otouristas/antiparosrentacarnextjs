@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "или аналог",
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
-    title: "Кабриолет 74 | AGGELOS Rentals · Греция",
-    description: "Кабриолет 74: Совет: заложите запас времени в пик сезона у порта и Науссы. AGGELOS Rentals Paros Antiparos. Локальная выдача на Паросе и Антипаросе.",
+    title: "Аренда Fiat 500c Hybrid на Паросе и Антипаросе | AGGELOS Rentals",
+    description: "Забронируйте Fiat 500c Hybrid (кабриолет) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
     keywords: [],
   },
 };

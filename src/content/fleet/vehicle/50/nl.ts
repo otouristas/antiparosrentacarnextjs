@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "of vergelijkbaar",
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
-    title: "Compact 50 | AGGELOS Rentals · Griekenland",
-    description: "Compact 50: Tip: plan in het hoogseizoen extra tijd nabij haven en Naoussa. AGGELOS Rentals Paros Antiparos. Lokale ophaalservice op Paros en Antiparos.",
+    title: "Fiat Panda huren op Paros & Antiparos | AGGELOS Rentals",
+    description: "Boek de Fiat Panda (compact) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
     keywords: [],
   },
 };

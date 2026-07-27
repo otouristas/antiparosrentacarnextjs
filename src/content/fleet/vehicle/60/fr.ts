@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similaire",
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
-    title: "Mini 60 | AGGELOS Rentals · Grèce",
-    description: "Mini 60: En pratique: depuis 1994 au port d'Antiparos, nous connaissons ferries, parkings et embouteillages d'août.",
+    title: "Louer Skoda Citigo Automatic à Paros & Antiparos | AGGELOS",
+    description: "Réservez le Skoda Citigo Automatic (mini) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
     keywords: [],
   },
 };

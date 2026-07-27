@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ή παρόμοιο",
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
-    title: "Crossover 84 | AGGELOS Rentals · Ελλάδα",
-    description: "Crossover 84: Στην πράξη: μεταφέρουμε την εμπειρία μας από το 1994 στο λιμάνι της Αντιπάρου ώστε να σχεδιάσετε σωστά την ημέρα σας.",
+    title: "Ενοικίαση Citroen C3 σε Πάρο & Αντίπαρο | AGGELOS Rentals",
+    description: "Κλείστε το Citroen C3 (crossover) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
     keywords: [],
   },
 };

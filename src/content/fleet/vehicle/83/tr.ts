@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "veya benzeri",
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
-    title: "ATV 83 | AGGELOS Rentals · Yunanistan",
-    description: "ATV 83: İpucu: yüksek sezonda liman ve Naoussa yakınında zaman payı bırakın. AGGELOS Rentals Paros Antiparos. Paros ve Antiparos’ta yerel teslim.",
+    title: "Paros & Antiparos CF Moto UTV ZFORCE 850cc Kiralama | AGGELOS",
+    description: "Paros ve Antiparos için CF Moto UTV ZFORCE 850cc (ATV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "oder ähnlich",
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
-    title: "Kleinwagen 60 | AGGELOS Rentals · Griechenland",
-    description: "Kleinwagen 60: Praktisch: Seit 1994 am Hafen von Antiparos kennen wir Fähren, Parken und den Augustverkehr. AGGELOS Rentals Paros Antiparos.",
+    title: "Skoda Citigo Automatic mieten auf Paros & Antiparos | AGGELOS",
+    description: "Buchen Sie den Skoda Citigo Automatic (Kleinwagen) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
     keywords: [],
   },
 };

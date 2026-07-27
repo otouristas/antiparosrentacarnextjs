@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "Cabrio 73 | AGGELOS Rentals · Grekland",
-    description: "Cabrio 73: Kort sagt: du väljer mötesplats, vi förbereder fordon och papper. AGGELOS Rentals Paros Antiparos. Lokal upphämtning på Paros och Antiparos.",
+    title: "Hyr Peugeot 108 Soft Top på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Peugeot 108 Soft Top (cabriolet) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ή παρόμοιο",
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
-    title: "SUV 78 | AGGELOS Rentals · Ελλάδα",
-    description: "SUV 78: Στην πράξη: μεταφέρουμε την εμπειρία μας από το 1994 στο λιμάνι της Αντιπάρου ώστε να σχεδιάσετε σωστά την ημέρα σας.",
+    title: "Ενοικίαση Jeep Renegade 4x4 Full Extra Panorama Open Roof σε Πάρο & Αντίπαρο | AGGELOS Rentals",
+    description: "Κλείστε το Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
     keywords: [],
   },
 };

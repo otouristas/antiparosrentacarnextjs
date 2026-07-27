@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "ou similaire",
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
-    title: "Quad 58 | AGGELOS Rentals · Grèce",
-    description: "Quad 58: En clair: vous choisissez le point de retrait, nous préparons le véhicule et les papiers. AGGELOS Rentals Paros Antiparos.",
+    title: "Louer Buggy 500cc à Paros & Antiparos | AGGELOS Rentals",
+    description: "Réservez le Buggy 500cc (quad) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
     keywords: [],
   },
 };

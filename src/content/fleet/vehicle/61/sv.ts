@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "eller liknande",
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
-    title: "Scooter 61 | AGGELOS Rentals · Grekland",
-    description: "Scooter 61: Kort sagt: du väljer mötesplats, vi förbereder fordon och papper. AGGELOS Rentals Paros Antiparos.",
+    title: "Hyr Scooter 50cc på Paros & Antiparos | AGGELOS Rentals",
+    description: "Boka Scooter 50cc (scooter) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
     keywords: [],
   },
 };

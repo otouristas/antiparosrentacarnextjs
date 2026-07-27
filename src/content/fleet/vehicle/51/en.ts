@@ -12,8 +12,8 @@ export const copy: VehicleCopy = {
     "A memorable way to link beaches and harbour towns.",
   ],
   seo: {
-    title: "Rent Convertible Manual | AGGELOS Rentals",
-    description: "Manual soft-top for coastal evenings and light-luggage couple travel. Book with AGGELOS Rentals on Paros and Antiparos with clear pickup points.",
+    title: "Rent Fiat 500C in Paros & Antiparos | AGGELOS Rentals",
+    description: "Book the Fiat 500C (convertible) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
     keywords: [],
   },
 };

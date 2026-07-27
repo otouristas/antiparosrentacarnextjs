@@ -7,8 +7,8 @@ export const copy: VehicleCopy = {
   orSimilar: "o simile",
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
-    title: "Quad 69 | AGGELOS Rentals · Grecia",
-    description: "Quad 69: In pratica: dal 1994 al porto di Antiparos conosciamo traghetti, parcheggi e il traffico di agosto. AGGELOS Rentals Paros Antiparos.",
+    title: "Noleggia ATV 450cc a Paros e Antiparos | AGGELOS Rentals",
+    description: "Prenota la ATV 450cc (ATV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
     keywords: [],
   },
 };
