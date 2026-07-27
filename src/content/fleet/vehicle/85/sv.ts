@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
     title: "Hyr Mini Cooper Cabrio på Paros & Antiparos | AGGELOS Rentals",
-    description: "Boka Mini Cooper Cabrio (cabriolet) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
+    description: "Boka Mini Cooper Cabrio (cabriolet) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning.",
     keywords: [],
   },
 };

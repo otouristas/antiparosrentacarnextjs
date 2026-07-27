@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
     title: "Mitsubishi SpaceStar 2025 huren op Paros & Antiparos | AGGELOS",
-    description: "Boek de Mitsubishi SpaceStar 2025 (mini) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
+    description: "Boek de Mitsubishi SpaceStar 2025 (mini) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren.",
     keywords: [],
   },
 };

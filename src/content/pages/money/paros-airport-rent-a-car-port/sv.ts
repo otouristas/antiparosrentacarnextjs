@@ -3,8 +3,8 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "sv",
   seo: {
-    title: "Paros Airport Rent a Car 2026 | PAS Pickup | AGGELOS",
-    description: "Paros airport rent a car at PAS with AGGELOS Rentals. Book online for fast terminal pickup, competitive rates and local support since 1994.",
+    title: "Hyrbil Paros flygplats PAS 2026 | AGGELOS",
+    description: "Hämta bilen på Paros flygplats (PAS) med AGGELOS Rentals. Boka online: snabb överlämning, tydliga priser och lokalt team sedan 1994.",
     keywords: [],
   },
   h1: "Paros flygplatsbil i Grekland",

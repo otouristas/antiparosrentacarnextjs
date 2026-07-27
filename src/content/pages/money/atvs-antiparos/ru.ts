@@ -3,7 +3,7 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "ru",
   seo: {
-    title: "Прокат квадроциклов и багги на Антипаросе – AGGELOS",
+    title: "Прокат квадроциклов и багги на Антипаросе | AGGELOS",
     description: "Исследуйте Антипарос на наших лучших квадроциклах! Квадрики и багги для приключений. Бронируйте онлайн с AGGELOS Rentals.",
     keywords: [],
   },

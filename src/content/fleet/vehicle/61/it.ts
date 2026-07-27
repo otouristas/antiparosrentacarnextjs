@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
     title: "Noleggia Scooter 50cc a Paros e Antiparos | AGGELOS Rentals",
-    description: "Prenota la Scooter 50cc (scooter) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
+    description: "Prenota la Scooter 50cc (scooter) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita.",
     keywords: [],
   },
 };

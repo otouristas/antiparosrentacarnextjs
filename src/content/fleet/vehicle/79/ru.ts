@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
     title: "Аренда Volkswagen Transporter 9 Seater на Паросе и Антипаросе | AGGELOS Rentals",
-    description: "Забронируйте Volkswagen Transporter 9 Seater (вместительный) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
+    description: "Забронируйте Volkswagen Transporter 9 Seater (вместительный) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена.",
     keywords: [],
   },
 };

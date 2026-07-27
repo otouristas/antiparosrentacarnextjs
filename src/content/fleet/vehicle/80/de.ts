@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
     title: "Vespa Primavera 125cc mieten auf Paros & Antiparos | AGGELOS",
-    description: "Buchen Sie den Vespa Primavera 125cc (Roller) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
+    description: "Buchen Sie den Vespa Primavera 125cc (Roller) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar.",
     keywords: [],
   },
 };

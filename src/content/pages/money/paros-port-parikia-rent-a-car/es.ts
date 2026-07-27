@@ -3,8 +3,8 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "es",
   seo: {
-    title: "Paros Port Rent a Car Parikia | Ferry Pickup | AGGELOS",
-    description: "Paros port rent a car at Parikia ferry terminal with AGGELOS Rentals. Book online for fast port pickup, competitive rates and local support since 1994.",
+    title: "Alquiler puerto Paros Parikia | Ferry | AGGELOS",
+    description: "Recoja cerca del ferry en Parikia con AGGELOS Rentals. Reserve online: punto de encuentro claro, tarifas netas y equipo local desde 1994.",
     keywords: [],
   },
   h1: "Alquiler puerto Parikia en Grecia",

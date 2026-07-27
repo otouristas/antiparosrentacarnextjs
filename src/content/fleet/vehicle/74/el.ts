@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
     title: "Ενοικίαση Fiat 500c Hybrid σε Πάρο & Αντίπαρο | AGGELOS Rentals",
-    description: "Κλείστε το Fiat 500c Hybrid (cabrio) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
+    description: "Κλείστε το Fiat 500c Hybrid (cabrio) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση.",
     keywords: [],
   },
 };

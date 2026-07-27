@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
     title: "Аренда Citroen C3 на Паросе и Антипаросе | AGGELOS Rentals",
-    description: "Забронируйте Citroen C3 (кроссовер) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
+    description: "Забронируйте Citroen C3 (кроссовер) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена.",
     keywords: [],
   },
 };

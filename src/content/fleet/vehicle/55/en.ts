@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent Fiat Doblo 7 Seater in Paros & Antiparos | AGGELOS Rentals",
-    description: "Book the Fiat Doblo 7 Seater (people carrier) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the Fiat Doblo 7 Seater (people carrier) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

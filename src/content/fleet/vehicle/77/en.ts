@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent Jeep Renegade UPLAND Hybrid 4xe in Paros & Antiparos | AGGELOS Rentals",
-    description: "Book the Jeep Renegade UPLAND Hybrid 4xe (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the Jeep Renegade UPLAND Hybrid 4xe (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

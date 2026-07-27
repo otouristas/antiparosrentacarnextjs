@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
     title: "Hyr Vespa Primavera 125cc på Paros & Antiparos | AGGELOS Rentals",
-    description: "Boka Vespa Primavera 125cc (scooter) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
+    description: "Boka Vespa Primavera 125cc (scooter) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning.",
     keywords: [],
   },
 };

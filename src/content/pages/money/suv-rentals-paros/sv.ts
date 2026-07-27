@@ -3,7 +3,7 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "sv",
   seo: {
-    title: "SUV Rentals Paros | Jeep & Mercedes | AGGELOS",
+    title: "Hyr SUV Paros | Jeep och Mercedes | AGGELOS",
     description: "Hyr en premium-SUV på Paros med AGGELOS Rentals. Toppmodeller som Mercedes-Benz GLB och Jeep Renegade. Boka din SUV online idag!",
     keywords: [],
   },

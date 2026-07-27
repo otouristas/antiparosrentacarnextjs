@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent Mercedes Benz GLB in Paros & Antiparos | AGGELOS Rentals",
-    description: "Book the Mercedes Benz GLB (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the Mercedes Benz GLB (SUV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

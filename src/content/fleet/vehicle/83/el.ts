@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
     title: "Ενοικίαση CF Moto UTV ZFORCE 850cc σε Πάρο & Αντίπαρο | AGGELOS",
-    description: "Κλείστε το CF Moto UTV ZFORCE 850cc (ATV) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
+    description: "Κλείστε το CF Moto UTV ZFORCE 850cc (ATV) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση.",
     keywords: [],
   },
 };

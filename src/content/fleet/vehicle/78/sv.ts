@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
     title: "Hyr Jeep Renegade 4x4 Full Extra Panorama Open Roof på Paros & Antiparos | AGGELOS Rentals",
-    description: "Boka Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
+    description: "Boka Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning.",
     keywords: [],
   },
 };

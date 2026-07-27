@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos la categoría del carnet en la entrega.",
   seo: {
     title: "Alquilar Vespa Primavera 125cc en Paros y Antíparos | AGGELOS",
-    description: "Reserve el Vespa Primavera 125cc (scooter) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita. Empresa familiar desde 1994.",
+    description: "Reserve el Vespa Primavera 125cc (scooter) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita.",
     keywords: [],
   },
 };

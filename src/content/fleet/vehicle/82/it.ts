@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
     title: "Noleggia Kymco Mxu550i a Paros e Antiparos | AGGELOS Rentals",
-    description: "Prenota la Kymco Mxu550i (ATV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
+    description: "Prenota la Kymco Mxu550i (ATV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita.",
     keywords: [],
   },
 };

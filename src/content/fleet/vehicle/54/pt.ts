@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
     title: "Alugar Mercedes Benz GLB em Paros e Antíparos | AGGELOS Rentals",
-    description: "Reserve o Mercedes Benz GLB (SUV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
+    description: "Reserve o Mercedes Benz GLB (SUV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis.",
     keywords: [],
   },
 };

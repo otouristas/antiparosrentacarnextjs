@@ -3,8 +3,8 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "it",
   seo: {
-    title: "Paros Airport Rent a Car 2026 | PAS Pickup | AGGELOS",
-    description: "Paros airport rent a car at PAS with AGGELOS Rentals. Book online for fast terminal pickup, competitive rates and local support since 1994.",
+    title: "Noleggio aeroporto Paros PAS 2026 | AGGELOS",
+    description: "Ritira l'auto all'aeroporto di Paros (PAS) con AGGELOS Rentals. Prenota online: consegna rapida, tariffe chiare e team locale dal 1994.",
     keywords: [],
   },
   h1: "Noleggio aeroporto Paros in Grecia",

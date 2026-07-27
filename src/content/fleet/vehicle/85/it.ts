@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
     title: "Noleggia Mini Cooper Cabrio a Paros e Antiparos | AGGELOS Rentals",
-    description: "Prenota la Mini Cooper Cabrio (cabrio) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
+    description: "Prenota la Mini Cooper Cabrio (cabrio) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita.",
     keywords: [],
   },
 };

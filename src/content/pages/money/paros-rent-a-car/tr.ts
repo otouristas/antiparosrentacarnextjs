@@ -4,7 +4,7 @@ export const copy: PageCopy = {
   locale: "tr",
   seo: {
     title: "Paros'ta Araba & Motor Kiralama | AGGELOS Rentals",
-    description: "Rent a car on Paros island with AGGELOS Rentals. Book online in 60 seconds for airport, port and island pickup with trusted local service since 1994.",
+    description: "Paros’ta AGGELOS Rentals ile araç kiralayın. Havalimanı, liman ve ada teslimi için 60 saniyede online ayırtın; 1994’ten beri yerel hizmet.",
     keywords: [],
   },
   h1: "Paros Araç Kiralama Yunanistan’da",

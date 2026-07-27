@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
     title: "Paros & Antiparos Jeep Renegade Manual Kiralama | AGGELOS Rentals",
-    description: "Paros ve Antiparos için Jeep Renegade Manual (SUV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
+    description: "Paros ve Antiparos için Jeep Renegade Manual (SUV) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal.",
     keywords: [],
   },
 };

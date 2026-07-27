@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
     title: "Hyr Mitsubishi SpaceStar 2025 på Paros & Antiparos | AGGELOS",
-    description: "Boka Mitsubishi SpaceStar 2025 (kompakt) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
+    description: "Boka Mitsubishi SpaceStar 2025 (kompakt) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning.",
     keywords: [],
   },
 };

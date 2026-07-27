@@ -3,7 +3,7 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "nl",
   seo: {
-    title: "ATV-verhuur op Antiparos | Quad- en buggyverhuur – AGGELOS",
+    title: "ATV-verhuur op Antiparos | Quad- en buggyverhuur | AGGELOS",
     description: "Ontdek Antiparos met onze best beoordeelde ATV-verhuur! De beste quads en buggy's voor je eilandavontuur. Boek vandaag nog online bij AGGELOS Rentals.",
     keywords: [],
   },

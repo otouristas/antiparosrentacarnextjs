@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
     title: "Louer Skoda Citigo Automatic à Paros & Antiparos | AGGELOS",
-    description: "Réservez le Skoda Citigo Automatic (mini) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
+    description: "Réservez le Skoda Citigo Automatic (mini) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite.",
     keywords: [],
   },
 };

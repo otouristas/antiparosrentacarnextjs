@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
     title: "Louer Peugeot 208 à Paros & Antiparos | AGGELOS Rentals",
-    description: "Réservez le Peugeot 208 (compacte) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
+    description: "Réservez le Peugeot 208 (compacte) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite.",
     keywords: [],
   },
 };

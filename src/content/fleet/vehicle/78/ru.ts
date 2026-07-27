@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
     title: "Аренда Jeep Renegade 4x4 Full Extra Panorama Open Roof на Паросе и Антипаросе | AGGELOS Rentals",
-    description: "Забронируйте Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
+    description: "Забронируйте Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals.",
     keywords: [],
   },
 };

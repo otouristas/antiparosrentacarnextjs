@@ -66,7 +66,7 @@ export const copy: PageCopy = {
   related: [
     { to: 'legal/privacy-policy', anchor: 'Privacybeleid' },
     { to: 'legal/terms-conditions', anchor: 'Algemene voorwaarden' },
-    { to: 'contact/contact', anchor: 'Contact AGGELOS Rentals' },
+    { to: 'contact/contact', anchor: 'Neem contact op met AGGELOS Rentals' },
     { to: 'home', anchor: 'Terug naar home' },
   ],
   finalCta: {

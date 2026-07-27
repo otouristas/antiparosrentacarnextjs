@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
     title: "Jeep Renegade UPLAND Hybrid 4xe mieten auf Paros & Antiparos | AGGELOS Rentals",
-    description: "Buchen Sie den Jeep Renegade UPLAND Hybrid 4xe (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
+    description: "Buchen Sie den Jeep Renegade UPLAND Hybrid 4xe (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar.",
     keywords: [],
   },
 };

@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
     title: "Alugar Fiat 500C em Paros e Antíparos | AGGELOS Rentals",
-    description: "Reserve o Fiat 500C (cabriolé) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
+    description: "Reserve o Fiat 500C (cabriolé) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis.",
     keywords: [],
   },
 };

@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
     title: "Alugar Peugeot 208 2024 em Paros e Antíparos | AGGELOS Rentals",
-    description: "Reserve o Peugeot 208 2024 (compacto) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
+    description: "Reserve o Peugeot 208 2024 (compacto) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis.",
     keywords: [],
   },
 };

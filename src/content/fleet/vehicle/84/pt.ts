@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
     title: "Alugar Citroen C3 em Paros e Antíparos | AGGELOS Rentals",
-    description: "Reserve o Citroen C3 (crossover) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
+    description: "Reserve o Citroen C3 (crossover) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis.",
     keywords: [],
   },
 };

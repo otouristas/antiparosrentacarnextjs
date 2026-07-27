@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
     title: "Vespa Primavera 125cc huren op Paros & Antiparos | AGGELOS",
-    description: "Boek de Vespa Primavera 125cc (scooter) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
+    description: "Boek de Vespa Primavera 125cc (scooter) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren.",
     keywords: [],
   },
 };

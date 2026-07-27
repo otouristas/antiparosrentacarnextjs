@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos a categoria da carta na recolha.",
   seo: {
     title: "Alugar Jeep Renegade 4x4 Full Extra Panorama Open Roof em Paros e Antíparos | AGGELOS Rentals",
-    description: "Reserve o Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals. Cancelamento grátis. Empresa familiar desde 1994.",
+    description: "Reserve o Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) para Paros e Antíparos. Recolha no porto, aeroporto ou villa com a AGGELOS Rentals.",
     keywords: [],
   },
 };

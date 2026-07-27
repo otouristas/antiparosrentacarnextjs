@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
     title: "Аренда Skoda Citigo Automatic на Паросе и Антипаросе | AGGELOS",
-    description: "Забронируйте Skoda Citigo Automatic (мини) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
+    description: "Забронируйте Skoda Citigo Automatic (мини) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена.",
     keywords: [],
   },
 };

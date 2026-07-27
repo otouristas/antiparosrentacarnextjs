@@ -4,7 +4,7 @@ export const copy: PageCopy = {
   locale: "it",
   seo: {
     title: "Noleggio Auto e Moto a Paros | AGGELOS Rentals",
-    description: "Rent a car on Paros island with AGGELOS Rentals. Book online in 60 seconds for airport, port and island pickup with trusted local service since 1994.",
+    description: "Noleggia un'auto a Paros con AGGELOS Rentals. Prenota online in 60 secondi per aeroporto, porto e consegna sull'isola, servizio locale dal 1994.",
     keywords: [],
   },
   h1: "Noleggio Paros in Grecia",

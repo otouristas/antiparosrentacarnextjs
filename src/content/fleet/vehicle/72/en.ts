@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent Mitsubishi SpaceStar 2025 in Paros & Antiparos | AGGELOS",
-    description: "Book the Mitsubishi SpaceStar 2025 (compact) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the Mitsubishi SpaceStar 2025 (compact) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

@@ -4,7 +4,7 @@ export const copy: PageCopy = {
   locale: "sv",
   seo: {
     title: "Hyr Bil & Moped på Paros | AGGELOS Rentals",
-    description: "Rent a car on Paros island with AGGELOS Rentals. Book online in 60 seconds for airport, port and island pickup with trusted local service since 1994.",
+    description: "Hyr en bil på Paros hos AGGELOS Rentals. Boka online på 60 sekunder för flygplats, hamn och öleverans, lokal service sedan 1994.",
     keywords: [],
   },
   h1: "Hyrbil Paros i Grekland",

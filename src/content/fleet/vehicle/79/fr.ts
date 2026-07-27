@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
     title: "Louer Volkswagen Transporter 9 Seater à Paros & Antiparos | AGGELOS Rentals",
-    description: "Réservez le Volkswagen Transporter 9 Seater (monospace) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
+    description: "Réservez le Volkswagen Transporter 9 Seater (monospace) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite.",
     keywords: [],
   },
 };

@@ -3,7 +3,7 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "tr",
   seo: {
-    title: "Antiparos ATV Kiralama | ATV ve Buggy Kiralama – AGGELOS",
+    title: "Antiparos ATV Kiralama | ATV ve Buggy Kiralama | AGGELOS",
     description: "En iyi ATV'lerimizle Antiparos'u keşfedin! Ada maceranız için en iyi quad ve buggy'ler. AGGELOS Rentals ile online ayırtın.",
     keywords: [],
   },

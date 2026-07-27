@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent CF Moto UTV ZFORCE 850cc in Paros & Antiparos | AGGELOS",
-    description: "Book the CF Moto UTV ZFORCE 850cc (ATV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the CF Moto UTV ZFORCE 850cc (ATV) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

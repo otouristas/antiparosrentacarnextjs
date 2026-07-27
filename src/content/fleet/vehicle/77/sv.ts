@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Vi kontrollerar körkortskategori vid upphämtning.",
   seo: {
     title: "Hyr Jeep Renegade UPLAND Hybrid 4xe på Paros & Antiparos | AGGELOS Rentals",
-    description: "Boka Jeep Renegade UPLAND Hybrid 4xe (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning. Familjeföretag sedan 1994.",
+    description: "Boka Jeep Renegade UPLAND Hybrid 4xe (SUV) för Paros och Antiparos. Hämtning i hamn, flygplats eller villa hos AGGELOS Rentals. Fri avbokning.",
     keywords: [],
   },
 };

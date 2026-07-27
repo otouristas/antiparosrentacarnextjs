@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "We controleren de rijbewijscategorie bij ophalen.",
   seo: {
     title: "Fiat 500c Hybrid huren op Paros & Antiparos | AGGELOS Rentals",
-    description: "Boek de Fiat 500c Hybrid (cabrio) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren. Familiebedrijf sinds 1994.",
+    description: "Boek de Fiat 500c Hybrid (cabrio) voor Paros en Antiparos. Ophalen in haven, luchthaven of villa bij AGGELOS Rentals. Gratis annuleren.",
     keywords: [],
   },
 };

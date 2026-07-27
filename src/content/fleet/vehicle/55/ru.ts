@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Мы проверяем категорию прав при выдаче.",
   seo: {
     title: "Аренда Fiat Doblo 7 Seater на Паросе и Антипаросе | AGGELOS",
-    description: "Забронируйте Fiat Doblo 7 Seater (вместительный) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена. Семейный бизнес с 1994 года.",
+    description: "Забронируйте Fiat Doblo 7 Seater (вместительный) для Пароса и Антипароса. Подача в порт, аэропорт или к вилле у AGGELOS Rentals. Бесплатная отмена.",
     keywords: [],
   },
 };

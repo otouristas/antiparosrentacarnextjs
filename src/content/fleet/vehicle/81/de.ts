@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
     title: "Peugeot 208 2024 mieten auf Paros & Antiparos | AGGELOS Rentals",
-    description: "Buchen Sie den Peugeot 208 2024 (Kompakt) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
+    description: "Buchen Sie den Peugeot 208 2024 (Kompakt) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar.",
     keywords: [],
   },
 };

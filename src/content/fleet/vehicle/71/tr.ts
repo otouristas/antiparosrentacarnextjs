@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Teslimde ehliyet sınıfını kontrol ederiz.",
   seo: {
     title: "Paros & Antiparos Mitsubishi SpaceStar 2025 Kiralama | AGGELOS",
-    description: "Paros ve Antiparos için Mitsubishi SpaceStar 2025 (mini) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal. 1994’ten beri aile işletmesi.",
+    description: "Paros ve Antiparos için Mitsubishi SpaceStar 2025 (mini) ayırtın. AGGELOS Rentals ile liman, havalimanı veya villa teslimi. Ücretsiz iptal.",
     keywords: [],
   },
 };

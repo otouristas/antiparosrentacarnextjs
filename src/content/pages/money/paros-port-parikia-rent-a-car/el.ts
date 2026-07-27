@@ -3,8 +3,8 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "el",
   seo: {
-    title: "Ενοικίαση Αυτοκινήτου Λιμάνι Πάρου Παροικία | AGGELOS Rentals",
-    description: "Ενοικίαση αυτοκινήτου στο λιμάνι Παροικίας με την AGGELOS Rentals. Γρήγορη παραλαβή από το φέρι, καλές τιμές και τοπική υποστήριξη από το 1994.",
+    title: "Ενοικίαση λιμάνι Πάρου Παροικία | Ferry | AGGELOS",
+    description: "Παραλάβετε κοντά στο φέρι στην Παροικία με AGGELOS Rentals. Κλείστε online: καθαρό σημείο συνάντησης, τιμές χωρίς κρυφά και τοπική ομάδα από το 1994.",
     keywords: [],
   },
   h1: "Ενοικίαση στο λιμάνι Παροικιάς στην Ελλάδα",

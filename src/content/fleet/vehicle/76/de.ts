@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Wir prüfen die Führerscheinklasse bei der Übergabe.",
   seo: {
     title: "MG SUV ZS mieten auf Paros & Antiparos | AGGELOS Rentals",
-    description: "Buchen Sie den MG SUV ZS (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar. Familiengeführt seit 1994.",
+    description: "Buchen Sie den MG SUV ZS (SUV) für Paros und Antiparos. Abholung Hafen, Flughafen oder Villa bei AGGELOS Rentals. Kostenfrei stornierbar.",
     keywords: [],
   },
 };

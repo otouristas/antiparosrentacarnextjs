@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Confirmamos la categoría del carnet en la entrega.",
   seo: {
     title: "Alquilar Kymco Mxu550i en Paros y Antíparos | AGGELOS Rentals",
-    description: "Reserve el Kymco Mxu550i (ATV) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita. Empresa familiar desde 1994.",
+    description: "Reserve el Kymco Mxu550i (ATV) para Paros y Antíparos. Recogida en puerto, aeropuerto o villa con AGGELOS Rentals. Cancelación gratuita.",
     keywords: [],
   },
 };

@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
     title: "Noleggia Jeep Renegade 4x4 Full Extra Panorama Open Roof a Paros e Antiparos | AGGELOS Rentals",
-    description: "Prenota la Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
+    description: "Prenota la Jeep Renegade 4x4 Full Extra Panorama Open Roof (SUV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals.",
     keywords: [],
   },
 };

@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Verifichiamo la categoria della patente al ritiro.",
   seo: {
     title: "Noleggia CF Moto UTV ZFORCE 850cc a Paros e Antiparos | AGGELOS",
-    description: "Prenota la CF Moto UTV ZFORCE 850cc (ATV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita. Azienda familiare dal 1994.",
+    description: "Prenota la CF Moto UTV ZFORCE 850cc (ATV) per Paros e Antiparos. Ritiro al porto, aeroporto o villa con AGGELOS Rentals. Cancellazione gratuita.",
     keywords: [],
   },
 };

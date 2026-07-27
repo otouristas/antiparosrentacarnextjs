@@ -3,7 +3,7 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "it",
   seo: {
-    title: "SUV Rentals Paros | Jeep & Mercedes | AGGELOS",
+    title: "Noleggio SUV Paros | Jeep e Mercedes | AGGELOS",
     description: "Noleggia un SUV premium a Paros con AGGELOS Rentals. Modelli top come Mercedes-Benz GLB e Jeep Renegade. Prenota il tuo SUV online oggi!",
     keywords: [],
   },

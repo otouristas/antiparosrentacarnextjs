@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Nous vérifions la catégorie de permis au retrait.",
   seo: {
     title: "Louer Hyundai i20 à Paros & Antiparos | AGGELOS Rentals",
-    description: "Réservez le Hyundai i20 (crossover) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite. Entreprise familiale depuis 1994.",
+    description: "Réservez le Hyundai i20 (crossover) pour Paros et Antiparos. Retrait port, aéroport ou villa avec AGGELOS Rentals. Annulation gratuite.",
     keywords: [],
   },
 };

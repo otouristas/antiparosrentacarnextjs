@@ -13,7 +13,7 @@ export const copy: VehicleCopy = {
   ],
   seo: {
     title: "Rent Peugeot 108 Soft Top in Paros & Antiparos | AGGELOS Rentals",
-    description: "Book the Peugeot 108 Soft Top (convertible) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation. Family-run since 1994.",
+    description: "Book the Peugeot 108 Soft Top (convertible) for Paros and Antiparos. Island pickup at port, airport or villa with AGGELOS Rentals. Free cancellation.",
     keywords: [],
   },
 };

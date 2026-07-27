@@ -3,7 +3,7 @@
 import type { RouteManifest } from "./types";
 
 export const MANIFEST: RouteManifest = {
-  "generatedAt": "2026-07-27T12:07:44.873Z",
+  "generatedAt": "2026-07-27T12:36:05.306Z",
   "count": 78,
   "routes": [
     {
@@ -409,7 +409,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "pages",
         "id": "about-us"
       },
-      "updated": "2026-07-27T11:12:24.554Z"
+      "updated": "2026-07-27T12:30:45.711Z"
     },
     {
       "key": "contact/contact",
@@ -571,7 +571,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "pages",
         "id": "cookie-policy-eu"
       },
-      "updated": "2026-07-26T19:15:58.560Z"
+      "updated": "2026-07-27T12:25:42.903Z"
     },
     {
       "key": "legal/privacy-policy",
@@ -598,7 +598,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "pages",
         "id": "privacy-policy"
       },
-      "updated": "2026-07-26T19:28:39.459Z"
+      "updated": "2026-07-27T12:30:45.711Z"
     },
     {
       "key": "legal/terms-conditions",
@@ -2221,7 +2221,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "utility",
         "id": "faq"
       },
-      "updated": "2026-07-27T12:07:29.136Z"
+      "updated": "2026-07-27T12:09:13.620Z"
     },
     {
       "key": "utility/guides",
@@ -2248,7 +2248,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "utility",
         "id": "guides"
       },
-      "updated": "2026-07-27T12:07:29.136Z"
+      "updated": "2026-07-27T12:09:13.620Z"
     },
     {
       "key": "utility/reviews",
@@ -2275,7 +2275,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "utility",
         "id": "reviews"
       },
-      "updated": "2026-07-27T12:07:29.136Z"
+      "updated": "2026-07-27T12:09:13.620Z"
     },
     {
       "key": "utility/book-results",
@@ -2302,7 +2302,7 @@ export const MANIFEST: RouteManifest = {
         "collection": "utility",
         "id": "book-results"
       },
-      "updated": "2026-07-27T12:07:29.136Z"
+      "updated": "2026-07-27T12:09:13.620Z"
     }
   ]
 } as const;

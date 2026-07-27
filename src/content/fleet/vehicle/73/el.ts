@@ -8,7 +8,7 @@ export const copy: VehicleCopy = {
   licence: "Επιβεβαιώνουμε κατηγορία διπλώματος στο παραλαβή ανά τύπο οχήματος.",
   seo: {
     title: "Ενοικίαση Peugeot 108 Soft Top σε Πάρο & Αντίπαρο | AGGELOS",
-    description: "Κλείστε το Peugeot 108 Soft Top (cabrio) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση. Οικογενειακή επιχείρηση από το 1994.",
+    description: "Κλείστε το Peugeot 108 Soft Top (cabrio) για Πάρο και Αντίπαρο. Παραλαβή σε λιμάνι, αεροδρόμιο ή βίλα με την AGGELOS Rentals. Δωρεάν ακύρωση.",
     keywords: [],
   },
 };

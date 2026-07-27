@@ -3,8 +3,8 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "el",
   seo: {
-    title: "Ενοικίαση Αυτοκινήτου Αεροδρόμιο Πάρου 2026 | PAS | AGGELOS Rentals",
-    description: "Ενοικίαση αυτοκινήτου στο αεροδρόμιο Πάρου (PAS) με την AGGELOS Rentals. Γρήγορη παραλαβή, καλές τιμές και τοπική υποστήριξη από το 1994.",
+    title: "Ενοικίαση αεροδρόμιο Πάρου PAS 2026 | AGGELOS",
+    description: "Παραλάβετε αυτοκίνητο στο αεροδρόμιο Πάρου (PAS) με AGGELOS Rentals. Κλείστε online: γρήγορη παράδοση, καθαρά κόστη και τοπική ομάδα από το 1994.",
     keywords: [],
   },
   h1: "Ενοικίαση στο αεροδρόμιο Πάρου στην Ελλάδα",
