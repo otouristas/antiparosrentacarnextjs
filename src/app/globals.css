@@ -491,3 +491,54 @@ p {
     transition: none;
   }
 }
+
+/* Cookie consent — bottom-left, clear of WhatsApp (right) and mobile dock */
+.cookie-banner {
+  left: max(0.75rem, env(safe-area-inset-left, 0px));
+  bottom: calc(var(--spacing-dock) + 0.85rem + env(safe-area-inset-bottom, 0px));
+  animation: cookie-in 0.55s var(--ease-out-soft) both;
+}
+
+@media (min-width: 1024px) {
+  .cookie-banner {
+    left: 1.25rem;
+    bottom: 1.25rem;
+  }
+}
+
+.cookie-banner--out {
+  animation: cookie-out 0.28s var(--ease-in-out-soft) both;
+}
+
+.cookie-banner__card {
+  backdrop-filter: blur(12px);
+}
+
+@keyframes cookie-in {
+  from {
+    opacity: 0;
+    transform: translate3d(-0.75rem, 1rem, 0) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes cookie-out {
+  from {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translate3d(-0.5rem, 0.75rem, 0) scale(0.97);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cookie-banner,
+  .cookie-banner--out {
+    animation: none;
+  }
+}

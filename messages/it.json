@@ -519,5 +519,12 @@
     "relatedContact": "Contattaci",
     "relatedMaps": "Apri su Google Maps",
     "loadMore": "Carica altri"
+  },
+  "cookies": {
+    "title": "Cookie e comfort",
+    "body": "Usiamo cookie essenziali per il sito e opzionali per migliorare la visita.",
+    "policy": "Informativa cookie",
+    "accept": "Accetta tutti",
+    "essential": "Solo essenziali"
   }
 }

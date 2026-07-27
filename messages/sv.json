@@ -519,5 +519,12 @@
     "relatedContact": "Kontakta oss",
     "relatedMaps": "Öppna i Google Maps",
     "loadMore": "Ladda fler"
+  },
+  "cookies": {
+    "title": "Cookies & bekvämlighet",
+    "body": "Vi använder nödvändiga cookies för sajten och valfria för att förbättra ditt besök.",
+    "policy": "Cookiepolicy",
+    "accept": "Acceptera alla",
+    "essential": "Endast nödvändiga"
   }
 }

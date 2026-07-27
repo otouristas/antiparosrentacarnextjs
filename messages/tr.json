@@ -519,5 +519,12 @@
     "relatedContact": "İletişim",
     "relatedMaps": "Google Maps'te aç",
     "loadMore": "Daha fazla yükle"
+  },
+  "cookies": {
+    "title": "Çerezler ve konfor",
+    "body": "Site için gerekli çerezler ve ziyaretinizi iyileştirmek için isteğe bağlı çerezler kullanırız.",
+    "policy": "Çerez politikası",
+    "accept": "Tümünü kabul et",
+    "essential": "Yalnızca gerekli"
   }
 }

@@ -10,6 +10,7 @@ import { OG_LOCALE, LOCALE_DIR } from "@/seo/og-locale";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import WhatsAppFab from "@/components/layout/WhatsAppFab";
+import CookieBanner from "@/components/layout/CookieBanner";
 import MarketingStrip from "@/components/cro/MarketingStrip";
 import StickyMobileBookingBar from "@/components/cro/StickyMobileBookingBar";
 import DesktopBookingDock from "@/components/cro/DesktopBookingDock";
@@ -141,6 +142,7 @@ export default async function RootLayout({
           <TrustReviewBadges />
           <Footer />
           <WhatsAppFab />
+          <CookieBanner />
           <StickyMobileBookingBar />
           <DesktopBookingDock />
         </NextIntlClientProvider>

@@ -519,5 +519,12 @@
     "relatedContact": "Contact",
     "relatedMaps": "Open in Google Maps",
     "loadMore": "Meer laden"
+  },
+  "cookies": {
+    "title": "Cookies & gemak",
+    "body": "We gebruiken essentiële cookies voor de site en optionele om je bezoek te verbeteren.",
+    "policy": "Cookiebeleid",
+    "accept": "Alles accepteren",
+    "essential": "Alleen essentieel"
   }
 }

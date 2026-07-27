@@ -519,5 +519,12 @@
     "relatedContact": "Связаться с нами",
     "relatedMaps": "Открыть в Google Maps",
     "loadMore": "Загрузить ещё"
+  },
+  "cookies": {
+    "title": "Cookie и комфорт",
+    "body": "Мы используем необходимые cookie для сайта и дополнительные — чтобы улучшить визит.",
+    "policy": "Политика cookie",
+    "accept": "Принять все",
+    "essential": "Только необходимые"
   }
 }
