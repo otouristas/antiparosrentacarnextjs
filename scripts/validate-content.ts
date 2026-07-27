@@ -111,16 +111,23 @@ function isStub(copy: PageCopy | CategoryCopy): boolean {
 
 const EM_DASH_RE = /[\u2014\u2013\u2015]/; // em dash, en dash, horizontal bar
 
-function checkText(label: string, value: string, locale: Locale) {
+function checkText(
+  label: string,
+  value: string,
+  locale: Locale,
+  opts: { allowCookieVocabulary?: boolean } = {},
+) {
   const v = norm(value);
   if (EM_DASH_RE.test(value)) {
     err(
       `${label}: contains em/en dash; rewrite with commas, periods, or colons`,
     );
   }
-  for (const tell of COOKIE_TELLS) {
-    if (v.includes(tell))
-      err(`${label}: contains cookie-banner text ("${tell}")`);
+  if (!opts.allowCookieVocabulary) {
+    for (const tell of COOKIE_TELLS) {
+      if (v.includes(tell))
+        err(`${label}: contains cookie-banner text ("${tell}")`);
+    }
   }
   for (const tell of PLACEHOLDER_TELLS) {
     if (v.includes(tell))
@@ -140,6 +147,8 @@ function validatePageCopy(
   file: string,
 ) {
   const at = `${key} [${locale}]`;
+  const allowCookieVocabulary =
+    key.includes("cookie-policy") || key.includes("privacy-policy");
 
   if (copy.locale !== locale) {
     err(
@@ -152,7 +161,9 @@ function validatePageCopy(
     const n = copy.seo.title.trim().length;
     if (n < TITLE_MIN || n > TITLE_MAX)
       warn(`${at}: seo.title is ${n} chars (want ${TITLE_MIN}-${TITLE_MAX})`);
-    checkText(`${at} seo.title`, copy.seo.title, locale);
+    checkText(`${at} seo.title`, copy.seo.title, locale, {
+      allowCookieVocabulary,
+    });
     if (/\|\s*AGGELOS Rentals\s*\|/.test(copy.seo.title)) {
       err(`${at}: seo.title contains a doubled brand suffix`);
     }
@@ -165,14 +176,16 @@ function validatePageCopy(
       warn(
         `${at}: seo.description is ${n} chars (want ${DESC_MIN}-${DESC_MAX})`,
       );
-    checkText(`${at} seo.description`, copy.seo.description, locale);
+    checkText(`${at} seo.description`, copy.seo.description, locale, {
+      allowCookieVocabulary,
+    });
   }
 
   if (isBlank(copy.h1)) err(`${at}: h1 is empty`);
-  else checkText(`${at} h1`, copy.h1, locale);
+  else checkText(`${at} h1`, copy.h1, locale, { allowCookieVocabulary });
 
   if (isBlank(copy.intro)) err(`${at}: intro is empty`);
-  else checkText(`${at} intro`, copy.intro, locale);
+  else checkText(`${at} intro`, copy.intro, locale, { allowCookieVocabulary });
 
   if (isBlank(copy.cta?.primary)) err(`${at}: cta.primary is empty`);
 

@@ -3,47 +3,95 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "fr",
   seo: {
-    title: "Politique de confidentialité | AGGELOS",
-    description: "Politique de confidentialité: Lisez cette politique pour les réservations et le site AGGELOS Rentals à Paros et Antiparos. Contactez-nous pour toute.",
+    title: 'Politique de confidentialité | AGGELOS Rentals',
+    description: 'Comment AGGELOS Rentals traite les données personnelles pour les réservations et le site sur Paros et Antiparos, et comment exercer vos droits.',
     keywords: [],
   },
-  h1: "Politique de confidentialité",
-  intro: "Politique de confidentialité: Lisez cette politique pour les réservations et le site AGGELOS Rentals à Paros et Antiparos. Contactez-nous pour toute.",
+  h1: 'Politique de confidentialité',
+  intro: 'Cette politique explique comment AGGELOS Rentals traite les données personnelles lorsque vous parcourez antiparosrentacar.com, demandez un devis ou réservez un véhicule pour Paros et Antiparos.',
   cta: {
-    primary: "Voir disponibilités",
-    secondary: "Voir la flotte",
-    whatsapp: "WhatsApp",
-    call: "Appeler",
+    primary: 'Contact',
+    secondary: 'Cookies',
+    whatsapp: 'WhatsApp',
+    call: 'Appeler',
   },
   sections: [
     {
-      heading: "Pourquoi louer",
-      body: ["En pratique: depuis 1994 au port d'Antiparos, nous connaissons ferries, parkings et embouteillages d'août."],
+      heading: 'Responsable',
+      body: [
+        'AGGELOS Rentals, Port d\'Antiparos, 840 07 Antiparos, Cyclades, Grèce. Contact: aggelos@antiparosrentacar.com, +30 694 495 0094 ou WhatsApp.',
+      ],
     },
     {
-      heading: "Prise en charge",
-      body: ["En pratique: depuis 1994 au port d'Antiparos, nous connaissons ferries, parkings et embouteillages d'août."],
+      heading: 'Données collectées',
+      body: [
+        'Selon l\'usage, nous pouvons traiter:',
+      ],
+      bullets: [
+        'Coordonnées saisies dans les formulaires ou le chat.',
+        'Détails de réservation: lieux, dates, tranche d\'âge, préférences véhicule.',
+        'Données techniques pour le site et le choix cookies.',
+        'Messages liés à la location.',
+      ],
     },
     {
-      heading: "Ce que choisissent les voyageurs",
-      body: ["En pratique: depuis 1994 au port d'Antiparos, nous connaissons ferries, parkings et embouteillages d'août."],
+      heading: 'Finalités',
+      body: [
+        'Répondre, gérer les réservations, livrer les véhicules, obligations comptables, fiabilité du site et analyses limitées après consentement.',
+      ],
+    },
+    {
+      heading: 'Bases légales',
+      body: [
+        'Contrat et démarches précontractuelles. Intérêt légitime pour la sécurité. Consentement pour cookies optionnels ou marketing. Obligation légale pour les factures en Grèce.',
+      ],
+    },
+    {
+      heading: 'Partage',
+      body: [
+        'Uniquement avec des prestataires nécessaires comme GoCars, l\'hébergement et la messagerie. Pas de vente de données.',
+      ],
+    },
+    {
+      heading: 'Conservation',
+      body: [
+        'Demandes aussi longtemps que nécessaire. Archives comptables selon les délais grecs. Choix cookies jusqu\'à effacement des données du site.',
+      ],
+    },
+    {
+      heading: 'Vos droits',
+      body: [
+        'Accès, rectification, effacement, limitation, portabilité ou opposition, et plainte auprès de l\'autorité grecque de protection des données.',
+      ],
+    },
+    {
+      heading: 'Cookies',
+      body: [
+        'Stockage essentiel pour la langue et le choix cookies. Outils optionnels seulement après acceptation. Voir la politique cookies (UE).',
+      ],
+    },
+    {
+      heading: 'Mises à jour',
+      body: [
+        'Nous pouvons mettre à jour cette politique. La version sur cette URL s\'applique.',
+      ],
     },
   ],
   faqs: [
-    { q: "Où récupérer le véhicule ?", a: "Choisissez aéroport, port ou hôtel selon les options." },
-    { q: "Quel permis faut-il ?", a: "Nous vérifions la catégorie de permis au retrait." },
-    { q: "Peut-on croiser vers Antiparos ?", a: "Oui pour les trajets one-way convenus." },
+    { q: 'Qui voit ma réservation?', a: 'Le bureau AGGELOS et les systèmes nécessaires à la confirmation et à la remise.' },
+    { q: 'Puis-je supprimer une demande?', a: 'Oui via contact. Nous effaçons ou limitons ce qui n\'est pas requis pour une réservation active ou une obligation légale.' },
+    { q: 'Envoyez-vous des e-mails marketing?', a: 'Seulement avec consentement. Les messages opérationnels de réservation ne sont pas du marketing.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "Nous contacter · privacy-policy" },
-    { to: "contact/about-us", anchor: "Lien 2 · privacy-policy" },
-    { to: "home", anchor: "Lien 3 · privacy-policy" },
-    { to: "money/paros-rent-a-car", anchor: "Location Paros · privacy-policy" },
+    { to: 'legal/cookie-policy-eu', anchor: 'Politique cookies' },
+    { to: 'legal/terms-conditions', anchor: 'Conditions' },
+    { to: 'contact/contact', anchor: 'Contact' },
+    { to: 'contact/about-us', anchor: 'À propos' },
   ],
   finalCta: {
-    heading: "Prêt pour les routes de l'île ?",
-    sub: "Réservez en ligne, retrouvez-nous à l'aéroport ou au port.",
-    button: "Chercher un véhicule",
+    heading: 'Questions sur vos données?',
+    sub: 'Écrivez au bureau du port d\'Antiparos.',
+    button: 'Nous contacter',
   },
 };
 

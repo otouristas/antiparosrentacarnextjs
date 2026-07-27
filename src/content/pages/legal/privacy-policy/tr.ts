@@ -3,47 +3,95 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "tr",
   seo: {
-    title: "Gizlilik Politikası | AGGELOS",
-    description: "Gizlilik Politikası: Paros ve Antiparos’taki AGGELOS Rentals rezervasyonları ve site kullanımı için bu politikayı okuyun. Kiralama sorularınız için yazın.",
+    title: 'Gizlilik politikası | AGGELOS Rentals',
+    description: 'AGGELOS Rentals’ın Paros ve Antiparos rezervasyonları ile site için kişisel verileri nasıl işlediği ve haklarınızı nasıl kullanacağınız.',
     keywords: [],
   },
-  h1: "Gizlilik Politikası",
-  intro: "Gizlilik Politikası: Paros ve Antiparos’taki AGGELOS Rentals rezervasyonları ve site kullanımı için bu politikayı okuyun. Kiralama sorularınız için yazın.",
+  h1: 'Gizlilik politikası',
+  intro: 'Bu politika, antiparosrentacar.com’u gezerken, teklif isterken veya Paros ile Antiparos için araç ayırtırken AGGELOS Rentals’ın kişisel verileri nasıl işlediğini açıklar.',
   cta: {
-    primary: "Müsaitliği kontrol et",
-    secondary: "Filoyu gör",
-    whatsapp: "WhatsApp",
-    call: "Ara",
+    primary: 'İletişim',
+    secondary: 'Çerezler',
+    whatsapp: 'WhatsApp',
+    call: 'Ara',
   },
   sections: [
     {
-      heading: "Neden kiralamalı",
-      body: ["Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz."],
+      heading: 'Veri sorumlusu',
+      body: [
+        'AGGELOS Rentals, Antiparos Limanı, 840 07 Antiparos, Kikladlar, Yunanistan. İletişim: aggelos@antiparosrentacar.com, +30 694 495 0094 veya WhatsApp.',
+      ],
     },
     {
-      heading: "Teslim ve iade",
-      body: ["Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz."],
+      heading: 'Topladığımız veriler',
+      body: [
+        'Kullanıma göre şunları işleyebiliriz:',
+      ],
+      bullets: [
+        'Form veya sohbetten iletişim bilgileri.',
+        'Rezervasyon ayrıntıları: yerler, tarihler, yaş grubu, tercihler.',
+        'Site için teknik veriler ve çerez seçimi.',
+        'Kiralama ile ilgili mesajlar.',
+      ],
     },
     {
-      heading: "Misafirler ne seçiyor",
-      body: ["Pratikte: 1994'ten beri Antiparos limanında feribotları, parkı ve Ağustos trafiğini biliyoruz."],
+      heading: 'Amaçlar',
+      body: [
+        'Yanıtlamak, rezervasyonları yönetmek, araç teslimi, muhasebe yükümlülükleri, site güvenilirliği ve onay sonrası sınırlı analitik.',
+      ],
+    },
+    {
+      heading: 'Hukuki dayanaklar',
+      body: [
+        'Sözleşme ve ön sözleşme adımları. Güvenlik için meşru menfaat. İsteğe bağlı çerez veya pazarlama için onay. Yunanistan’da faturalar için yasal zorunluluk.',
+      ],
+    },
+    {
+      heading: 'Paylaşım',
+      body: [
+        'Yalnızca GoCars, barındırma ve mesajlaşma gibi gerekli sağlayıcılarla. Veri satılmaz.',
+      ],
+    },
+    {
+      heading: 'Saklama',
+      body: [
+        'Talepler gerektiği kadar. Muhasebe kayıtları Yunan sürelerine göre. Çerez seçimi site verisi silinene kadar.',
+      ],
+    },
+    {
+      heading: 'Haklarınız',
+      body: [
+        'Erişim, düzeltme, silme, kısıtlama, taşınabilirlik veya itiraz ve Yunan otoritesine şikayet.',
+      ],
+    },
+    {
+      heading: 'Çerezler',
+      body: [
+        'Dil ve çerez seçimi için zorunlu depolama. İsteğe bağlı araçlar yalnızca kabulde. AB çerez politikasına bakın.',
+      ],
+    },
+    {
+      heading: 'Güncellemeler',
+      body: [
+        'Bu politikayı güncelleyebiliriz. Bu URL’deki sürüm geçerlidir.',
+      ],
     },
   ],
   faqs: [
-    { q: "Aracı nerede teslim alırım?", a: "Müsaitse havalimanı, liman veya oteli seçin." },
-    { q: "Hangi ehliyet gerekir?", a: "Teslimde ehliyet sınıfını kontrol ederiz." },
-    { q: "Antiparos'a geçebilir miyim?", a: "Evet, Paros ve Antiparos arasında anlaşmalı tek yönlerde." },
+    { q: 'Rezervasyonumu kim görür?', a: 'AGGELOS masası ve onay ile teslim için gerekli sistemler.' },
+    { q: 'Talebi sildirebilir miyim?', a: 'Evet, iletişimle. Aktif rezervasyon veya yasal saklama dışındakileri siler veya kısıtlarız.' },
+    { q: 'Pazarlama maili gönderiyor musunuz?', a: 'Yalnızca onayla. Operasyonel rezervasyon mesajları pazarlama değildir.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "İletişim · privacy-policy" },
-    { to: "contact/about-us", anchor: "Link 2 · privacy-policy" },
-    { to: "home", anchor: "Link 3 · privacy-policy" },
-    { to: "money/paros-rent-a-car", anchor: "Paros kiralama · privacy-policy" },
+    { to: 'legal/cookie-policy-eu', anchor: 'Çerez politikası' },
+    { to: 'legal/terms-conditions', anchor: 'Şartlar' },
+    { to: 'contact/contact', anchor: 'İletişim' },
+    { to: 'contact/about-us', anchor: 'Hakkımızda' },
   ],
   finalCta: {
-    heading: "Ada yollarına hazır mısınız?",
-    sub: "Online rezervasyon yapın, havalimanı veya limanda buluşun, net koşullarla sürün.",
-    button: "Araç ara",
+    heading: 'Verileriniz hakkında soru mu var?',
+    sub: 'Antiparos liman masasına yazın.',
+    button: 'İletişim',
   },
 };
 

@@ -3,47 +3,76 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "en",
   seo: {
-    title: "Cookie Policy | AGGELOS Rentals",
-    description: "Cookie Policy: Read this policy for AGGELOS Rentals bookings and website use on Paros and Antiparos. Contact us with questions about your rental.",
+    title: 'Cookie Policy (EU) | AGGELOS Rentals',
+    description: 'How AGGELOS Rentals uses cookies on antiparosrentacar.com and how you manage preferences for Paros and Antiparos bookings.',
     keywords: [],
   },
-  h1: "Cookie Policy",
-  intro: "Cookie Policy: Read this policy for AGGELOS Rentals bookings and website use on Paros and Antiparos. Contact us with questions about your rental.",
+  h1: 'Cookie Policy (EU)',
+  intro: 'This page explains which cookies and similar technologies AGGELOS Rentals uses on antiparosrentacar.com for visitors in the European Economic Area and Switzerland, and how you can control them.',
   cta: {
-    primary: "Check availability",
-    secondary: "View fleet",
-    whatsapp: "WhatsApp us",
-    call: "Call now",
+    primary: 'Search vehicles',
+    secondary: 'View fleet',
+    whatsapp: 'WhatsApp us',
+    call: 'Call now',
   },
   sections: [
     {
-      heading: "Scope",
-      body: ["These terms cover how we handle site use, bookings, and communications for AGGELOS Rentals services."],
+      heading: 'Who we are',
+      body: [
+        'AGGELOS Rentals operates this website from Antiparos Port, Cyclades, Greece. For privacy questions related to bookings or the site, contact us via the contact page, phone, or WhatsApp listed on every page.',
+      ],
     },
     {
-      heading: "Your rights",
-      body: ["You can contact us to ask questions about data, bookings, or policy details using the contact page."],
+      heading: 'What cookies are',
+      body: [
+        'Cookies are small text files stored on your device when you visit a website. Similar tools such as local storage can hold the same kinds of preferences. They help the site remember choices and keep basic features working.',
+      ],
     },
     {
-      heading: "Updates",
-      body: ["We may update this page as laws or booking tools change. The dated site version is the reference at booking time."],
+      heading: 'Cookies we use on this site',
+      body: [
+        'This Next.js website is not the old WordPress installation. We do not run WordPress, Elementor, or advertising networks such as Google AdSense on these pages.',
+      ],
+      bullets: [
+        'Essential: stores your cookie choice (Accept all or Essential only) in local storage so the banner does not reappear on every visit.',
+        'Essential: language and booking search fields may be kept briefly in the browser so forms stay usable while you compare vehicles.',
+        'Optional analytics or marketing cookies are only used if you accept them and if those tools are enabled for your visit.',
+      ],
+    },
+    {
+      heading: 'How to manage cookies',
+      body: [
+        'Use Accept all or Essential only on the cookie banner. You can also clear site data in your browser settings to reset the choice and see the banner again. Blocking all cookies in the browser may limit booking forms or language memory.',
+      ],
+    },
+    {
+      heading: 'Updates',
+      body: [
+        'We may update this policy when laws or site features change. The version published on this URL is the reference for the date you visit or book.',
+      ],
+    },
+    {
+      heading: 'Contact',
+      body: [
+        'Questions about cookies or personal data: use Contact, call +30 694 495 0094, or message us on WhatsApp. Mention your booking reference if you already have one.',
+      ],
     },
   ],
   faqs: [
-    { q: "Who is the operator?", a: "AGGELOS Rentals, based at Antiparos Port, Greece." },
-    { q: "How do I ask a policy question?", a: "Use the contact form, phone, or WhatsApp with your booking reference if you have one." },
-    { q: "Does this replace the rental contract?", a: "The rental agreement at pickup and your voucher remain binding for the vehicle hire itself." },
+    { q: 'Do I have to accept optional cookies to book?', a: 'No. Essential cookies are enough to browse and start a booking. Optional tools only run if you accept them.' },
+    { q: 'Where is my cookie choice stored?', a: 'In your browser local storage under a site key for AGGELOS Rentals consent. Clearing site data removes it.' },
+    { q: 'Is this the same as the rental contract?', a: 'No. The rental agreement and voucher at pickup govern the vehicle hire. This page covers website cookies only.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "Contact us · cookie-policy-eu" },
-    { to: "contact/about-us", anchor: "About AGGELOS Rentals · cookie-policy-eu" },
-    { to: "home", anchor: "Homepage · cookie-policy-eu" },
-    { to: "money/paros-rent-a-car", anchor: "Paros rentals · cookie-policy-eu" },
+    { to: 'legal/privacy-policy', anchor: 'Privacy policy' },
+    { to: 'legal/terms-conditions', anchor: 'Terms and conditions' },
+    { to: 'contact/contact', anchor: 'Contact AGGELOS Rentals' },
+    { to: 'home', anchor: 'Back to homepage' },
   ],
   finalCta: {
-    heading: "Need a human answer?",
-    sub: "Policy pages are clear, but our team can explain how a rule applies to your dates.",
-    button: "Search vehicles",
+    heading: 'Ready when you are',
+    sub: 'Search live prices for Paros and Antiparos, or ask the family desk any cookie or booking question.',
+    button: 'Search vehicles',
   },
 };
 

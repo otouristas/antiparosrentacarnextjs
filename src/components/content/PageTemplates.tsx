@@ -732,7 +732,6 @@ export async function ContactAboutTemplate({
   page: ContentPage;
   locale: Locale;
 }) {
-  const body = getPageBody(page, locale);
   const title =
     page.h1s?.[locale] || getPageTitle(page, locale).split("|")[0].trim();
   const isContact = page.id === "contact";
@@ -837,35 +836,287 @@ export async function ContactAboutTemplate({
     );
   }
 
+  // About us: prefer authored PageCopy. Never dump Complianz/WP scrape markdown.
+  const aboutKey = "contact/about-us";
+  const native = hasPageCopy(aboutKey, locale)
+    ? getPageCopy(aboutKey, locale)
+    : null;
+  const aboutTitle = native?.h1 || title;
+  const aboutIntro = native?.intro || t("pages.about.story1");
+
   return (
     <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: "Home", path: "/" },
+            { name: aboutTitle, path: page.paths?.[locale] || page.paths?.en || "/about-us/" },
+          ]),
+        ]}
+      />
+
       <Atmosphere tone="sand">
-        <div className="mx-auto max-w-page px-4 py-16 sm:px-6 sm:py-20">
+        <div className="mx-auto max-w-3xl px-4 py-16 sm:px-6 sm:py-20">
           <p className="text-xs font-bold uppercase tracking-[0.2em] text-navy/45">
-            {t("nav.about")}
+            {t("pages.about.badge")}
           </p>
-          <h1 className="mt-3 max-w-2xl font-display text-4xl font-extrabold text-navy sm:text-5xl lg:text-6xl">
+          <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight text-navy sm:text-5xl lg:text-6xl">
+            {aboutTitle}
+          </h1>
+          <p className="mt-5 text-lg leading-relaxed text-ink/70">{aboutIntro}</p>
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Button href="#book" variant="yellow" size="md">
+              {native?.cta.primary || t("nav.bookNow")}
+            </Button>
+            <Button href={SITE.whatsapp} variant="whatsapp" size="md">
+              {native?.cta.whatsapp || "WhatsApp"}
+            </Button>
+            <Button href={`tel:${SITE.phone}`} variant="outline" size="md">
+              {SITE.phoneDisplay}
+            </Button>
+          </div>
+        </div>
+      </Atmosphere>
+
+      <Atmosphere tone="white" orb={false}>
+        <div className="mx-auto max-w-3xl space-y-10 px-4 py-12 sm:px-6 sm:py-16">
+          <section>
+            <h2 className="font-display text-2xl font-bold text-navy sm:text-3xl">
+              {t("tpl.ourStory")}
+            </h2>
+            <div className="mt-5 space-y-4 text-base leading-relaxed text-ink/75">
+              <p>{t("pages.about.story1")}</p>
+              <p>{t("pages.about.story2")}</p>
+              <p>{t("pages.about.story3")}</p>
+            </div>
+          </section>
+
+          {native?.sections?.length ? (
+            <div className="space-y-10 border-t border-line pt-10">
+              {native.sections.map((section) => (
+                <section key={section.heading}>
+                  <h2 className="font-display text-2xl font-bold text-navy">
+                    {section.heading}
+                  </h2>
+                  <div className="mt-4 space-y-3 text-base leading-relaxed text-ink/75">
+                    {section.body.map((p) => (
+                      <p key={p.slice(0, 48)}>{p}</p>
+                    ))}
+                  </div>
+                  {section.bullets?.length ? (
+                    <ul className="mt-4 list-disc space-y-2 pl-5 text-base leading-relaxed text-ink/75">
+                      {section.bullets.map((b) => (
+                        <li key={b.slice(0, 48)}>{b}</li>
+                      ))}
+                    </ul>
+                  ) : null}
+                </section>
+              ))}
+            </div>
+          ) : null}
+        </div>
+      </Atmosphere>
+
+      <Atmosphere tone="sand">
+        <div className="mx-auto max-w-page px-4 py-14 sm:px-6 sm:py-16">
+          <p className="text-xs font-bold uppercase tracking-[0.2em] text-navy/45">
+            {SITE.name}
+          </p>
+          <h2 className="mt-3 font-display text-3xl font-extrabold text-navy sm:text-4xl">
+            {t("pages.about.values")}
+          </h2>
+          <div className="mt-10 grid gap-6 sm:grid-cols-2">
+            {(
+              [
+                ["v1title", "v1desc"],
+                ["v2title", "v2desc"],
+                ["v3title", "v3desc"],
+                ["v4title", "v4desc"],
+              ] as const
+            ).map(([titleKey, descKey], index) => (
+              <div
+                key={titleKey}
+                className="rounded-2xl border border-navy/10 bg-white/80 p-6 shadow-sm"
+              >
+                <p className="text-xs font-bold uppercase tracking-[0.18em] text-navy/40">
+                  {String(index + 1).padStart(2, "0")}
+                </p>
+                <h3 className="mt-2 font-display text-xl font-bold text-navy">
+                  {t(`pages.about.${titleKey}`)}
+                </h3>
+                <p className="mt-2 text-sm leading-relaxed text-ink/70">
+                  {t(`pages.about.${descKey}`)}
+                </p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </Atmosphere>
+
+      <section id="book" className="scroll-mt-24 bg-brand-light py-10">
+        <div className="mx-auto max-w-page px-4 sm:px-6">
+          <BookingWidget variant="bar" />
+          <TrustBadges className="mt-4" />
+        </div>
+      </section>
+
+      {native?.faqs?.length ? (
+        <FaqAccordion title={t("faq.title")} faqs={native.faqs} />
+      ) : null}
+
+      <RelatedLinks
+        locale={locale}
+        title={t("tpl.bookYourRental")}
+        links={
+          native?.related?.length
+            ? native.related.map((r) => ({ to: r.to, anchor: r.anchor }))
+            : [
+                { to: "contact/contact", anchor: t("nav.contact") },
+                { href: "/fleet/", label: t("menu.allFleet") },
+                { to: "money/paros-rent-a-car", anchor: t("nav.parosCar") },
+                {
+                  to: "money/rent-a-car-antiparos-aggelos",
+                  anchor: t("nav.antiparosCar"),
+                },
+              ]
+        }
+      />
+
+      <FinalCtaBlock
+        title={native?.finalCta.heading}
+        subtitle={native?.finalCta.sub}
+        ctaLabel={native?.finalCta.button}
+      />
+    </>
+  );
+}
+
+/* ========================================================================== */
+/* LEGAL (cookie, privacy, terms)                                              */
+/* ========================================================================== */
+
+/**
+ * Complianz / WordPress cookie dumps (AdSense, Elementor, WP cookies) must
+ * never render on the Next.js site. Terms keep their authored markdown body.
+ */
+function legalUsesMarkdownBody(pageId: string): boolean {
+  return pageId === "terms-conditions";
+}
+
+export async function LegalTemplate({
+  page,
+  locale,
+}: {
+  page: ContentPage;
+  locale: Locale;
+}) {
+  const key = `legal/${page.id}`;
+  const native = hasPageCopy(key, locale) ? getPageCopy(key, locale) : null;
+  const body = legalUsesMarkdownBody(page.id) ? getPageBody(page, locale) : "";
+  const title =
+    native?.h1 ||
+    page.h1s?.[locale] ||
+    getPageTitle(page, locale).split("|")[0].trim();
+  const intro =
+    native?.intro ||
+    getPageDescription(page, locale) ||
+    undefined;
+  const t = await getTranslations();
+  const path = page.paths?.[locale] || page.paths?.en || "/";
+
+  return (
+    <>
+      <JsonLd
+        data={[
+          breadcrumbSchema([
+            { name: "Home", path: "/" },
+            { name: title, path },
+          ]),
+        ]}
+      />
+
+      <Atmosphere tone="sand">
+        <div className="mx-auto max-w-3xl px-4 py-14 sm:px-6 sm:py-20">
+          <p className="text-xs font-bold uppercase tracking-[0.2em] text-navy/45">
+            {t("footer.company")}
+          </p>
+          <h1 className="mt-3 font-display text-4xl font-extrabold tracking-tight text-navy sm:text-5xl">
             {title}
           </h1>
-          <p className="mt-5 max-w-xl text-lg text-ink/65">
-            {t("pages.about.story1")}
+          {intro ? (
+            <p className="mt-5 text-lg leading-relaxed text-ink/70">{intro}</p>
+          ) : null}
+          <p className="mt-4 text-sm text-ink/50">
+            {SITE.name} · {SITE.address.street}, {SITE.address.city}
           </p>
         </div>
       </Atmosphere>
 
       <Atmosphere tone="white" orb={false}>
-        <EditorialSplit
-          eyebrow={t("tpl.ourStory")}
-          title={t("pages.about.h1")}
-          lead={t("pages.about.story1")}
-        >
-          <article className="prose-wrap">
-            <MarkdownBody markdown={body} />
-          </article>
-        </EditorialSplit>
+        <article className="mx-auto max-w-3xl px-4 py-12 sm:px-6 sm:py-16">
+          {native?.sections?.length ? (
+            <div className="space-y-10">
+              {native.sections.map((section) => (
+                <section key={section.heading}>
+                  <h2 className="font-display text-2xl font-bold text-navy">
+                    {section.heading}
+                  </h2>
+                  <div className="mt-4 space-y-3 text-base leading-relaxed text-ink/75">
+                    {section.body.map((p) => (
+                      <p key={p.slice(0, 48)}>{p}</p>
+                    ))}
+                  </div>
+                  {section.bullets?.length ? (
+                    <ul className="mt-4 list-disc space-y-2 pl-5 text-base leading-relaxed text-ink/75">
+                      {section.bullets.map((b) => (
+                        <li key={b.slice(0, 48)}>{b}</li>
+                      ))}
+                    </ul>
+                  ) : null}
+                </section>
+              ))}
+            </div>
+          ) : null}
+
+          {body ? (
+            <div className={native?.sections?.length ? "mt-12 border-t border-line pt-12" : ""}>
+              <MarkdownBody markdown={body} />
+            </div>
+          ) : null}
+
+          {!native?.sections?.length && !body ? (
+            <p className="text-ink/70">{t("tpl.guideLead")}</p>
+          ) : null}
+        </article>
       </Atmosphere>
 
-      <FinalCtaBlock />
+      {native?.faqs?.length ? (
+        <FaqAccordion
+          title={t("faq.title")}
+          faqs={native.faqs}
+        />
+      ) : null}
+
+      <RelatedLinks
+        locale={locale}
+        title={t("tpl.bookYourRental")}
+        links={
+          native?.related?.length
+            ? native.related.map((r) => ({ to: r.to, anchor: r.anchor }))
+            : [
+                { to: "legal/privacy-policy", anchor: t("footer.privacy") },
+                { to: "legal/terms-conditions", anchor: t("footer.terms") },
+                { to: "contact/contact", anchor: t("nav.contact") },
+                { href: "/fleet/", label: t("menu.allFleet") },
+              ]
+        }
+      />
+
+      <FinalCtaBlock
+        title={native?.finalCta.heading}
+        subtitle={native?.finalCta.sub}
+        ctaLabel={native?.finalCta.button}
+      />
     </>
   );
 }
@@ -917,6 +1168,9 @@ export function renderPageTemplate(page: ContentPage, locale: Locale) {
   }
   if (page.type === "contact") {
     return <ContactAboutTemplate page={page} locale={locale} />;
+  }
+  if (page.type === "legal") {
+    return <LegalTemplate page={page} locale={locale} />;
   }
   return <ContentTemplate page={page} locale={locale} />;
 }

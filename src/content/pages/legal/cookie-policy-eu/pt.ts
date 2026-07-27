@@ -3,47 +3,76 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "pt",
   seo: {
-    title: "Política de cookies (PT) | AGGELOS",
-    description: "Política de cookies: Leia esta política sobre reservas e uso do site AGGELOS Rentals em Paros e Antíparos. Contacte-nos com dúvidas de aluguer.",
+    title: 'Cookies e preferências (UE) | AGGELOS Rentals',
+    description: 'Como a AGGELOS Rentals trata cookies em antiparosrentacar.com e como gerir preferências nas reservas em Paros e Antíparos com a nossa equipa.',
     keywords: [],
   },
-  h1: "Política de cookies na UE",
-  intro: "Política de cookies: Leia esta política sobre reservas e uso do site AGGELOS Rentals em Paros e Antíparos. Contacte-nos com dúvidas de aluguer.",
+  h1: 'Cookies e preferências (UE)',
+  intro: 'Esta página explica que cookies e tecnologias semelhantes a AGGELOS Rentals usa em antiparosrentacar.com para visitantes do Espaço Económico Europeu e da Suíça, e como as controlar no site novo.',
   cta: {
-    primary: "Ver disponibilidade",
-    secondary: "Ver frota",
-    whatsapp: "WhatsApp",
-    call: "Ligar",
+    primary: 'Pesquisar veículos',
+    secondary: 'Frota',
+    whatsapp: 'WhatsApp',
+    call: 'Ligar',
   },
   sections: [
     {
-      heading: "Porquê alugar",
-      body: ["Na prática: desde 1994 no porto de Antíparos conhecemos ferries, estacionamento e o trânsito de agosto."],
+      heading: 'Quem somos',
+      body: [
+        'A AGGELOS Rentals opera este site a partir do porto de Antíparos, Cíclades, Grécia. Para privacidade sobre reservas ou o site: contacto, telefone ou WhatsApp.',
+      ],
     },
     {
-      heading: "Recolha e entrega",
-      body: ["Na prática: desde 1994 no porto de Antíparos conhecemos ferries, estacionamento e o trânsito de agosto."],
+      heading: 'O que são cookies',
+      body: [
+        'Cookies são pequenos ficheiros de texto no seu dispositivo. Ferramentas semelhantes como o armazenamento local podem guardar preferências. Ajudam o site a lembrar escolhas e a manter funções básicas.',
+      ],
     },
     {
-      heading: "O que os viajantes escolhem",
-      body: ["Na prática: desde 1994 no porto de Antíparos conhecemos ferries, estacionamento e o trânsito de agosto."],
+      heading: 'Cookies neste site',
+      body: [
+        'Este site Next.js não é a antiga instalação WordPress. Não corremos WordPress, Elementor nem redes publicitárias como Google AdSense nestas páginas.',
+      ],
+      bullets: [
+        'Essenciais: guardam a sua escolha (Aceitar todos ou Apenas essenciais) para o banner não reaparecer em cada visita.',
+        'Essenciais: idioma e campos de pesquisa de reserva podem ficar brevemente no browser.',
+        'Cookies opcionais de análise ou marketing só se aceitar e se essas ferramentas estiverem ativas.',
+      ],
+    },
+    {
+      heading: 'Como gerir cookies',
+      body: [
+        'Use Aceitar todos ou Apenas essenciais no banner. Limpar dados do site no browser repõe a escolha.',
+      ],
+    },
+    {
+      heading: 'Atualizações',
+      body: [
+        'Podemos atualizar esta política quando leis ou funções mudarem. A versão neste URL é a referência na data da visita ou reserva.',
+      ],
+    },
+    {
+      heading: 'Contacto',
+      body: [
+        'Perguntas sobre cookies ou dados: Contacto, +30 694 495 0094 ou WhatsApp. Indique a referência da reserva se tiver.',
+      ],
     },
   ],
   faqs: [
-    { q: "Onde recoho o veículo?", a: "Escolha aeroporto, porto ou hotel se disponível." },
-    { q: "Que carta preciso?", a: "Confirmamos a categoria da carta na recolha." },
-    { q: "Posso ir a Antíparos?", a: "Sim em one-way acordados." },
+    { q: 'Tenho de aceitar cookies opcionais para reservar?', a: 'Não. Os essenciais bastam para navegar e iniciar uma reserva.' },
+    { q: 'Onde fica a minha escolha?', a: 'No armazenamento local do browser com uma chave de consentimento AGGELOS Rentals.' },
+    { q: 'Substitui o contrato de aluguer?', a: 'Não. O contrato e o voucher na recolha regem o aluguer. Esta página cobre só cookies do site.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "Contacto · cookie-policy-eu" },
-    { to: "contact/about-us", anchor: "Ligação 2 · cookie-policy-eu" },
-    { to: "home", anchor: "Ligação 3 · cookie-policy-eu" },
-    { to: "money/paros-rent-a-car", anchor: "Aluguer Paros · cookie-policy-eu" },
+    { to: 'legal/privacy-policy', anchor: 'Política de privacidade' },
+    { to: 'legal/terms-conditions', anchor: 'Termos e condições' },
+    { to: 'contact/contact', anchor: 'Contactar AGGELOS Rentals' },
+    { to: 'home', anchor: 'Voltar à página inicial' },
   ],
   finalCta: {
-    heading: "Pronto para as estradas da ilha?",
-    sub: "Reserve online e recolha no aeroporto ou porto.",
-    button: "Procurar veículos",
+    heading: 'Quando quiser',
+    sub: 'Pesquise preços em direto para Paros e Antíparos, ou pergunte ao balcão familiar.',
+    button: 'Pesquisar veículos',
   },
 };
 

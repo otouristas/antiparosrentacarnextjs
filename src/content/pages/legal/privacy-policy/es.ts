@@ -3,47 +3,95 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "es",
   seo: {
-    title: "Política de privacidad | AGGELOS",
-    description: "Política de privacidad: Lee esta política sobre reservas y uso del sitio de AGGELOS Rentals en Paros y Antíparos. Contáctanos con dudas de alquiler.",
+    title: 'Política de privacidad | AGGELOS Rentals',
+    description: 'Cómo AGGELOS Rentals trata datos personales para reservas y el sitio en Paros y Antíparos, y cómo ejercer sus derechos de privacidad.',
     keywords: [],
   },
-  h1: "Política de privacidad",
-  intro: "Política de privacidad: Lee esta política sobre reservas y uso del sitio de AGGELOS Rentals en Paros y Antíparos. Contáctanos con dudas de alquiler.",
+  h1: 'Política de privacidad',
+  intro: 'Esta política explica cómo AGGELOS Rentals trata datos personales cuando visita antiparosrentacar.com, pide presupuesto o reserva un vehículo para Paros y Antíparos.',
   cta: {
-    primary: "Ver disponibilidad",
-    secondary: "Ver flota",
-    whatsapp: "WhatsApp",
-    call: "Llamar",
+    primary: 'Contactar',
+    secondary: 'Cookies',
+    whatsapp: 'WhatsApp',
+    call: 'Llamar',
   },
   sections: [
     {
-      heading: "Por qué alquilar",
-      body: ["En la práctica: desde 1994 en el puerto de Antíparos conocemos ferries, parkings y el tráfico de agosto."],
+      heading: 'Responsable',
+      body: [
+        'AGGELOS Rentals, Puerto de Antíparos, 840 07 Antíparos, Cícladas, Grecia. Contacto: aggelos@antiparosrentacar.com, +30 694 495 0094 o WhatsApp.',
+      ],
     },
     {
-      heading: "Recogida y entrega",
-      body: ["En la práctica: desde 1994 en el puerto de Antíparos conocemos ferries, parkings y el tráfico de agosto."],
+      heading: 'Qué recopilamos',
+      body: [
+        'Según el uso, podemos tratar:',
+      ],
+      bullets: [
+        'Datos de contacto de formularios o chat.',
+        'Detalles de reserva: lugares, fechas, grupo de edad, preferencias.',
+        'Datos técnicos del sitio y preferencia de cookies.',
+        'Mensajes sobre el alquiler.',
+      ],
     },
     {
-      heading: "Lo que suelen elegir",
-      body: ["En la práctica: desde 1994 en el puerto de Antíparos conocemos ferries, parkings y el tráfico de agosto."],
+      heading: 'Finalidades',
+      body: [
+        'Responder, gestionar reservas, entregar vehículos, obligaciones contables, seguridad del sitio y analítica limitada con consentimiento.',
+      ],
+    },
+    {
+      heading: 'Bases legales',
+      body: [
+        'Contrato y pasos precontractuales. Interés legítimo de seguridad. Consentimiento para cookies opcionales o marketing. Obligación legal de facturas en Grecia.',
+      ],
+    },
+    {
+      heading: 'Cesiones',
+      body: [
+        'Solo a proveedores necesarios como GoCars, hosting y mensajería. No vendemos datos.',
+      ],
+    },
+    {
+      heading: 'Conservación',
+      body: [
+        'Consultas el tiempo necesario. Archivos contables según plazos griegos. Elección de cookies hasta borrar datos del sitio.',
+      ],
+    },
+    {
+      heading: 'Sus derechos',
+      body: [
+        'Acceso, rectificación, supresión, limitación, portabilidad u oposición, y reclamación ante la autoridad griega de protección de datos.',
+      ],
+    },
+    {
+      heading: 'Cookies',
+      body: [
+        'Almacenamiento esencial para idioma y elección de cookies. Herramientas opcionales solo si acepta. Ver Política de cookies (UE).',
+      ],
+    },
+    {
+      heading: 'Actualizaciones',
+      body: [
+        'Podemos actualizar esta política. Aplica la versión en esta URL.',
+      ],
     },
   ],
   faqs: [
-    { q: "¿Dónde recojo el vehículo?", a: "Elige aeropuerto, puerto o hotel si está disponible." },
-    { q: "¿Qué carnet necesito?", a: "Confirmamos la categoría del carnet en la entrega." },
-    { q: "¿Puedo ir a Antíparos?", a: "Sí en trayectos de ida acordados." },
+    { q: '¿Quién ve mi reserva?', a: 'El mostrador AGGELOS y los sistemas necesarios para confirmar y entregar.' },
+    { q: '¿Puedo borrar una consulta?', a: 'Sí, por contacto. Borramos o limitamos lo que no haga falta para una reserva activa o retención legal.' },
+    { q: '¿Envían marketing?', a: 'Solo con consentimiento. Los mensajes operativos de reserva no son marketing.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "Contacto · privacy-policy" },
-    { to: "contact/about-us", anchor: "Enlace 2 · privacy-policy" },
-    { to: "home", anchor: "Enlace 3 · privacy-policy" },
-    { to: "money/paros-rent-a-car", anchor: "Alquiler Paros · privacy-policy" },
+    { to: 'legal/cookie-policy-eu', anchor: 'Política de cookies' },
+    { to: 'legal/terms-conditions', anchor: 'Términos' },
+    { to: 'contact/contact', anchor: 'Contacto' },
+    { to: 'contact/about-us', anchor: 'Sobre nosotros' },
   ],
   finalCta: {
-    heading: "¿Listo para las carreteras de la isla?",
-    sub: "Reserva online y recógelo en aeropuerto o puerto.",
-    button: "Buscar vehículos",
+    heading: '¿Dudas sobre sus datos?',
+    sub: 'Escriba al mostrador del puerto de Antíparos.',
+    button: 'Contactar',
   },
 };
 

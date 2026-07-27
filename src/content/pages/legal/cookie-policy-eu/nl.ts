@@ -3,47 +3,76 @@ import type { PageCopy } from "@/content/types";
 export const copy: PageCopy = {
   locale: "nl",
   seo: {
-    title: "Cookiebeleid | AGGELOS Rentals",
-    description: "Cookiebeleid: Lees dit beleid over boekingen en websitegebruik van AGGELOS Rentals op Paros en Antiparos. Neem contact op bij huurvragen.",
+    title: 'Cookiebeleid (EU) | AGGELOS Rentals',
+    description: 'Hoe AGGELOS Rentals cookies gebruikt op antiparosrentacar.com en hoe u voorkeuren beheert voor Paros en Antiparos.',
     keywords: [],
   },
-  h1: "Cookiebeleid",
-  intro: "Cookiebeleid: Lees dit beleid over boekingen en websitegebruik van AGGELOS Rentals op Paros en Antiparos. Neem contact op bij huurvragen.",
+  h1: 'Cookiebeleid (EU)',
+  intro: 'Deze pagina legt uit welke cookies en vergelijkbare technologieën AGGELOS Rentals gebruikt op antiparosrentacar.com voor bezoekers in de Europese Economische Ruimte en Zwitserland, en hoe u ze beheert.',
   cta: {
-    primary: "Beschikbaarheid checken",
-    secondary: "Bekijk vloot",
-    whatsapp: "WhatsApp",
-    call: "Bellen",
+    primary: 'Voertuigen zoeken',
+    secondary: 'Vloot',
+    whatsapp: 'WhatsApp',
+    call: 'Bel nu',
   },
   sections: [
     {
-      heading: "Waarom huren",
-      body: ["In de praktijk: sinds 1994 in de haven van Antiparos kennen we veerboten, parkeren en augustusdrukte."],
+      heading: 'Wie wij zijn',
+      body: [
+        'AGGELOS Rentals beheert deze website vanaf de haven van Antiparos, Cycladen, Griekenland. Voor privacyvragen over boekingen of de site: contactpagina, telefoon of WhatsApp.',
+      ],
     },
     {
-      heading: "Ophalen en bezorgen",
-      body: ["In de praktijk: sinds 1994 in de haven van Antiparos kennen we veerboten, parkeren en augustusdrukte."],
+      heading: 'Wat cookies zijn',
+      body: [
+        'Cookies zijn kleine tekstbestanden op uw apparaat. Vergelijkbare middelen zoals local storage bewaren voorkeuren. Ze helpen de site keuzes te onthouden en basisfuncties te laten werken.',
+      ],
     },
     {
-      heading: "Wat gasten kiezen",
-      body: ["In de praktijk: sinds 1994 in de haven van Antiparos kennen we veerboten, parkeren en augustusdrukte."],
+      heading: 'Cookies op deze site',
+      body: [
+        'Deze Next.js-site is niet de oude WordPress-installatie. We draaien hier geen WordPress, Elementor of advertentienetwerken zoals Google AdSense.',
+      ],
+      bullets: [
+        'Essentieel: slaat uw cookiekeuze op (Alles accepteren of Alleen essentieel) zodat de banner niet bij elk bezoek terugkomt.',
+        'Essentieel: taal en boekingsvelden kunnen kort in de browser blijven.',
+        'Optionele analyse- of marketingcookies alleen als u akkoord gaat en die tools actief zijn.',
+      ],
+    },
+    {
+      heading: 'Cookies beheren',
+      body: [
+        'Gebruik Alles accepteren of Alleen essentieel op de banner. Sitesgegevens wissen in de browser reset de keuze.',
+      ],
+    },
+    {
+      heading: 'Updates',
+      body: [
+        'We kunnen dit beleid bijwerken als wetten of functies veranderen. De versie op deze URL geldt op de datum van uw bezoek of boeking.',
+      ],
+    },
+    {
+      heading: 'Contact',
+      body: [
+        'Vragen over cookies of persoonsgegevens: Contact, +30 694 495 0094 of WhatsApp. Vermeld uw boekingsreferentie indien aanwezig.',
+      ],
     },
   ],
   faqs: [
-    { q: "Waar is de ophaallocatie?", a: "Kies luchthaven, haven of hotel als dat beschikbaar is." },
-    { q: "Welk rijbewijs heb ik nodig?", a: "We controleren de rijbewijscategorie bij ophalen." },
-    { q: "Kan ik naar Antiparos?", a: "Ja bij afgesproken one-way ritten tussen Paros en Antiparos." },
+    { q: 'Moet ik optionele cookies accepteren om te boeken?', a: 'Nee. Essentiële cookies volstaan om te bladeren en een boeking te starten.' },
+    { q: 'Waar wordt mijn keuze opgeslagen?', a: 'In de local storage van de browser onder een AGGELOS-toestemmingssleutel.' },
+    { q: 'Vervangt dit het huurcontract?', a: 'Nee. Contract en voucher bij ophalen regelen de verhuur. Deze pagina gaat alleen over websitecookies.' },
   ],
   related: [
-    { to: "contact/contact", anchor: "Contact · cookie-policy-eu" },
-    { to: "contact/about-us", anchor: "Link 2 · cookie-policy-eu" },
-    { to: "home", anchor: "Link 3 · cookie-policy-eu" },
-    { to: "money/paros-rent-a-car", anchor: "Huren op Paros · cookie-policy-eu" },
+    { to: 'legal/privacy-policy', anchor: 'Privacybeleid' },
+    { to: 'legal/terms-conditions', anchor: 'Algemene voorwaarden' },
+    { to: 'contact/contact', anchor: 'Contact AGGELOS Rentals' },
+    { to: 'home', anchor: 'Terug naar home' },
   ],
   finalCta: {
-    heading: "Klaar voor de eilandwegen?",
-    sub: "Boek online, ontmoet ons op luchthaven of haven, rij met duidelijke voorwaarden.",
-    button: "Zoek voertuigen",
+    heading: 'Wanneer u klaar bent',
+    sub: 'Zoek live prijzen voor Paros en Antiparos, of stel een vraag aan de familiedesk.',
+    button: 'Voertuigen zoeken',
   },
 };
 
