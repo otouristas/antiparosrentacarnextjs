@@ -1,0 +1,204 @@
+/**
+ * Generate src/content/registry.generated.ts, static-import barrels for all
+ * per-locale content modules.
+ *
+ * npx tsx scripts/build-content-registry.ts
+ *
+ * Static imports (not fs reads, not dynamic import) so Turbopack bundles the
+ * copy and @vercel/nft can trace it. One barrel key per collection keeps the
+ * fleet routes from pulling in editorial copy.
+ *
+ * Directory convention -> registry key:
+ * src/content/pages/home/{locale}.ts -> pages["home"]
+ * src/content/pages/{kind}/{id}/{locale}.ts -> pages["{kind}/{id}"]
+ * src/content/fleet/category/{slug}/{locale}.ts -> fleet-category["{slug}"]
+ * src/content/fleet/vehicle/{typeId}/{locale}.ts -> vehicle["{typeId}"]
+ * src/content/articles/{slug}/{locale}.ts -> articles["{slug}"]
+ */
+import { existsSync, readdirSync, statSync, writeFileSync } from "node:fs";
+import path from "node:path";
+import { locales, type Locale } from "@/i18n/routing";
+
+const ROOT = process.cwd();
+const CONTENT_DIR = path.join(ROOT, "src/content");
+const OUT_PATH = path.join(CONTENT_DIR, "registry.generated.ts");
+
+type Entry = {
+  collection: string;
+  key: string;
+  locale: Locale;
+  importPath: string;
+};
+
+const isLocale = (v: string): v is Locale =>
+  (locales as readonly string[]).includes(v);
+
+function dirs(p: string): string[] {
+  if (!existsSync(p)) return [];
+  return readdirSync(p).filter(
+    (d) => !d.startsWith(".") && statSync(path.join(p, d)).isDirectory(),
+  );
+}
+
+function localeModules(dir: string): Locale[] {
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .filter((f) => f.endsWith(".ts") && !f.endsWith(".d.ts"))
+    .map((f) => f.replace(/\.ts$/, ""))
+    .filter(isLocale);
+}
+
+/** "money/paros-rent-a-car" + "en" -> a valid, unique JS identifier. */
+function ident(collection: string, key: string, locale: string): string {
+  return `${collection}_${key}_${locale}`.replace(/[^A-Za-z0-9_]/g, "_");
+}
+
+function collect(): Entry[] {
+  const entries: Entry[] = [];
+
+  // pages: one nesting level for `home`, two for everything else
+  const pagesRoot = path.join(CONTENT_DIR, "pages");
+  for (const kind of dirs(pagesRoot)) {
+    const kindDir = path.join(pagesRoot, kind);
+
+    for (const locale of localeModules(kindDir)) {
+      entries.push({
+        collection: "pages",
+        key: kind,
+        locale,
+        importPath: `./pages/${kind}/${locale}`,
+      });
+    }
+
+    for (const id of dirs(kindDir)) {
+      for (const locale of localeModules(path.join(kindDir, id))) {
+        entries.push({
+          collection: "pages",
+          key: `${kind}/${id}`,
+          locale,
+          importPath: `./pages/${kind}/${id}/${locale}`,
+        });
+      }
+    }
+  }
+
+  const simple: { collection: string; dir: string; importBase: string }[] = [
+    {
+      collection: "fleet-category",
+      dir: path.join(CONTENT_DIR, "fleet/category"),
+      importBase: "./fleet/category",
+    },
+    {
+      collection: "vehicle",
+      dir: path.join(CONTENT_DIR, "fleet/vehicle"),
+      importBase: "./fleet/vehicle",
+    },
+    {
+      collection: "articles",
+      dir: path.join(CONTENT_DIR, "articles"),
+      importBase: "./articles",
+    },
+  ];
+
+  for (const { collection, dir, importBase } of simple) {
+    for (const key of dirs(dir)) {
+      for (const locale of localeModules(path.join(dir, key))) {
+        entries.push({
+          collection,
+          key,
+          locale,
+          importPath: `${importBase}/${key}/${locale}`,
+        });
+      }
+    }
+  }
+
+  return entries;
+}
+
+function main() {
+  const entries = collect();
+
+  const imports = entries
+    .map(
+      (e) =>
+        `import { copy as ${ident(e.collection, e.key, e.locale)} } from "${e.importPath}";`,
+    )
+    .join("\n");
+
+  // collection -> key -> locale -> identifier
+  const tree = new Map<string, Map<string, Map<string, string>>>();
+  for (const e of entries) {
+    if (!tree.has(e.collection)) tree.set(e.collection, new Map());
+    const coll = tree.get(e.collection)!;
+    if (!coll.has(e.key)) coll.set(e.key, new Map());
+    coll.get(e.key)!.set(e.locale, ident(e.collection, e.key, e.locale));
+  }
+
+  const collections = [
+    "pages",
+    "fleet-category",
+    "vehicle",
+    "articles",
+    "shared",
+  ];
+  const body = collections
+    .map((collection) => {
+      const coll = tree.get(collection);
+      if (!coll || coll.size === 0)
+        return ` ${JSON.stringify(collection)}: {},`;
+      const keys = [...coll.entries()]
+        .sort(([a], [b]) => a.localeCompare(b))
+        .map(([key, byLocale]) => {
+          const pairs = locales
+            .filter((l) => byLocale.has(l))
+            .map((l) => ` ${l}: ${byLocale.get(l)},`)
+            .join("\n");
+          return ` ${JSON.stringify(key)}: {\n${pairs}\n },`;
+        })
+        .join("\n");
+      return ` ${JSON.stringify(collection)}: {\n${keys}\n },`;
+    })
+    .join("\n");
+
+  const source =
+    `// GENERATED by scripts/build-content-registry.ts, do not edit by hand.\n` +
+    `// Run: npm run content:registry\n` +
+    `import type { CategoryCopy, PageCopy, VehicleCopy, ArticleCopy } from "./types";\n` +
+    `import type { Locale } from "@/i18n/routing";\n` +
+    (imports ? `\n${imports}\n` : "\n") +
+    `\ntype ByLocale<T> = Partial<Record<Locale, T>>;\n\n` +
+    `export const CONTENT: {\n` +
+    ` pages: Record<string, ByLocale<PageCopy>>;\n` +
+    ` "fleet-category": Record<string, ByLocale<CategoryCopy>>;\n` +
+    ` vehicle: Record<string, ByLocale<VehicleCopy>>;\n` +
+    ` articles: Record<string, ByLocale<ArticleCopy>>;\n` +
+    ` shared: Record<string, ByLocale<unknown>>;\n` +
+    `} = {\n${body}\n};\n\n` +
+    `export default CONTENT;\n`;
+
+  writeFileSync(OUT_PATH, source, "utf8");
+
+  const perCollection = collections.map((c) => {
+    const coll = tree.get(c);
+    const keyCount = coll?.size ?? 0;
+    const moduleCount = entries.filter((e) => e.collection === c).length;
+    return { c, keyCount, moduleCount };
+  });
+
+  console.log(
+    ` ${entries.length} content modules across ${tree.size} collection(s)`,
+  );
+  for (const { c, keyCount, moduleCount } of perCollection) {
+    const complete =
+      keyCount === 0
+        ? ""
+        : ` (${(moduleCount / keyCount).toFixed(1)}/11 locales avg)`;
+    console.log(
+      ` ${c.padEnd(16)} ${String(keyCount).padStart(3)} keys ${String(moduleCount).padStart(4)} modules${complete}`,
+    );
+  }
+  console.log(` wrote ${path.relative(ROOT, OUT_PATH)}`);
+}
+
+main();

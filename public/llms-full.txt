@@ -1,0 +1,71 @@
+# AGGELOS Rentals (full)
+
+> Complete reference for AI agents and tools. Family-run vehicle rentals on Antiparos and Paros since 1994. Brand name is always AGGELOS Rentals (never localize). Website: https://antiparosrentacar.com
+
+## Who we are
+
+AGGELOS Rentals is the vehicle rental desk headquartered at Antiparos Port in the Cyclades, Greece. We rent cars, SUVs, convertibles, people carriers, scooters, ATVs, buggies and bicycles for travellers exploring Antiparos and Paros. Founded in 1994. Phone and WhatsApp: +30 694 495 0094. Email: aggelos@antiparosrentacar.com. Address: Port, Antiparos, Cyclades 840 07, Greece.
+
+## How booking works
+
+1. Customer chooses dates and pickup on antiparosrentacar.com (on-site booking widget).
+2. Live availability comes from GoCars.
+3. Checkout completes on antiparosrentacar.gocars.gr.
+4. Confirmation is typically fast; free cancellation is a core offer where stated on the booking flow.
+
+## Pickup and delivery points
+
+- Antiparos Port (main office)
+- Antiparos Helipad
+- Antiparos villas
+- Paros Airport (PAS)
+- Parikia port (Paros)
+- Paros villas
+- Piraeus (mainland start / one-way options toward the islands)
+
+## Fleet categories
+
+- Mini and compact cars for village streets and easy parking
+- Crossovers and SUVs / jeeps for hills, luggage and families
+- Convertibles for open-air island drives
+- 7-seater and 9-seater people carriers for groups
+- Scooters 50cc to 300cc, including Vespa / elite scooter options
+- ATVs, UTVs and buggies for dirt tracks and beach access
+- Bicycles and e-bikes for short hops without a motorcycle licence (enquiry)
+
+Full catalog: https://antiparosrentacar.com/en/fleet/
+
+## High-intent service pages (English URLs; other locales use localized paths under /el/, /fr/, etc.)
+
+- https://antiparosrentacar.com/en/
+- https://antiparosrentacar.com/en/paros-rent-a-car/
+- https://antiparosrentacar.com/en/rent-a-car-antiparos-aggelos/
+- https://antiparosrentacar.com/en/paros-airport-rent-a-car-port/
+- https://antiparosrentacar.com/en/paros-port-parikia-rent-a-car/
+- https://antiparosrentacar.com/en/antiparos-scooter-rentals/
+- https://antiparosrentacar.com/en/atvs-antiparos/
+- https://antiparosrentacar.com/en/suv-rentals-paros/
+- https://antiparosrentacar.com/en/piraeus-rent-a-car/
+- https://antiparosrentacar.com/en/faq/
+- https://antiparosrentacar.com/en/contact/
+- https://antiparosrentacar.com/en/about-us/
+- https://antiparosrentacar.com/en/guides/
+- https://antiparosrentacar.com/en/reviews/
+
+## Common traveller questions (summary)
+
+- Licences: valid national or international driving licence as required for the vehicle class; see FAQ for details.
+- Driver age: age bands apply (commonly 21-24 and 25-70); confirm in the booking form.
+- Insurance: basic cover is included in published rates; extras may be offered at checkout.
+- Fuel, ferries and roads: island roads vary; scooters and ATVs suit short hops and tracks; cars suit luggage and families.
+- One-way: Paros to Antiparos (and reverse) is a frequent request; ask when booking.
+
+## Content model note
+
+Native per-locale marketing copy lives under src/content for home, money pages, fleet categories and vehicles across 11 locales. Scraped WordPress markdown remains a fallback body for some guides and blog posts.
+
+## Related brands
+
+- VIP transfers: https://antiparostransfer.gr/
+- Apartments: https://antiparosrooms.com/
+- Piraeus rentals: https://aggelosrentals.com/

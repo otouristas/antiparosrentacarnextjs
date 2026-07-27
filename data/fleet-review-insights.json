@@ -1,0 +1,743 @@
+{
+  "generatedAt": "2026-07-27T11:24:34.048Z",
+  "vehicles": {
+    "mini-manual": {
+      "typeId": "48",
+      "slug": "mini-manual",
+      "category": "mini",
+      "idealFor": "Easy parking and narrow island roads",
+      "reviewIds": [
+        "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "compact-manual": {
+      "typeId": "50",
+      "slug": "compact-manual",
+      "category": "compact",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+          "author": "Oliver Bielschowsky",
+          "text": "Really great, frictionless experience. Paid on arrival - handed keys back 2 days later. Fiat panda which goes nicely and is small enough to turn in tight space…",
+          "rating": 5
+        },
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE",
+          "author": "Eugen Waidhofer",
+          "text": "friendly and helpful. a very good fiat panda-experience. thumbs up 👍👍👍 …",
+          "rating": 5
+        }
+      ]
+    },
+    "convertible-manual": {
+      "typeId": "51",
+      "slug": "convertible-manual",
+      "category": "convertible",
+      "idealFor": "Sunny open-air island days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "crossover-automatic": {
+      "typeId": "52",
+      "slug": "crossover-automatic",
+      "category": "crossover",
+      "idealFor": "Getting around Paros & Antiparos",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "4x4-offroad-manual": {
+      "typeId": "53",
+      "slug": "4x4-offroad-manual",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "elite-suv-automatic": {
+      "typeId": "54",
+      "slug": "elite-suv-automatic",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "7-seater-manual": {
+      "typeId": "55",
+      "slug": "7-seater-manual",
+      "category": "people-carriers",
+      "idealFor": "Families and groups traveling together",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "buggy-500cc": {
+      "typeId": "58",
+      "slug": "buggy-500cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "medium-manual": {
+      "typeId": "59",
+      "slug": "medium-manual",
+      "category": "compact",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+          "author": "Oliver Bielschowsky",
+          "text": "Really great, frictionless experience. Paid on arrival - handed keys back 2 days later. Fiat panda which goes nicely and is small enough to turn in tight space…",
+          "rating": 5
+        },
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE",
+          "author": "Eugen Waidhofer",
+          "text": "friendly and helpful. a very good fiat panda-experience. thumbs up 👍👍👍 …",
+          "rating": 5
+        }
+      ]
+    },
+    "mini-automatic": {
+      "typeId": "60",
+      "slug": "mini-automatic",
+      "category": "mini",
+      "idealFor": "Easy parking and narrow island roads",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSURMcWV1WEJnEAE",
+          "author": "Stephen Gibbs",
+          "text": "Excellent small car. Easy to book. Great rates.. very friendly service. Highly recommended.",
+          "rating": 5
+        },
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "scooter-50cc": {
+      "typeId": "61",
+      "slug": "scooter-50cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [
+        "ChdDSUhNMG9nS0VJQ0FnSURRcV9hOTBBRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSURRcV9hOTBBRRAB",
+          "author": "Garrett Stowall",
+          "text": "I felt like I needed to review after I read some other posts. For ourselves we had a great experience. We had asked to rent a 50cc bike but because it was wind…",
+          "rating": 5
+        }
+      ]
+    },
+    "scooter-125cc": {
+      "typeId": "62",
+      "slug": "scooter-125cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        }
+      ]
+    },
+    "scooter-150cc": {
+      "typeId": "63",
+      "slug": "scooter-150cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        }
+      ]
+    },
+    "scooter-200cc": {
+      "typeId": "64",
+      "slug": "scooter-200cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        }
+      ]
+    },
+    "scooter-300cc": {
+      "typeId": "65",
+      "slug": "scooter-300cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        }
+      ]
+    },
+    "atv-300cc": {
+      "typeId": "68",
+      "slug": "atv-300cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "atv-450cc": {
+      "typeId": "69",
+      "slug": "atv-450cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "atv-520cc": {
+      "typeId": "70",
+      "slug": "atv-520cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "premium-mini-automatic": {
+      "typeId": "71",
+      "slug": "premium-mini-automatic",
+      "category": "mini",
+      "idealFor": "Easy parking and narrow island roads",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSURMcWV1WEJnEAE",
+          "author": "Stephen Gibbs",
+          "text": "Excellent small car. Easy to book. Great rates.. very friendly service. Highly recommended.",
+          "rating": 5
+        },
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "compact-hybrid-manual": {
+      "typeId": "72",
+      "slug": "compact-hybrid-manual",
+      "category": "compact",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+          "author": "Oliver Bielschowsky",
+          "text": "Really great, frictionless experience. Paid on arrival - handed keys back 2 days later. Fiat panda which goes nicely and is small enough to turn in tight space…",
+          "rating": 5
+        },
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE",
+          "author": "Eugen Waidhofer",
+          "text": "friendly and helpful. a very good fiat panda-experience. thumbs up 👍👍👍 …",
+          "rating": 5
+        }
+      ]
+    },
+    "convertible-automatic": {
+      "typeId": "73",
+      "slug": "convertible-automatic",
+      "category": "convertible",
+      "idealFor": "Sunny open-air island days",
+      "reviewIds": [
+        "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "convertible-hybrid-manual": {
+      "typeId": "74",
+      "slug": "convertible-hybrid-manual",
+      "category": "convertible",
+      "idealFor": "Sunny open-air island days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "suv-manual": {
+      "typeId": "75",
+      "slug": "suv-manual",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "suv-automatic": {
+      "typeId": "76",
+      "slug": "suv-automatic",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "suv-hybrid-4xe": {
+      "typeId": "77",
+      "slug": "suv-hybrid-4xe",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "suv-open-top-automatic": {
+      "typeId": "78",
+      "slug": "suv-open-top-automatic",
+      "category": "suvs",
+      "idealFor": "Rough roads and scenic drives",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "9-seater": {
+      "typeId": "79",
+      "slug": "9-seater",
+      "category": "people-carriers",
+      "idealFor": "Families and groups traveling together",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "elite-scooter-125cc": {
+      "typeId": "80",
+      "slug": "elite-scooter-125cc",
+      "category": "scooters",
+      "idealFor": "Exploring the island light and free",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        }
+      ]
+    },
+    "medium-2024-manual": {
+      "typeId": "81",
+      "slug": "medium-2024-manual",
+      "category": "compact",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+          "author": "Oliver Bielschowsky",
+          "text": "Really great, frictionless experience. Paid on arrival - handed keys back 2 days later. Fiat panda which goes nicely and is small enough to turn in tight space…",
+          "rating": 5
+        },
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE",
+          "author": "Eugen Waidhofer",
+          "text": "friendly and helpful. a very good fiat panda-experience. thumbs up 👍👍👍 …",
+          "rating": 5
+        }
+      ]
+    },
+    "atv-550cc": {
+      "typeId": "82",
+      "slug": "atv-550cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "utv-850cc": {
+      "typeId": "83",
+      "slug": "utv-850cc",
+      "category": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        }
+      ]
+    },
+    "crossover-manual": {
+      "typeId": "84",
+      "slug": "crossover-manual",
+      "category": "crossover",
+      "idealFor": "Getting around Paros & Antiparos",
+      "reviewIds": [],
+      "quotes": []
+    },
+    "elite-convertible-automatic": {
+      "typeId": "85",
+      "slug": "elite-convertible-automatic",
+      "category": "convertible",
+      "idealFor": "Sunny open-air island days",
+      "reviewIds": [],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    }
+  },
+  "categories": {
+    "atvs": {
+      "slug": "atvs",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2taSFZWQXRTRlppZVZCa2QxZDJNamRTVlY5U2RrRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT21WalEycGFWRFo0Ykc5R1RsOTRVekV3WkRkTk5IYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2xoVlJXVllUR1JNTVZSdGJUZFVSamxvVG5aRGRsRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2s1NWMxTnJSalZvYVVkaVNXSlZRMmhEVkVaclRFRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2xnNWRHWktWM2REZHkxU00wZDVSbTk2VFUxdmFXYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2tOMlJuWlRiVU5HT1ZZMlRYRkdVSE01WHpKd1pIYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT21welJWUkRZMUo2UldWWlRFdDZkR0pJV25GRFgyYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2xSdE1FTmliVXRhTFdSbGJtOTZOVEZhYkZOWmNrRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURaeG9pdUdBEAE",
+        "ChdDSUhNMG9nS0VJQ0FnSURUME1uMjFRRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURKamZYTFh3EAE",
+        "ChdDSUhNMG9nS0VJQ0FnSURhZ2RLM3F3RRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUNPOEtYSk9REAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUNPaWN1SF9nRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURibTg3ZmFnEAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUN1dDhqazBRRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUR1Z2F5UG53RRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSURwMnEyTmpnRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUN3cW9TQ293RRAB"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT204MWMwOUlNemRWVEVodU0yaHRiazUzVTJSS2NGRRAB",
+          "author": "Fran Moreira",
+          "text": "We rented an ATV here for €40 for the whole day, and it was absolutely worth it. The ATV was in great condition and ran perfectly all day. The whole rental pro…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25sdlRHOU9jM1ZZY1dKdFZ6TmhZV3RJUVdGS1puYxAB",
+          "author": "Nelson Lupin",
+          "text": "Best car rental office in Antiparos! Angelos is the best person in Antiparos. Most of the people with the one star can’t stand the honesty of this men. His mai…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT21WalEycGFWRFo0Ykc5R1RsOTRVekV3WkRkTk5IYxAB",
+          "author": "petros apokotos",
+          "text": "Η καλύτερη εμπειρία στην Αντίπαρο . Νοικιάσαμε ATV και εξερευνήσαμε όλες τις παραλίες της Αντίπαρου. Πολύ επαγγελματίες περάσαμε τέλεια",
+          "rating": 5
+        }
+      ]
+    },
+    "scooters": {
+      "slug": "scooters",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT25jdFoxaHdTelZxWkdOMFYxaDZOMFl3WlRKWmJXYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2kwNFJqbG5SRFpQVXpoTE0xRXdhbmhNUzNwcVdWRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUM3eHFMXzNnRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUQ1d1k3MVR3EAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUR1azliMHZBRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUNlX1B1X0RnEAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSURKemF6TjZ3RRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUNDX3A2RUF3EAE",
+        "ChZDSUhNMG9nS0VJQ0FnSURxdk0taE5REAE",
+        "ChdDSUhNMG9nS0VJQ0FnSURRcV9hOTBBRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURZbDdHMlJ3EAE",
+        "ChZDSUhNMG9nS0VJQ0FnSUNlMTVYZmR3EAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUN4dTlQWnNBRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUNieDZURC1BRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUR1LV8tSU13EAE",
+        "ChdDSUhNMG9nS0VJQ0FnSURuMVlYOXJRRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSURwMnEyTmpnRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVk1YWlFZMloxU1hkd1JHdGFka1ZCZHpsSGRFRRAB",
+          "author": "Carline S",
+          "text": "Good Experience - every thing went smooth. The Scooter got delivered before agreed time directly to Airbnb. Easy communication and handling.",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFNsUk9SbXR5Wld4RFdrUjJVMGxrYUhscWRrRRAB",
+          "author": "Johannes Zwanzig",
+          "text": "Sind spontan nach Antiparos und wollten die Insel per Scooter erkunden. Die Jungs waren super nett und haben uns unkompliziert einen Scooter zu einem guten Pre…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25jdFoxaHdTelZxWkdOMFYxaDZOMFl3WlRKWmJXYxAB",
+          "author": "Tatjana Hrovatic",
+          "text": "Good experience renting a scooter for 5 days in October. Everything was as agreed. I recommend.",
+          "rating": 5
+        }
+      ]
+    },
+    "bikes": {
+      "slug": "bikes",
+      "idealFor": "Off-road & adventure days",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT21kSGEzZE9TMlJHY3psM2VYbDRjbkZQVUhoWE1IYxAB",
+        "Ci9DQUlRQUNvZENodHljRjlvT2xnNWRHWktWM2REZHkxU00wZDVSbTk2VFUxdmFXYxAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUNaNW9MVy1RRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURGMTdxMlZnEAE",
+        "ChZDSUhNMG9nS0VJQ0FnSUNsa3VPWmJBEAE",
+        "ChZDSUhNMG9nS0VJQ0FnSURWdl92MlJnEAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUQ2alp5VmpRRRAB",
+        "ChdDSUhNMG9nS0VJQ0FnSURRcV9hOTBBRRAB",
+        "ChZDSUhNMG9nS0VJQ0FnSURnd1BYYlVBEAE",
+        "Ci9DQUlRQUNvZENodHljRjlvT2xkM00yMVJhR1EzWlZKTFIxWlVhMU50TTFGc2MyYxAB",
+        "ChdDSUhNMG9nS0VJQ0FnSUNxLVp1anlBRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT21kSGEzZE9TMlJHY3psM2VYbDRjbkZQVUhoWE1IYxAB",
+          "author": "Markus Herrmann",
+          "text": "Super freundliches Team, sehr hilfsbereit! Wir haben einen Roller für mehrere Tage gemietet. Hat in erster Linie neue, top gepflegte Roller, Quat, Autos und au…",
+          "rating": 5
+        },
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNWRHWktWM2REZHkxU00wZDVSbTk2VFUxdmFXYxAB",
+          "author": "Isabella Dasilva",
+          "text": "Fantastic experience! It was my first time driving a quad bike and the staff made sure I was fully informed and comfortable before we set off. They provided in…",
+          "rating": 5
+        },
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNaNW9MVy1RRRAB",
+          "author": "Alex Robben",
+          "text": "Great place to rent a bike. The service is great and allows us to keep the bike for another day. Very genuine owner with great staff. The ferry will cost 6.50…",
+          "rating": 5
+        }
+      ]
+    },
+    "compact": {
+      "slug": "compact",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [
+        "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+        "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE"
+      ],
+      "quotes": [
+        {
+          "id": "Ci9DQUlRQUNvZENodHljRjlvT25SamFEQTJPSEV3TWtGWWNHRkJOVTFSTFcxWGVXYxAB",
+          "author": "Oliver Bielschowsky",
+          "text": "Really great, frictionless experience. Paid on arrival - handed keys back 2 days later. Fiat panda which goes nicely and is small enough to turn in tight space…",
+          "rating": 5
+        },
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRqdEJREAE",
+          "author": "Eugen Waidhofer",
+          "text": "friendly and helpful. a very good fiat panda-experience. thumbs up 👍👍👍 …",
+          "rating": 5
+        }
+      ]
+    },
+    "mini": {
+      "slug": "mini",
+      "idealFor": "Easy parking and narrow island roads",
+      "reviewIds": [
+        "ChZDSUhNMG9nS0VJQ0FnSURMcWV1WEJnEAE",
+        "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "ChZDSUhNMG9nS0VJQ0FnSURMcWV1WEJnEAE",
+          "author": "Stephen Gibbs",
+          "text": "Excellent small car. Easy to book. Great rates.. very friendly service. Highly recommended.",
+          "rating": 5
+        },
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "convertible": {
+      "slug": "convertible",
+      "idealFor": "Sunny open-air island days",
+      "reviewIds": [
+        "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB"
+      ],
+      "quotes": [
+        {
+          "id": "ChdDSUhNMG9nS0VJQ0FnSUNlaWJhNzVnRRAB",
+          "author": "Gabriella Botta",
+          "text": "Appena arrivati ad Antiparos abbiamo cercato un'agenzia di noleggio moto. In seguito alle varie recensioni positive ci siamo subito indirizzati verso quella co…",
+          "rating": 5
+        }
+      ]
+    },
+    "suvs": {
+      "slug": "suvs",
+      "idealFor": "Beach hopping around Paros & Antiparos",
+      "reviewIds": [
+        "ChZDSUhNMG9nS0VJQ0FnSURibTg3ZmFnEAE"
+      ],
+      "quotes": []
+    }
+  }
+}

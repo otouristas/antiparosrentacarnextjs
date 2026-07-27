@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# google reviews scraper tooling (normalized exports live in data/)
+/tools/google-reviews-scraper-pro/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
@@ -33,8 +36,13 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
-# vercel
+# vercel / netlify
 .vercel
+.netlify
+
+# python
+__pycache__/
+*.py[cod]
 
 # typescript
 *.tsbuildinfo

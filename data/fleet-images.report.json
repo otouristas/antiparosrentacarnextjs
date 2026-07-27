@@ -1,0 +1,601 @@
+{
+  "generatedAt": "2026-07-27T10:31:28.446Z",
+  "reports": [
+    {
+      "typeId": "48",
+      "slug": "mini-manual",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 678,
+        "h": 403
+      },
+      "notes": [
+        "detached mark removed (2649px)"
+      ]
+    },
+    {
+      "typeId": "50",
+      "slug": "compact-manual",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 729,
+        "h": 394
+      },
+      "notes": [
+        "detached mark removed (2532px)"
+      ]
+    },
+    {
+      "typeId": "51",
+      "slug": "convertible-manual",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 684,
+        "h": 392
+      },
+      "notes": [
+        "detached mark removed (2641px)"
+      ]
+    },
+    {
+      "typeId": "52",
+      "slug": "crossover-automatic",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 713,
+        "h": 378
+      },
+      "notes": [
+        "detached mark removed (2575px)"
+      ]
+    },
+    {
+      "typeId": "53",
+      "slug": "4x4-offroad-manual",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 632,
+        "h": 441
+      },
+      "notes": [
+        "detached mark removed (2965px)"
+      ]
+    },
+    {
+      "typeId": "54",
+      "slug": "elite-suv-automatic",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 739,
+        "h": 440
+      },
+      "notes": [
+        "detached mark removed (2832px)"
+      ]
+    },
+    {
+      "typeId": "55",
+      "slug": "7-seater-manual",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 725,
+        "h": 448
+      },
+      "notes": [
+        "detached mark removed (2874px)"
+      ]
+    },
+    {
+      "typeId": "58",
+      "slug": "buggy-500cc",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 521,
+        "h": 392
+      },
+      "notes": [
+        "detached mark removed (2582px)"
+      ]
+    },
+    {
+      "typeId": "59",
+      "slug": "medium-manual",
+      "source": {
+        "w": 800,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 800,
+        "h": 397
+      },
+      "notes": [
+        "detached mark removed (2937px)"
+      ]
+    },
+    {
+      "typeId": "60",
+      "slug": "mini-automatic",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 735,
+        "h": 394
+      },
+      "notes": [
+        "detached mark removed (2582px)"
+      ]
+    },
+    {
+      "typeId": "61",
+      "slug": "scooter-50cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 508,
+        "h": 450
+      },
+      "notes": [
+        "detached mark removed (2439px)"
+      ]
+    },
+    {
+      "typeId": "62",
+      "slug": "scooter-125cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 532,
+        "h": 445
+      },
+      "notes": [
+        "detached mark removed (2326px)"
+      ]
+    },
+    {
+      "typeId": "63",
+      "slug": "scooter-150cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 513,
+        "h": 446
+      },
+      "notes": [
+        "detached mark removed (2354px)"
+      ]
+    },
+    {
+      "typeId": "64",
+      "slug": "scooter-200cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 476,
+        "h": 445
+      },
+      "notes": [
+        "detached mark removed (2325px)"
+      ]
+    },
+    {
+      "typeId": "65",
+      "slug": "scooter-300cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 493,
+        "h": 444
+      },
+      "notes": [
+        "detached mark removed (2323px)"
+      ]
+    },
+    {
+      "typeId": "68",
+      "slug": "atv-300cc",
+      "source": {
+        "w": 600,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 526,
+        "h": 424
+      },
+      "notes": [
+        "detached mark removed (3048px)"
+      ]
+    },
+    {
+      "typeId": "69",
+      "slug": "atv-450cc",
+      "source": {
+        "w": 750,
+        "h": 550,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 733,
+        "h": 550
+      },
+      "notes": [
+        "detached mark removed (5585px)"
+      ]
+    },
+    {
+      "typeId": "70",
+      "slug": "atv-520cc",
+      "source": {
+        "w": 750,
+        "h": 550,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 714,
+        "h": 549
+      },
+      "notes": [
+        "detached mark removed (5093px)"
+      ]
+    },
+    {
+      "typeId": "71",
+      "slug": "premium-mini-automatic",
+      "source": {
+        "w": 600,
+        "h": 450,
+        "hasAlpha": false,
+        "channels": 3
+      },
+      "backgroundRemoved": true,
+      "trimmed": {
+        "w": 553,
+        "h": 411
+      },
+      "notes": [
+        "opaque source — white backdrop flood-filled (34% removed)",
+        "detached mark removed (3062px)"
+      ]
+    },
+    {
+      "typeId": "72",
+      "slug": "compact-hybrid-manual",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": false,
+        "channels": 3
+      },
+      "backgroundRemoved": true,
+      "trimmed": {
+        "w": 627,
+        "h": 341
+      },
+      "notes": [
+        "opaque source — white backdrop flood-filled (48% removed)",
+        "detached mark removed (4158px)"
+      ]
+    },
+    {
+      "typeId": "73",
+      "slug": "convertible-automatic",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 630,
+        "h": 399
+      },
+      "notes": [
+        "detached mark removed (2590px)"
+      ]
+    },
+    {
+      "typeId": "74",
+      "slug": "convertible-hybrid-manual",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 697,
+        "h": 383
+      },
+      "notes": [
+        "detached mark removed (2515px)"
+      ]
+    },
+    {
+      "typeId": "75",
+      "slug": "suv-manual",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 722,
+        "h": 443
+      },
+      "notes": [
+        "detached mark removed (2854px)"
+      ]
+    },
+    {
+      "typeId": "76",
+      "slug": "suv-automatic",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 749,
+        "h": 423
+      },
+      "notes": [
+        "detached mark removed (3997px)"
+      ]
+    },
+    {
+      "typeId": "77",
+      "slug": "suv-hybrid-4xe",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 739,
+        "h": 450
+      },
+      "notes": [
+        "detached mark removed (2654px)"
+      ]
+    },
+    {
+      "typeId": "78",
+      "slug": "suv-open-top-automatic",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 697,
+        "h": 441
+      },
+      "notes": [
+        "detached mark removed (2789px)"
+      ]
+    },
+    {
+      "typeId": "79",
+      "slug": "9-seater",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 750,
+        "h": 445
+      },
+      "notes": [
+        "detached mark removed (2907px)"
+      ]
+    },
+    {
+      "typeId": "80",
+      "slug": "elite-scooter-125cc",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 582,
+        "h": 450
+      },
+      "notes": [
+        "detached mark removed (3445px)"
+      ]
+    },
+    {
+      "typeId": "81",
+      "slug": "medium-2024-manual",
+      "source": {
+        "w": 750,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 677,
+        "h": 409
+      },
+      "notes": [
+        "detached mark removed (3445px)"
+      ]
+    },
+    {
+      "typeId": "82",
+      "slug": "atv-550cc",
+      "source": {
+        "w": 650,
+        "h": 650,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 497,
+        "h": 398
+      },
+      "notes": [
+        "detached mark removed (61px)"
+      ]
+    },
+    {
+      "typeId": "83",
+      "slug": "utv-850cc",
+      "source": {
+        "w": 600,
+        "h": 450,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 583,
+        "h": 405
+      },
+      "notes": [
+        "detached mark removed (3048px)"
+      ]
+    },
+    {
+      "typeId": "84",
+      "slug": "crossover-manual",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 743,
+        "h": 403
+      },
+      "notes": [
+        "detached mark removed (2570px)"
+      ]
+    },
+    {
+      "typeId": "85",
+      "slug": "elite-convertible-automatic",
+      "source": {
+        "w": 743,
+        "h": 403,
+        "hasAlpha": true,
+        "channels": 4
+      },
+      "backgroundRemoved": false,
+      "trimmed": {
+        "w": 739,
+        "h": 371
+      },
+      "notes": [
+        "detached mark removed (2575px)"
+      ]
+    }
+  ]
+}

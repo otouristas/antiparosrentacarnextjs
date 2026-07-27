@@ -1,0 +1,44 @@
+# AGGELOS Rentals
+
+> Family-run vehicle rentals on Antiparos and Paros since 1994. Brand name is always AGGELOS Rentals (never localize). Cars, scooters, ATVs, buggies and bikes with pickup at Antiparos Port, Paros Airport (PAS), Parikia port, villas, and Piraeus.
+
+## Primary pages
+
+- [Home](https://antiparosrentacar.com/en/): Antiparos and Paros rent a car overview and booking search
+- [Paros rent a car](https://antiparosrentacar.com/en/paros-rent-a-car/): Car rental for Paros island
+- [Antiparos rent a car](https://antiparosrentacar.com/en/rent-a-car-antiparos-aggelos/): Local Antiparos car rental from the port office
+- [Paros Airport pickup](https://antiparosrentacar.com/en/paros-airport-rent-a-car-port/): PAS airport car rental
+- [Parikia port pickup](https://antiparosrentacar.com/en/paros-port-parikia-rent-a-car/): Ferry-port car rental in Parikia
+- [Scooter rentals Antiparos](https://antiparosrentacar.com/en/antiparos-scooter-rentals/): 50cc to 300cc and Vespa
+- [ATV and buggy Antiparos](https://antiparosrentacar.com/en/atvs-antiparos/): ATV and buggy rentals
+- [SUV rentals Paros](https://antiparosrentacar.com/en/suv-rentals-paros/): SUV and jeep rentals
+- [Piraeus rent a car](https://antiparosrentacar.com/en/piraeus-rent-a-car/): Start in Piraeus before the ferry
+- [Fleet](https://antiparosrentacar.com/en/fleet/): Full vehicle catalog
+- [FAQ](https://antiparosrentacar.com/en/faq/): Licenses, insurance, pickup, cancellation
+- [Guides](https://antiparosrentacar.com/en/guides/): Paros and Antiparos travel guides
+- [Contact](https://antiparosrentacar.com/en/contact/): Phone, WhatsApp, email
+
+## Optional
+
+- [About](https://antiparosrentacar.com/en/about-us/): Family story since 1994
+- [Reviews](https://antiparosrentacar.com/en/reviews/): Guest Google reviews
+- [Antiparos island guide](https://antiparosrentacar.com/en/antiparos-island/)
+- [Paros island guide](https://antiparosrentacar.com/en/paros-island/)
+- [Full site summary for agents](https://antiparosrentacar.com/llms-full.txt)
+
+## Contact
+
+- Phone / WhatsApp: +30 694 495 0094
+- Email: aggelos@antiparosrentacar.com
+- Address: Port, Antiparos, Cyclades 840 07, Greece
+- Booking checkout: antiparosrentacar.gocars.gr (search starts on this site)
+
+## Languages
+
+English (`/en/`), Greek (`/el/`), French (`/fr/`), Spanish (`/es/`), Italian (`/it/`), German (`/de/`), Dutch (`/nl/`), Swedish (`/sv/`), Portuguese (`/pt/`), Russian (`/ru/`), Turkish (`/tr/`). Every locale uses a URL prefix. Trailing slashes are used.
+
+## Related brands
+
+- VIP transfers: https://antiparostransfer.gr/
+- Apartments: https://antiparosrooms.com/
+- Piraeus rentals: https://aggelosrentals.com/

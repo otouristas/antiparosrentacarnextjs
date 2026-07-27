@@ -1,0 +1,18 @@
+{
+  "_readme": [
+    "Hand-curated image overrides keyed by GoCars type_id. An entry here WINS over",
+    "the mirrored GoCars studio render.",
+    "",
+    "Only add an entry after looking at the photo and confirming it shows a vehicle",
+    "that actually belongs to that type. The previous hardcoded catalogue had 22",
+    "unique images across 34 vehicles -- Jeeps rendered a Skoda, bicycles rendered a",
+    "Fiat Panda. A correct GoCars studio render always beats a nicer photo of the",
+    "wrong car, so leaving a type absent is the safe default.",
+    "",
+    "Paths are public/ relative and must start with a slash.",
+    "Populated in full during Phase 3; the three below are verified 1:1 matches."
+  ],
+  "53": "/fleet/Suzuki-Jimny-Paros-rent-a-car.webp",
+  "76": "/fleet/mg-zs.jpg",
+  "51": "/fleet/fiat-500-cabrio.jpg"
+}

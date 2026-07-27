@@ -1,0 +1,156 @@
+{
+  "colorScheme": "light",
+  "fonts": [
+    {
+      "family": "Open Sans",
+      "role": "body"
+    },
+    {
+      "family": "Inter",
+      "role": "unknown"
+    },
+    {
+      "family": "Segoe UI",
+      "role": "unknown"
+    },
+    {
+      "family": "Roboto",
+      "role": "unknown"
+    },
+    {
+      "family": "Poppins",
+      "role": "unknown"
+    }
+  ],
+  "colors": {
+    "primary": "#F9E527",
+    "secondary": "#3F97F6",
+    "accent": "#F9E527",
+    "background": "#FFFFFF",
+    "textPrimary": "#112553",
+    "link": "#112553"
+  },
+  "typography": {
+    "fontFamilies": {
+      "primary": "Open Sans",
+      "heading": "Open Sans"
+    },
+    "fontStacks": {
+      "heading": [
+        "Poppins",
+        "sans-serif"
+      ],
+      "body": [
+        "Open Sans"
+      ],
+      "paragraph": [
+        "Open Sans"
+      ]
+    },
+    "fontSizes": {
+      "h1": "58px",
+      "h2": "17px",
+      "body": "16px"
+    }
+  },
+  "spacing": {
+    "baseUnit": 4,
+    "borderRadius": "5px"
+  },
+  "components": {
+    "input": {
+      "background": "#FFFFFF",
+      "textColor": "#171717",
+      "borderColor": null,
+      "borderRadius": "5px",
+      "borderRadiusCorners": {
+        "topLeft": "5px",
+        "topRight": "0px",
+        "bottomRight": "0px",
+        "bottomLeft": "5px"
+      },
+      "shadow": "none"
+    },
+    "buttonPrimary": {
+      "background": "#F9E527",
+      "textColor": "#112553",
+      "borderColor": "#F9E527",
+      "borderRadius": "8px",
+      "borderRadiusCorners": {
+        "topLeft": "8px",
+        "topRight": "8px",
+        "bottomRight": "8px",
+        "bottomLeft": "8px"
+      },
+      "shadow": "none"
+    },
+    "buttonSecondary": {
+      "background": "#112553",
+      "textColor": "#FFFFFF",
+      "borderRadius": "4px",
+      "borderRadiusCorners": {
+        "topLeft": "4px",
+        "topRight": "4px",
+        "bottomRight": "4px",
+        "bottomLeft": "4px"
+      },
+      "shadow": "none"
+    }
+  },
+  "images": {
+    "logo": "https://antiparosrentacar.com/wp-content/uploads/2025/03/aggelos-rent-a-car-logo-final.png?v=20250624",
+    "favicon": "https://antiparosrentacar.com/wp-content/uploads/2024/11/favicon.png",
+    "ogImage": "https://antiparosrentacar.com/wp-content/uploads/2025/02/Fleet2.webp",
+    "logoHref": "https://antiparosrentacar.com/",
+    "logoAlt": "Antiparos Rent A Car"
+  },
+  "__llm_logo_reasoning": {
+    "selectedIndex": 4,
+    "reasoning": "Selected #4 because it is visible, located in the header, links to the homepage, and the alt text matches the brand name 'Antiparos Rent A Car'.",
+    "confidence": 0.95,
+    "source": "llm"
+  },
+  "__llm_button_reasoning": {
+    "primary": {
+      "index": 1,
+      "text": "CHECK AVAILABILITY                →",
+      "reasoning": "Button #1 'CHECK AVAILABILITY' is the primary CTA due to its vibrant brand color (#F9E527) and action-oriented text, making it the most prominent call-to-action on the page."
+    },
+    "secondary": {
+      "index": 3,
+      "text": "ΒΟΟΚ ΝΟW",
+      "reasoning": "Button #3 'ΒΟΟΚ ΝΟW' is selected as the secondary CTA because it has a different background color (#112553) and also serves as an action-oriented button, complementing the primary CTA."
+    },
+    "confidence": 0.95
+  },
+  "personality": {
+    "tone": "professional",
+    "energy": "medium",
+    "targetAudience": "tourists and travelers in Antiparos and Paros"
+  },
+  "designSystem": {
+    "framework": "custom",
+    "componentLibrary": ""
+  },
+  "confidence": {
+    "buttons": 0.95,
+    "colors": 0.9,
+    "overall": 0.925
+  },
+  "__llm_metadata": {
+    "logoSelection": {
+      "llmCalled": true,
+      "llmSucceeded": true,
+      "finalSource": "llm",
+      "rawLogoSelection": {
+        "selectedLogoIndex": 4,
+        "selectedLogoReasoning": "Selected #4 because it is visible, located in the header, links to the homepage, and the alt text matches the brand name 'Antiparos Rent A Car'.",
+        "confidence": 0.95
+      }
+    },
+    "buttonClassification": {
+      "llmCalled": true,
+      "llmSucceeded": true
+    }
+  }
+}

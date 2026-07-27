@@ -1,0 +1,43 @@
+[
+  {
+    "id": 58,
+    "slug": "home",
+    "title": "Antiparos & Paros Rent A Car",
+    "seo": {
+      "title": "Antiparos & Paros Rent a Car | AGGELOS Rentals",
+      "desc": "Explore Antiparos and Paros with ease. AGGELOS Rentals offers cars, scooters, and ATVs at competitive rates. Book now for a smooth ride!"
+    }
+  },
+  {
+    "id": 477,
+    "slug": "paros-rent-a-car",
+    "seo": {
+      "title": "Rent a car and moto in Paros | AGGELOS Rentals",
+      "desc": "Rent a car on Paros island with AGGELOS Rentals. Book online in 60 seconds for airport, port and island pickup with trusted local service since 1994."
+    }
+  },
+  {
+    "id": 355,
+    "slug": "rent-a-car-antiparos-aggelos",
+    "seo": {
+      "title": "Antiparos Rent a Car | Cars, ATVs & Scooters",
+      "desc": "Explore Antiparos with our reliable car rentals. Offering a range of vehicles including ATVs, scooters, and SUVs for your island adventures."
+    }
+  },
+  {
+    "id": 1441,
+    "slug": "paros-airport-rent-a-car-port",
+    "seo": {
+      "title": "Paros Airport Rent a Car 2026 | PAS Pickup | AGGELOS",
+      "desc": "Paros airport rent a car at PAS with AGGELOS Rentals. Book online for fast terminal pickup, competitive rates and local support since 1994."
+    }
+  },
+  {
+    "id": 1666,
+    "slug": "paros-port-parikia-rent-a-car",
+    "seo": {
+      "title": "Paros Port Rent a Car Parikia | Ferry Pickup | AGGELOS",
+      "desc": "Paros port rent a car at Parikia ferry terminal with AGGELOS Rentals. Book online for fast port pickup, competitive rates and local support since 1994."
+    }
+  }
+]

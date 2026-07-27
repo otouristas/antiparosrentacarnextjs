@@ -1,0 +1,661 @@
+indexable=363 pending=363 done=0
+
+Batch 1: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 2/25
+  … scraping 2/25
+  … scraping 2/25
+  … scraping 3/25
+  … scraping 3/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 5/25
+  … scraping 5/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 13/25
+  … scraping 15/25
+  … scraping 17/25
+  … scraping 19/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 24/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/de/
+  OK https://antiparosrentacar.com/de/aggelos-flotte/
+  OK https://antiparosrentacar.com/de/antiparos-rollerverleih/
+  OK https://antiparosrentacar.com/de/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/de/cookie-policy-eu/
+  OK https://antiparosrentacar.com/de/der-ultimative-reisefuhrer-fur-paros-griechenland-aktualisiert-fur-2025/
+  OK https://antiparosrentacar.com/de/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/de/erdbeben-auf-santorin-kykladeninseln-in-alarmbereitschaft-darunter-paros-und-antiparos/
+  OK https://antiparosrentacar.com/de/erdbeben-auf-santorin-warum-sie-dieses-jahr-paros-oder-antiparos-wahlen-sollten/
+  OK https://antiparosrentacar.com/de/fahrrader-flotte/
+  OK https://antiparosrentacar.com/de/fuhrpark/
+  OK https://antiparosrentacar.com/de/gelandefahrzeuge-antiparos/
+  OK https://antiparosrentacar.com/de/geschaftsbedingungen/
+  OK https://antiparosrentacar.com/de/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/de/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-doreanische-ekdiloseis/
+  OK https://antiparosrentacar.com/de/insel-antiparos/
+  OK https://antiparosrentacar.com/de/insel-paros/
+  OK https://antiparosrentacar.com/de/kontakt/
+  OK https://antiparosrentacar.com/de/mieten-sie-ein-auto-auf-paros-mit-aggelos-rentals/
+  OK https://antiparosrentacar.com/de/mietwagen-antiparos-aggelos/
+  OK https://antiparosrentacar.com/de/mietwagenhafen-am-flughafen-paros/
+  OK https://antiparosrentacar.com/de/mit-aggelos-ganz-einfach-paros-erkunden/
+  OK https://antiparosrentacar.com/de/paros-mietwagen-die-besten-angebote-und-tipps-fur-2025/
+  OK https://antiparosrentacar.com/de/paros-mietwagen-gunstige-und-preiswerte-optionen-2025/
+  OK https://antiparosrentacar.com/de/paros-mietwagen/
+
+Batch 2: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 6/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 11/25
+  … scraping 12/25
+  … scraping 13/25
+  … scraping 14/25
+  … scraping 15/25
+  … scraping 16/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 24/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/de/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/de/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/de/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/de/piraus-autovermietung/
+  OK https://antiparosrentacar.com/de/reisetipps-fur-antiparos-und-paros/
+  OK https://antiparosrentacar.com/de/suv-vermietung-paros/
+  OK https://antiparosrentacar.com/de/uber-uns/
+  OK https://antiparosrentacar.com/de/windsurfen-paros-autovermietung-antiparos/
+  OK https://antiparosrentacar.com/el/
+  OK https://antiparosrentacar.com/el/atvs-antiparos/
+  OK https://antiparosrentacar.com/el/autokinita-paros-antiparos/
+  OK https://antiparosrentacar.com/el/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/el/cookie-policy-eu/
+  OK https://antiparosrentacar.com/el/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/el/enoikiaseis-aftokiniton-stin-paro-me-enoikiaseis-angelos/
+  OK https://antiparosrentacar.com/el/enoikiaseis-skouter-stin-antiparo/
+  OK https://antiparosrentacar.com/el/enoikiasi-aftokinitou-antiparos-agelos/
+  OK https://antiparosrentacar.com/el/enoikiasi-aftokinitou-stin-paro-oi-kalyteres-prosfores-symvoules-gia-to-2025/
+  OK https://antiparosrentacar.com/el/epikoinonia/
+  OK https://antiparosrentacar.com/el/gia-emas/
+  OK https://antiparosrentacar.com/el/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/el/i-exerevnisi-enoikiaseon-aftokiniton-stin-paro-egine-efkoli-me-ton-angelo/
+  OK https://antiparosrentacar.com/el/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/el/limani-enoikiasis-aftokiniton-sto-aerodromio-tis-parou/
+  OK https://antiparosrentacar.com/el/nisi-tis-antiparou/
+
+Batch 3: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 6/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 12/25
+  … scraping 14/25
+  … scraping 17/25
+  … scraping 19/25
+  … scraping 21/25
+  … scraping 23/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/el/o-apolytos-taxidiotikos-odigos-gia-tin-paro-ellada-enimerothike-gia-to-2025/
+  OK https://antiparosrentacar.com/el/paros-cyclades/
+  OK https://antiparosrentacar.com/el/paros-enoikiasi-aftokinitou/
+  OK https://antiparosrentacar.com/el/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/el/paros-rent-a-car-oikonomikes-kai-fthines-epiloges-2025/
+  OK https://antiparosrentacar.com/el/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/el/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/el/peiraias-rent-a-car/
+  OK https://antiparosrentacar.com/el/proypotheseis/
+  OK https://antiparosrentacar.com/el/seismoi-sti-santorini-giati-prepei-na-epilexete-tin-paro-i-tin-antiparo-fetos/
+  OK https://antiparosrentacar.com/el/seismoi-sti-santorini-plittoun-ta-nisia-ton-kykladon-syberilamvanomenis-tis-parou-kai-tis-antiparou/
+  OK https://antiparosrentacar.com/el/stolo-podilaton/
+  OK https://antiparosrentacar.com/el/stolos-angelos/
+  OK https://antiparosrentacar.com/el/taxidiotikes-symvoules-gia-tin-antiparo-kai-tin-paro/
+  OK https://antiparosrentacar.com/el/windsurf-paros-enoikiasi-aftokinitou-antiparos/
+  OK https://antiparosrentacar.com/el/ενοικιάσεις-suv-πάρος/
+  OK https://antiparosrentacar.com/
+  OK https://antiparosrentacar.com/about-us/
+  OK https://antiparosrentacar.com/aggelos-fleet/
+  OK https://antiparosrentacar.com/antiparos-island/
+  OK https://antiparosrentacar.com/antiparos-scooter-rentals/
+  OK https://antiparosrentacar.com/atvs-antiparos/
+  OK https://antiparosrentacar.com/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/bicycles-fleet/
+  OK https://antiparosrentacar.com/car-fleet/
+
+Batch 4: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 3/25
+  … scraping 5/25
+  … scraping 6/25
+  … scraping 8/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 15/25
+  … scraping 17/25
+  … scraping 19/25
+  … scraping 22/25
+  … scraping 24/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/contact/
+  OK https://antiparosrentacar.com/cookie-policy-eu/
+  OK https://antiparosrentacar.com/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/exploring-paros-car-rentals-made-easy-with-aggelos/
+  OK https://antiparosrentacar.com/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/paros-airport-rent-a-car-port/
+  OK https://antiparosrentacar.com/paros-island/
+  OK https://antiparosrentacar.com/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/paros-rent-a-car-affordable-and-cheap-options-2025/
+  OK https://antiparosrentacar.com/paros-rent-a-car-best-deals-tips-for-2025/
+  OK https://antiparosrentacar.com/paros-rent-a-car/
+  OK https://antiparosrentacar.com/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/piraeus-rent-a-car/
+  OK https://antiparosrentacar.com/rent-a-car-antiparos-aggelos/
+  OK https://antiparosrentacar.com/rent-a-car-in-paros-with-aggelos-rentals/
+  OK https://antiparosrentacar.com/santorini-earthquakes-swarm-cyclades-islands-on-alert-including-paros-and-antiparos/
+  OK https://antiparosrentacar.com/santorini-earthquakes-why-you-should-choose-paros-or-antiparos-this-year/
+  OK https://antiparosrentacar.com/suv-rentals-paros/
+  OK https://antiparosrentacar.com/terms-conditions/
+  OK https://antiparosrentacar.com/travel-tips-for-antiparos-and-paros/
+  OK https://antiparosrentacar.com/ultimate-travel-guide-to-paros-greece-updated-for-2025/
+  OK https://antiparosrentacar.com/windsurf-paros-car-rental-antiparos/
+  OK https://antiparosrentacar.com/es/
+
+Batch 5: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 6/25
+  … scraping 6/25
+  … scraping 8/25
+  … scraping 10/25
+  … scraping 12/25
+  … scraping 14/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 24/25
+  … scraping 24/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/es/alquila-un-coche-en-paros-con-aggelos-rentals/
+  OK https://antiparosrentacar.com/es/alquiler-de-coches-en-antiparos-y-aggelos/
+  OK https://antiparosrentacar.com/es/alquiler-de-coches-en-el-pireo/
+  OK https://antiparosrentacar.com/es/alquiler-de-coches-en-paros-las-mejores-ofertas-y-consejos-para-2025/
+  OK https://antiparosrentacar.com/es/alquiler-de-coches-en-paros-opciones-economicas-y-asequibles-2025/
+  OK https://antiparosrentacar.com/es/alquiler-de-coches-en-paros/
+  OK https://antiparosrentacar.com/es/alquiler-de-scooters-antiparos/
+  OK https://antiparosrentacar.com/es/alquiler-de-todoterrenos-en-paros/
+  OK https://antiparosrentacar.com/es/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/es/consejos-de-viaje-para-antiparos-y-paros/
+  OK https://antiparosrentacar.com/es/contacto/
+  OK https://antiparosrentacar.com/es/cookie-policy-eu/
+  OK https://antiparosrentacar.com/es/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/es/explorar-paros-alquiler-de-coches-facil-con-aggelos/
+  OK https://antiparosrentacar.com/es/flota-de-aggelos/
+  OK https://antiparosrentacar.com/es/flota-de-bicicletas/
+  OK https://antiparosrentacar.com/es/flota-de-vehiculos/
+  OK https://antiparosrentacar.com/es/guia-de-viaje-definitiva-a-paros-grecia-actualizada-para-2025/
+  OK https://antiparosrentacar.com/es/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/es/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/es/isla-de-antiparos/
+  OK https://antiparosrentacar.com/es/isla-de-paros/
+  OK https://antiparosrentacar.com/es/los-terremotos-de-santorini-azotan-las-islas-cicladas-incluidas-paros-y-antiparos/
+  OK https://antiparosrentacar.com/es/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/es/paros-vs-naxos-vs-antiparos/
+
+Batch 6: 25 urls
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 10/25
+  … scraping 12/25
+  … scraping 14/25
+  … scraping 15/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 19/25
+  … scraping 22/25
+  … scraping 24/25
+  … scraping 25/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/es/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/es/puerto-de-alquiler-de-coches-del-aeropuerto-de-paros/
+  OK https://antiparosrentacar.com/es/sobre-nosotros/
+  OK https://antiparosrentacar.com/es/terminos-y-condiciones/
+  OK https://antiparosrentacar.com/es/terremotos-en-santorini-por-que-deberias-elegir-paros-o-antiparos-este-ano/
+  OK https://antiparosrentacar.com/es/vehiculos-todo-terreno-antiparos/
+  OK https://antiparosrentacar.com/es/windsurf-paros-alquiler-de-coches-antiparos/
+  OK https://antiparosrentacar.com/fr/
+  OK https://antiparosrentacar.com/fr/a-propos-de-nous/
+  OK https://antiparosrentacar.com/fr/aeroport-de-paros-rent-a-car-port/
+  OK https://antiparosrentacar.com/fr/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/fr/conditions-generales/
+  OK https://antiparosrentacar.com/fr/conseils-de-voyage-pour-antiparos-et-paros/
+  OK https://antiparosrentacar.com/fr/contact/
+  OK https://antiparosrentacar.com/fr/cookie-policy-eu/
+  OK https://antiparosrentacar.com/fr/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/fr/flotte-automobile/
+  OK https://antiparosrentacar.com/fr/flotte-daggelos/
+  OK https://antiparosrentacar.com/fr/flotte-de-velos/
+  OK https://antiparosrentacar.com/fr/guide-de-voyage-ultime-pour-paros-grece-mis-a-jour-pour-2025/
+  OK https://antiparosrentacar.com/fr/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/fr/ile-dantiparos/
+  OK https://antiparosrentacar.com/fr/ile-de-paros/
+  OK https://antiparosrentacar.com/fr/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/fr/lexploration-de-paros-la-location-de-voitures-devient-facile-avec-aggelos/
+
+Batch 7: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 1/25
+  … scraping 3/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 19/25
+  … scraping 21/25
+  … scraping 23/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/fr/location-de-scooters-a-antiparos/
+  OK https://antiparosrentacar.com/fr/location-de-suv-a-paros/
+  OK https://antiparosrentacar.com/fr/location-de-voiture-au-piree/
+  OK https://antiparosrentacar.com/fr/louer-une-voiture-a-antiparos-aggelos/
+  OK https://antiparosrentacar.com/fr/louer-une-voiture-a-paros-avec-aggelos-rentals/
+  OK https://antiparosrentacar.com/fr/paros-louer-une-voiture/
+  OK https://antiparosrentacar.com/fr/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/fr/paros-rent-a-car-best-deals-tips-for-2025/
+  OK https://antiparosrentacar.com/fr/paros-rent-a-car-options-abordables-et-bon-marche-2025/
+  OK https://antiparosrentacar.com/fr/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/fr/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/fr/santorini-earthquakes-swarm-cyclades-islands-on-alert-including-paros-and-antiparos/
+  OK https://antiparosrentacar.com/fr/santorini-earthquakes-why-you-should-choose-paros-or-antiparos-this-year/
+  OK https://antiparosrentacar.com/fr/vtt-antiparos/
+  OK https://antiparosrentacar.com/fr/windsurf-paros-location-de-voiture-antiparos/
+  OK https://antiparosrentacar.com/it/
+  OK https://antiparosrentacar.com/it/atvs-antiparos/
+  OK https://antiparosrentacar.com/it/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/it/chi-siamo/
+  OK https://antiparosrentacar.com/it/consigli-di-viaggio-per-antiparos-e-paros/
+  OK https://antiparosrentacar.com/it/contatto/
+  OK https://antiparosrentacar.com/it/cookie-policy-eu/
+  OK https://antiparosrentacar.com/it/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/it/esplorare-il-noleggio-auto-di-paros-e-facile-con-aggelos/
+  OK https://antiparosrentacar.com/it/flotta-aggelos/
+
+Batch 8: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 3/25
+  … scraping 4/25
+  … scraping 6/25
+  … scraping 8/25
+  … scraping 10/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 15/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 20/25
+  … scraping 21/25
+  … scraping 24/25
+  … scraping 25/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/it/flotta-di-biciclette/
+  OK https://antiparosrentacar.com/it/guida-turistica-definitiva-di-paros-grecia-aggiornata-al-2025/
+  OK https://antiparosrentacar.com/it/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/it/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/it/isola-di-antiparos/
+  OK https://antiparosrentacar.com/it/isola-di-paros/
+  OK https://antiparosrentacar.com/it/noleggia-unauto-a-paros-con-aggelos-rentals/
+  OK https://antiparosrentacar.com/it/noleggio-auto-a-paros/
+  OK https://antiparosrentacar.com/it/noleggio-auto-al-pireo/
+  OK https://antiparosrentacar.com/it/noleggio-auto-antiparos-aggelos/
+  OK https://antiparosrentacar.com/it/noleggio-scooter-antiparos/
+  OK https://antiparosrentacar.com/it/noleggio-suv-a-paros/
+  OK https://antiparosrentacar.com/it/parco-auto/
+  OK https://antiparosrentacar.com/it/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/it/paros-rent-a-car-migliori-offerte-consigli-per-il-2025/
+  OK https://antiparosrentacar.com/it/paros-rent-a-car-opzioni-convenienti-ed-economiche-2025/
+  OK https://antiparosrentacar.com/it/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/it/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/it/porto-di-noleggio-auto-dellaeroporto-di-paros/
+  OK https://antiparosrentacar.com/it/termini-e-condizioni/
+  OK https://antiparosrentacar.com/it/terremoti-a-santorini-perche-questanno-dovreste-scegliere-paros-o-antiparos/
+  OK https://antiparosrentacar.com/it/terremoti-a-santorini-sciamano-le-isole-cicladi-in-allerta-comprese-paros-e-antiparos/
+  OK https://antiparosrentacar.com/it/windsurf-paros-noleggio-auto-antiparos/
+  OK https://antiparosrentacar.com/nl/
+  OK https://antiparosrentacar.com/nl/aardbevingen-op-santorini-waarom-je-dit-jaar-voor-paros-of-antiparos-zou-moeten-kiezen/
+
+Batch 9: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 6/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 14/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 21/25
+  … scraping 23/25
+  … scraping 24/25
+  OK https://antiparosrentacar.com/nl/aardbevingen-op-santorini-zorgen-voor-oplettendheid-op-de-cycladeneilanden-waaronder-paros-en-antiparos/
+  OK https://antiparosrentacar.com/nl/aggelos-vloot/
+  OK https://antiparosrentacar.com/nl/algemene-voorwaarden/
+  OK https://antiparosrentacar.com/nl/atvs-antiparos/
+  OK https://antiparosrentacar.com/nl/auto-huren-antiparos-aggelos/
+  OK https://antiparosrentacar.com/nl/auto-huren-op-paros/
+  OK https://antiparosrentacar.com/nl/autoverhuur-op-de-luchthaven-van-paros/
+  OK https://antiparosrentacar.com/nl/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/nl/contact/
+  OK https://antiparosrentacar.com/nl/cookie-policy-eu/
+  OK https://antiparosrentacar.com/nl/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/nl/eiland-antiparos/
+  OK https://antiparosrentacar.com/nl/fietsenvloot/
+  OK https://antiparosrentacar.com/nl/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/nl/huur-een-auto-op-paros-met-aggelos-rentals/
+  OK https://antiparosrentacar.com/nl/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/nl/ontdek-paros-autoverhuur-gemakkelijk-gemaakt-met-aggelos/
+  OK https://antiparosrentacar.com/nl/over-ons/
+  OK https://antiparosrentacar.com/nl/paros-autoverhuur-beste-deals-tips-voor-2025/
+  OK https://antiparosrentacar.com/nl/paros-autoverhuur-betaalbare-en-goedkope-opties-2025/
+  OK https://antiparosrentacar.com/nl/paros-eiland/
+  OK https://antiparosrentacar.com/nl/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/nl/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/nl/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/nl/piraeus-auto-huren/
+
+Batch 10: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 3/25
+  … scraping 5/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 14/25
+  … scraping 14/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 19/25
+  … scraping 21/25
+  … scraping 23/25
+  … scraping 24/25
+  OK https://antiparosrentacar.com/nl/reistips-voor-antiparos-en-paros/
+  OK https://antiparosrentacar.com/nl/scooterverhuur-op-antiparos/
+  OK https://antiparosrentacar.com/nl/suv-verhuur-paros/
+  OK https://antiparosrentacar.com/nl/ultieme-reisgids-voor-paros-griekenland-bijgewerkt-voor-2025/
+  OK https://antiparosrentacar.com/nl/wagenpark/
+  OK https://antiparosrentacar.com/nl/windsurfparos-autoverhuur-antiparos/
+  OK https://antiparosrentacar.com/pt/
+  OK https://antiparosrentacar.com/pt/alugar-um-carro-antiparos-aggelos/
+  OK https://antiparosrentacar.com/pt/alugar-um-carro-em-paros-com-a-aggelos-rentals/
+  OK https://antiparosrentacar.com/pt/aluguel-de-carros-no-aeroporto-de-paros/
+  OK https://antiparosrentacar.com/pt/aluguel-de-carros-no-pireu/
+  OK https://antiparosrentacar.com/pt/aluguel-de-scooters-antiparos/
+  OK https://antiparosrentacar.com/pt/aluguel-de-utilitarios-esportivos-em-paros/
+  OK https://antiparosrentacar.com/pt/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/pt/contato/
+  OK https://antiparosrentacar.com/pt/cookie-policy-eu/
+  OK https://antiparosrentacar.com/pt/dicas-das-melhores-ofertas-de-aluguel-de-carros-em-paros-para-2025/
+  OK https://antiparosrentacar.com/pt/dicas-de-viagem-para-antiparos-e-paros/
+  OK https://antiparosrentacar.com/pt/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/pt/explorar-paros-aluguel-de-carros-ficou-mais-facil-com-aggelos/
+  OK https://antiparosrentacar.com/pt/frota-de-aggelos/
+  OK https://antiparosrentacar.com/pt/frota-de-bicicletas/
+  OK https://antiparosrentacar.com/pt/frota-de-carros/
+  OK https://antiparosrentacar.com/pt/guia-de-viagem-definitivo-para-paros-grecia-atualizado-para-2025/
+  OK https://antiparosrentacar.com/pt/how-to-get-to-paros-ferries-flights-airport/
+
+Batch 11: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 2/25
+  … scraping 3/25
+  … scraping 4/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 6/25
+  … scraping 8/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 15/25
+  … scraping 16/25
+  … scraping 18/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/pt/ilha-de-antiparos/
+  OK https://antiparosrentacar.com/pt/ilha-de-paros/
+  OK https://antiparosrentacar.com/pt/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/pt/opcoes-de-aluguel-de-carros-em-paros-acessiveis-e-baratas-em-2025/
+  OK https://antiparosrentacar.com/pt/paros-alugar-um-carro/
+  OK https://antiparosrentacar.com/pt/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/pt/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/pt/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/pt/quadriciclos-antiparos/
+  OK https://antiparosrentacar.com/pt/sobre-nos/
+  OK https://antiparosrentacar.com/pt/termos-e-condicoes/
+  OK https://antiparosrentacar.com/pt/terremotos-em-santorini-atingem-ilhas-ciclades-em-alerta-incluindo-paros-e-antiparos/
+  OK https://antiparosrentacar.com/pt/terremotos-em-santorini-por-que-voce-deve-escolher-paros-ou-antiparos-este-ano/
+  OK https://antiparosrentacar.com/pt/windsurf-paros-aluguel-de-carro-antiparos/
+  OK https://antiparosrentacar.com/ru/
+  OK https://antiparosrentacar.com/ru/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/ru/cookie-policy-eu/
+  OK https://antiparosrentacar.com/ru/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/ru/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/ru/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/ru/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/ru/pasxa-2025-стин-паро-кай-стин-антипаро/
+  OK https://antiparosrentacar.com/ru/автопарк/
+  OK https://antiparosrentacar.com/ru/аренда-автомобилей-в-паросе/
+  OK https://antiparosrentacar.com/ru/аренда-внедорожников-парос/
+
+Batch 12: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 1/25
+  … scraping 2/25
+  … scraping 3/25
+  … scraping 4/25
+  … scraping 5/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 13/25
+  … scraping 15/25
+  … scraping 17/25
+  … scraping 19/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 25/25
+  … scraping 25/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/ru/аренда-скутеров-на-антипаросе/
+  OK https://antiparosrentacar.com/ru/арендовать-машину-антипарос-аггелос/
+  OK https://antiparosrentacar.com/ru/арендовать-машину-на-паросе-с-aggelos-rentals/
+  OK https://antiparosrentacar.com/ru/аэропорт-парос-аренда-автомобилей-по/
+  OK https://antiparosrentacar.com/ru/велосипедный-парк/
+  OK https://antiparosrentacar.com/ru/виндсерфинг-парос-прокат-автомобиле/
+  OK https://antiparosrentacar.com/ru/землетрясения-на-санторини-затронул/
+  OK https://antiparosrentacar.com/ru/землетрясения-на-санторини-почему-ва/
+  OK https://antiparosrentacar.com/ru/имерес-талассас-2025-стон-пейрайя-эна-15име/
+  OK https://antiparosrentacar.com/ru/исследовать-парос-аренда-автомобиле/
+  OK https://antiparosrentacar.com/ru/квадроциклы-антипарос/
+  OK https://antiparosrentacar.com/ru/контакт/
+  OK https://antiparosrentacar.com/ru/лучшие-предложения-по-аренде-автомоб/
+  OK https://antiparosrentacar.com/ru/о-нас/
+  OK https://antiparosrentacar.com/ru/остров-антипарос/
+  OK https://antiparosrentacar.com/ru/остров-парос/
+  OK https://antiparosrentacar.com/ru/парос-аренда-автомобилей-доступные-и/
+  OK https://antiparosrentacar.com/ru/пирей-аренда-автомобилей/
+  OK https://antiparosrentacar.com/ru/полный-путеводитель-по-паросу-греция/
+  OK https://antiparosrentacar.com/ru/советы-путешественникам-по-антипаро/
+  OK https://antiparosrentacar.com/ru/условия/
+  OK https://antiparosrentacar.com/ru/флот-аггелоса/
+  OK https://antiparosrentacar.com/sv/
+  OK https://antiparosrentacar.com/sv/aggelos-flotta/
+  OK https://antiparosrentacar.com/sv/antiparoson/
+
+Batch 13: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 6/25
+  … scraping 8/25
+  … scraping 10/25
+  … scraping 12/25
+  … scraping 14/25
+  … scraping 17/25
+  … scraping 20/25
+  … scraping 22/25
+  … scraping 25/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/sv/atv-fordon-antiparos/
+  OK https://antiparosrentacar.com/sv/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/sv/bilpark/
+  OK https://antiparosrentacar.com/sv/cookie-policy-eu/
+  OK https://antiparosrentacar.com/sv/cykelflotta/
+  OK https://antiparosrentacar.com/sv/den-ultimata-reseguiden-till-paros-grekland-uppdaterad-for-2025/
+  OK https://antiparosrentacar.com/sv/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/sv/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/sv/hyr-en-bil-i-paros-med-aggelos-rentals/
+  OK https://antiparosrentacar.com/sv/hyrbil-antiparos-aggelos/
+  OK https://antiparosrentacar.com/sv/hyrbil-i-paros-basta-erbjudanden-tips-for-2025/
+  OK https://antiparosrentacar.com/sv/hyrbil-i-paros-prisvarda-och-billiga-alternativ-2025/
+  OK https://antiparosrentacar.com/sv/hyrbil-i-paros/
+  OK https://antiparosrentacar.com/sv/hyrbil-i-pireus/
+  OK https://antiparosrentacar.com/sv/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/sv/jordbavningar-pa-santorini-varfor-du-borde-valja-paros-eller-antiparos-i-ar/
+  OK https://antiparosrentacar.com/sv/kontakta/
+  OK https://antiparosrentacar.com/sv/om-oss/
+  OK https://antiparosrentacar.com/sv/paros-flygplats-hyrbil-hamn/
+  OK https://antiparosrentacar.com/sv/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/sv/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/sv/paroson/
+  OK https://antiparosrentacar.com/sv/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/sv/restips-for-antiparos-och-paros/
+  OK https://antiparosrentacar.com/sv/santorini-jordbavningar-svarmar-kykladerna-i-beredskap-inklusive-paros-och-antiparos/
+
+Batch 14: 25 urls
+  … scraping 0/25
+  … scraping 0/25
+  … scraping 2/25
+  … scraping 4/25
+  … scraping 6/25
+  … scraping 7/25
+  … scraping 9/25
+  … scraping 11/25
+  … scraping 12/25
+  … scraping 15/25
+  … scraping 17/25
+  … scraping 20/25
+  … scraping 21/25
+  … scraping 23/25
+  … scraping 25/25
+  OK https://antiparosrentacar.com/sv/suv-uthyrning-paros/
+  OK https://antiparosrentacar.com/sv/utforska-paros-med-hyrbil-pa-ett-enkelt-satt-med-aggelos/
+  OK https://antiparosrentacar.com/sv/uthyrning-av-skotrar-i-antiparos/
+  OK https://antiparosrentacar.com/sv/villkor/
+  OK https://antiparosrentacar.com/sv/windsurf-paros-biluthyrning-antiparos/
+  OK https://antiparosrentacar.com/tr/
+  OK https://antiparosrentacar.com/tr/2025-icin-guncellenen-paros-yunanistana-dair-en-kapsamli-seyahat-rehberi/
+  OK https://antiparosrentacar.com/tr/aggelos-filosu/
+  OK https://antiparosrentacar.com/tr/aggelos-ile-parosta-araba-kiralamak-artik-cok-kolay/
+  OK https://antiparosrentacar.com/tr/aggelos-rentals-ile-parosta-araba-kiralayin/
+  OK https://antiparosrentacar.com/tr/antiparos-adasi/
+  OK https://antiparosrentacar.com/tr/antiparos-scooter-kiralama/
+  OK https://antiparosrentacar.com/tr/antiparos-ve-paros-icin-seyahat-ipuclari/
+  OK https://antiparosrentacar.com/tr/araba-kiralama-antiparos-aggelos/
+  OK https://antiparosrentacar.com/tr/arac-filosu/
+  OK https://antiparosrentacar.com/tr/atvler-antiparos/
+  OK https://antiparosrentacar.com/tr/best-things-to-do-in-paros/
+  OK https://antiparosrentacar.com/tr/bisiklet-filosu/
+  OK https://antiparosrentacar.com/tr/cookie-policy-eu/
+  OK https://antiparosrentacar.com/tr/do-you-need-to-rent-a-car-in-paros/
+  OK https://antiparosrentacar.com/tr/hakkimizda/
+  OK https://antiparosrentacar.com/tr/how-to-get-to-paros-ferries-flights-airport/
+  OK https://antiparosrentacar.com/tr/imeres-thalassas-2025-ston-peiraia-ena-15imero-me-pano-apo-120-dorean-ekdiloseis/
+  OK https://antiparosrentacar.com/tr/paros-adasi/
+  OK https://antiparosrentacar.com/tr/paros-araba-kiralama/
+
+Batch 15: 13 urls
+  … scraping 0/13
+  … scraping 0/13
+  … scraping 2/13
+  … scraping 4/13
+  … scraping 6/13
+  … scraping 8/13
+  … scraping 10/13
+  … scraping 12/13
+  … scraping 13/13
+  … scraping 13/13
+  OK https://antiparosrentacar.com/tr/paros-arac-kiralama-uygun-fiyatli-ve-ucuz-secenekler-2025/
+  OK https://antiparosrentacar.com/tr/paros-havaalani-arac-kiralama-limani/
+  OK https://antiparosrentacar.com/tr/paros-port-parikia-rent-a-car/
+  OK https://antiparosrentacar.com/tr/paros-rent-a-car-en-iyi-firsatlar-2025-ipuclari/
+  OK https://antiparosrentacar.com/tr/paros-vs-naxos-vs-antiparos/
+  OK https://antiparosrentacar.com/tr/pasxa-2025-stin-paro-kai-stin-antiparo/
+  OK https://antiparosrentacar.com/tr/pire-araba-kiralama/
+  OK https://antiparosrentacar.com/tr/ruzgar-sorfu-paros-araba-kiralama-antiparos/
+  OK https://antiparosrentacar.com/tr/santorini-depremleri-bu-yil-neden-paros-veya-antiparosu-secmelisiniz/
+  OK https://antiparosrentacar.com/tr/santorini-depremleri-paros-ve-antiparos-dahil-olmak-uzere-kiklad-adalarini-alarma-gecirdi/
+  OK https://antiparosrentacar.com/tr/sartlar-ve-kosullar/
+  OK https://antiparosrentacar.com/tr/suv-kiralama-paros/
+  OK https://antiparosrentacar.com/tr/temas-etmek/
+
+Done. success=363 failed=0

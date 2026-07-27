@@ -1,0 +1,16 @@
+{
+  "name": "AGGELOS Rentals",
+  "short_name": "AGGELOS Rentals",
+  "description": "Antiparos & Paros car, scooter and ATV rentals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#112553",
+  "theme_color": "#112553",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

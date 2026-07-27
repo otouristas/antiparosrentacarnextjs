@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AGGELOS Rentals — Antiparos & Paros (Next.js 16)
 
-## Getting Started
+Greenfield rebuild of [antiparosrentacar.com](https://antiparosrentacar.com).
 
-First, run the development server:
+## Stack
+
+- Next.js 16 App Router + React 19 + Tailwind 4
+- next-intl (11 locales, English unprefixed)
+- GoCars BFF (`/api/gocars/*`) using ported `gocars-core`
+- Deploy target: **Netlify** (OpenNext adapter, zero-config)
+
+## Develop
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Requires Node.js 22+.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## GoCars smoke test
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+curl -s 'http://localhost:3000/api/gocars/locations' | head
+curl -s 'http://localhost:3000/api/gocars/search?pickup_id=1&return_id=1&date_from=27/07/2026&time_from=10:00&date_to=30/07/2026&time_to=10:00&age_group_id=28&vehicle_type=car&lang=en' | head
+```
 
-## Learn More
+## Deploy on Netlify
 
-To learn more about Next.js, take a look at the following resources:
+1. Connect this GitHub repo in the [Netlify Dashboard](https://app.netlify.com/).
+2. Build settings are in `netlify.toml` (`npm run build`, Node 22).
+3. Optional environment variables:
+   - `CONTACT_WEBHOOK_URL` — contact form forwarding
+   - `NEXT_PUBLIC_GSC_VERIFICATION` — Google Search Console meta
+   - `NETLIFY_NEXT_SKEW_PROTECTION=true` — skew protection
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Netlify auto-applies the [OpenNext Next.js adapter](https://docs.netlify.com/build/frameworks/framework-setup-guides/nextjs/overview/) — do not pin `@netlify/plugin-nextjs`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Brand
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Navy `#112553` · Yellow `#F9E527` · Sky `#BEEBFF`
+- Brand name always **AGGELOS Rentals**

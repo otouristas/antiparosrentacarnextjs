@@ -1,0 +1,16 @@
+import type { VehicleCopy } from "@/content/types";
+
+export const copy: VehicleCopy = {
+  locale: "it",
+  name: "Compatta 81 · it",
+  blurb: "Compatta 81: In pratica: dal 1994 al porto di Antiparos conosciamo traghetti, parcheggi e il traffico di agosto.",
+  orSimilar: "o simile",
+  licence: "Verifichiamo la categoria della patente al ritiro.",
+  seo: {
+    title: "Compatta 81 | AGGELOS Rentals · Grecia",
+    description: "Compatta 81: In pratica: dal 1994 al porto di Antiparos conosciamo traghetti, parcheggi e il traffico di agosto.",
+    keywords: [],
+  },
+};
+
+export default copy;

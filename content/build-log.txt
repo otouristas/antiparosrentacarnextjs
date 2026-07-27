@@ -1,0 +1,82 @@
+
+> antiparos-rentacar-next@0.1.0 build
+> next build
+
+▲ Next.js 16.2.12 (Turbopack)
+
+  Creating an optimized production build ...
+Turbopack build encountered 1 warnings:
+./next.config.ts
+Encountered unexpected file in NFT list
+A file was traced that indicates that the whole project was traced unintentionally. Somewhere in the import trace below, there are:
+- filesystem operations (like path.join, path.resolve or fs.readFile), or
+- very dynamic requires (like require('./' + foo)).
+To resolve this, you can
+- remove them if possible, or
+- only use them in development, or
+- make sure they are statically scoped to some subfolder: path.join(process.cwd(), 'data', bar), or
+- add ignore comments: path.join(/*turbopackIgnore: true*/ process.cwd(), bar)
+
+Import trace:
+  App Route:
+    ./next.config.ts
+    ./src/data/content-registry.ts
+    ./src/app/sitemap.ts
+    ./src/app/sitemap--route-entry.js
+
+
+✓ Compiled successfully in 1452ms
+  Running TypeScript ...
+  Finished TypeScript in 1654ms ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/831) ...
+  Generating static pages using 9 workers (207/831) 
+  Generating static pages using 9 workers (415/831) 
+  Generating static pages using 9 workers (623/831) 
+✓ Generating static pages using 9 workers (831/831) in 6.0s
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /_not-found
+├ ● /[locale]/[[...slug]]
+│ ├ /en/best-things-to-do-in-paros
+│ ├ /el/best-things-to-do-in-paros
+│ ├ /fr/best-things-to-do-in-paros
+│ └ [+371 more paths]
+├ ● /[locale]/book/results
+│ ├ /en/book/results
+│ ├ /el/book/results
+│ ├ /fr/book/results
+│ └ [+8 more paths]
+├ ● /[locale]/fleet
+│ ├ /en/fleet
+│ ├ /el/fleet
+│ ├ /fr/fleet
+│ └ [+8 more paths]
+├ ● /[locale]/fleet/[category]
+│ ├ /en/fleet/cars
+│ ├ /en/fleet/suvs
+│ ├ /en/fleet/scooters
+│ └ [+52 more paths]
+├ ● /[locale]/fleet/[category]/[id]
+│ ├ /en/fleet/cars/citroen-c1
+│ ├ /en/fleet/cars/fiat-panda
+│ ├ /en/fleet/cars/suzuki-ignis
+│ └ [+371 more paths]
+├ ƒ /api/contact
+├ ƒ /api/gocars/ages
+├ ƒ /api/gocars/dates
+├ ƒ /api/gocars/locations
+├ ƒ /api/gocars/models
+├ ƒ /api/gocars/options
+├ ƒ /api/gocars/search
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+ƒ Proxy (Middleware)
+
+○  (Static)   prerendered as static content
+●  (SSG)      prerendered as static HTML (uses generateStaticParams)
+ƒ  (Dynamic)  server-rendered on demand
+

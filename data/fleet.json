@@ -1,0 +1,1571 @@
+{
+  "generatedAt": "2026-07-27T09:03:33.821Z",
+  "sourceFetchedAt": "2026-07-27T09:01:14.608Z",
+  "typeCount": 33,
+  "modelCount": 42,
+  "vehicles": [
+    {
+      "typeId": "48",
+      "slug": "mini-manual",
+      "category": "mini",
+      "vehicleType": "car",
+      "typeName": "Mini Manual",
+      "models": [
+        {
+          "make": "Toyota",
+          "model": "Aygo",
+          "note": "or similar"
+        },
+        {
+          "make": "Skoda",
+          "model": "Citygo Manual",
+          "note": "or similar"
+        },
+        {
+          "make": "Citroen",
+          "model": "C1",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 61.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "manual",
+        "fuel": "diesel",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": false,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/67675fc730710827d10d633abeed1158.png",
+        "normalized": "/fleet/normalized/48.webp"
+      },
+      "bookable": true,
+      "order": 0
+    },
+    {
+      "typeId": "50",
+      "slug": "compact-manual",
+      "category": "compact",
+      "vehicleType": "car",
+      "typeName": "Compact Manual",
+      "models": [
+        {
+          "make": "Fiat",
+          "model": "Panda",
+          "note": "or similar"
+        },
+        {
+          "make": "Suzuki",
+          "model": "Celerio",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 42.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/69d64f0ead1534015ab4db27da2b64de.png",
+        "normalized": "/fleet/normalized/50.webp"
+      },
+      "bookable": true,
+      "order": 1
+    },
+    {
+      "typeId": "51",
+      "slug": "convertible-manual",
+      "category": "convertible",
+      "vehicleType": "car",
+      "typeName": "Convertibles Manual",
+      "models": [
+        {
+          "make": "Fiat",
+          "model": "500C",
+          "note": ""
+        }
+      ],
+      "priceFrom": 85.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 3,
+        "luggages": 1,
+        "handbags": 2,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": "/fleet/fiat-500-cabrio.jpg",
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/bde773579e5fd47ea551845bb1d36585.png",
+        "normalized": "/fleet/normalized/51.webp"
+      },
+      "bookable": true,
+      "order": 2
+    },
+    {
+      "typeId": "52",
+      "slug": "crossover-automatic",
+      "category": "crossover",
+      "vehicleType": "car",
+      "typeName": "Crossover Automatic",
+      "models": [
+        {
+          "make": "Hyundai",
+          "model": "i20",
+          "note": ""
+        },
+        {
+          "make": "Citroen",
+          "model": "C3 Automatic",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 57,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 3,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 1600,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/c641cac74bb6b65950ca521eba98cb5e.png",
+        "normalized": "/fleet/normalized/52.webp"
+      },
+      "bookable": true,
+      "order": 3
+    },
+    {
+      "typeId": "53",
+      "slug": "4x4-offroad-manual",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "4x4 Offroad Manual",
+      "models": [
+        {
+          "make": "Suzuki",
+          "model": "Jimny",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 33.25,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 3,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": "/fleet/Suzuki-Jimny-Paros-rent-a-car.webp",
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/61477fb48f0cf32a342d4982c481b380.png",
+        "normalized": "/fleet/normalized/53.webp"
+      },
+      "bookable": true,
+      "order": 4
+    },
+    {
+      "typeId": "54",
+      "slug": "elite-suv-automatic",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "Elite SUVs",
+      "models": [
+        {
+          "make": "Mercedes",
+          "model": "Benz GLB",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 209,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 2,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": true,
+        "androidAuto": true,
+        "cruiseControl": false,
+        "keyless": true,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/c36450e85a6f17c835f77db8e5b35684.png",
+        "normalized": "/fleet/normalized/54.webp"
+      },
+      "bookable": true,
+      "order": 5
+    },
+    {
+      "typeId": "55",
+      "slug": "7-seater-manual",
+      "category": "people-carriers",
+      "vehicleType": "car",
+      "typeName": "People Carriers 7 Seater Manual",
+      "models": [
+        {
+          "make": "Fiat",
+          "model": "Doblo 7 Seater",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 142.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 7,
+        "doors": 4,
+        "luggages": 5,
+        "handbags": 4,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/3ce4fafebe900189c256a571d16468cf.png",
+        "normalized": "/fleet/normalized/55.webp"
+      },
+      "bookable": true,
+      "order": 6
+    },
+    {
+      "typeId": "58",
+      "slug": "buggy-500cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "UTVs 500cc",
+      "models": [
+        {
+          "make": "Buggy",
+          "model": "500cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 66.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": 2,
+        "luggages": null,
+        "handbags": 1,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": false
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/6a5079c16cecb9b7a31ba710a46b4898.png",
+        "normalized": "/fleet/normalized/58.webp"
+      },
+      "bookable": true,
+      "order": 7
+    },
+    {
+      "typeId": "59",
+      "slug": "medium-manual",
+      "category": "compact",
+      "vehicleType": "car",
+      "typeName": "Medium Manual",
+      "models": [
+        {
+          "make": "Peugeot",
+          "model": "208",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 76,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/438d7e68fdeb30fd0e5ed867ad83330a.png",
+        "normalized": "/fleet/normalized/59.webp"
+      },
+      "bookable": true,
+      "order": 8
+    },
+    {
+      "typeId": "60",
+      "slug": "mini-automatic",
+      "category": "mini",
+      "vehicleType": "car",
+      "typeName": "Mini Automatic",
+      "models": [
+        {
+          "make": "Skoda",
+          "model": "Citigo Automatic",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 93.1,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/c06c746fc7e7645bc75a715cfdab3eca.png",
+        "normalized": "/fleet/normalized/60.webp"
+      },
+      "bookable": true,
+      "order": 9
+    },
+    {
+      "typeId": "61",
+      "slug": "scooter-50cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Scooters 50cc",
+      "models": [
+        {
+          "make": "Scooter",
+          "model": "50cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 42.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 50,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/36f0e5b90d30e2d3f53ec40eaa007daf.png",
+        "normalized": "/fleet/normalized/61.webp"
+      },
+      "bookable": true,
+      "order": 10
+    },
+    {
+      "typeId": "62",
+      "slug": "scooter-125cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Scooters 125cc",
+      "models": [
+        {
+          "make": "Scooter",
+          "model": "125 cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 61.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 125,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/dbfec32e19e8099db51eec6215baba60.png",
+        "normalized": "/fleet/normalized/62.webp"
+      },
+      "bookable": true,
+      "order": 11
+    },
+    {
+      "typeId": "63",
+      "slug": "scooter-150cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Scooters 150cc",
+      "models": [
+        {
+          "make": "Scooter",
+          "model": "150 cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 61.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 150,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/01226ec83f700238229717ac758620f0.png",
+        "normalized": "/fleet/normalized/63.webp"
+      },
+      "bookable": true,
+      "order": 12
+    },
+    {
+      "typeId": "64",
+      "slug": "scooter-200cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Scooters 200cc",
+      "models": [
+        {
+          "make": "Scooter",
+          "model": "200 cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 38,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 200,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/9eff95efbd3d0c509d4340fc0b57285b.png",
+        "normalized": "/fleet/normalized/64.webp"
+      },
+      "bookable": true,
+      "order": 13
+    },
+    {
+      "typeId": "65",
+      "slug": "scooter-300cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Scooters 300cc",
+      "models": [
+        {
+          "make": "Scooter",
+          "model": "300 cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 42.75,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 300,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/224abd32b141e4e6fb3aa9ea90a74477.png",
+        "normalized": "/fleet/normalized/65.webp"
+      },
+      "bookable": true,
+      "order": 14
+    },
+    {
+      "typeId": "68",
+      "slug": "atv-300cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "ATVs 300cc",
+      "models": [
+        {
+          "make": "Kayo",
+          "model": "300cc",
+          "note": ""
+        },
+        {
+          "make": "VOGE",
+          "model": "Wolf",
+          "note": ""
+        }
+      ],
+      "priceFrom": 33.25,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 300,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/47b5c940d265048d06f54af28ffd2d19.png",
+        "normalized": "/fleet/normalized/68.webp"
+      },
+      "bookable": true,
+      "order": 15
+    },
+    {
+      "typeId": "69",
+      "slug": "atv-450cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "ATVs 450cc",
+      "models": [
+        {
+          "make": "ATV",
+          "model": "450cc",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 52.25,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 450,
+        "airCondition": false
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/0f6cc1ba707bddb309f100748343ad3c.png",
+        "normalized": "/fleet/normalized/69.webp"
+      },
+      "bookable": true,
+      "order": 16
+    },
+    {
+      "typeId": "70",
+      "slug": "atv-520cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "ATVs 520cc",
+      "models": [
+        {
+          "make": "ATV",
+          "model": "CF Moto 520cc",
+          "note": ""
+        }
+      ],
+      "priceFrom": 55.1,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 520,
+        "airCondition": false
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/41fabc5937309d7a9fdcbd8784f2ebfc.png",
+        "normalized": "/fleet/normalized/70.webp"
+      },
+      "bookable": true,
+      "order": 17
+    },
+    {
+      "typeId": "71",
+      "slug": "premium-mini-automatic",
+      "category": "mini",
+      "vehicleType": "car",
+      "typeName": "Premium Mini Automatic",
+      "models": [
+        {
+          "make": "Mitsubishi",
+          "model": "SpaceStar 2025",
+          "note": ""
+        },
+        {
+          "make": "Kia",
+          "model": "Picanto Automatic",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 47.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 1200,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/5ba9f50a006636c309a833e68308fb36.png",
+        "normalized": "/fleet/normalized/71.webp"
+      },
+      "bookable": true,
+      "order": 18
+    },
+    {
+      "typeId": "72",
+      "slug": "compact-hybrid-manual",
+      "category": "compact",
+      "vehicleType": "car",
+      "typeName": "Compact Hybrid Manual",
+      "models": [
+        {
+          "make": "Mitsubishi",
+          "model": "SpaceStar 2025",
+          "note": ""
+        },
+        {
+          "make": "Fiat",
+          "model": "Panda Hybrid",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 68.4,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": null,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": 1200,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/5d00295c1cf12cfd91ddb57dcada7381.png",
+        "normalized": "/fleet/normalized/72.webp"
+      },
+      "bookable": true,
+      "order": 19
+    },
+    {
+      "typeId": "73",
+      "slug": "convertible-automatic",
+      "category": "convertible",
+      "vehicleType": "car",
+      "typeName": "Convertibles Automatic",
+      "models": [
+        {
+          "make": "Peugeot",
+          "model": "108 Soft Top",
+          "note": "or similar"
+        },
+        {
+          "make": "Toyota",
+          "model": "Aygo Soft Top",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 95,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/3f863627daaf1ea1159890ef58315354.png",
+        "normalized": "/fleet/normalized/73.webp"
+      },
+      "bookable": true,
+      "order": 20
+    },
+    {
+      "typeId": "74",
+      "slug": "convertible-hybrid-manual",
+      "category": "convertible",
+      "vehicleType": "car",
+      "typeName": "Convertibles Hybrid Manual",
+      "models": [
+        {
+          "make": "Fiat",
+          "model": "500c Hybrid",
+          "note": ""
+        }
+      ],
+      "priceFrom": 90.25,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 4,
+        "doors": 3,
+        "luggages": 1,
+        "handbags": 2,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/a0124aac5c2f02e44e12f17b8f3f6499.png",
+        "normalized": "/fleet/normalized/74.webp"
+      },
+      "bookable": true,
+      "order": 21
+    },
+    {
+      "typeId": "75",
+      "slug": "suv-manual",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "SUVs Manual",
+      "models": [
+        {
+          "make": "Jeep",
+          "model": "Renegade Manual",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 123.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 2,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/272827ea21242d48e2cc2b9ec93e9cc7.png",
+        "normalized": "/fleet/normalized/75.webp"
+      },
+      "bookable": true,
+      "order": 22
+    },
+    {
+      "typeId": "76",
+      "slug": "suv-automatic",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "SUVs Automatic",
+      "models": [
+        {
+          "make": "MG",
+          "model": "SUV ZS",
+          "note": "or similar"
+        },
+        {
+          "make": "Jeep",
+          "model": "Renegade Automatic",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 142.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": true,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": "/fleet/mg-zs.jpg",
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/38839bfdcb4431681758b14c5d2620dc.png",
+        "normalized": "/fleet/normalized/76.webp"
+      },
+      "bookable": true,
+      "order": 23
+    },
+    {
+      "typeId": "77",
+      "slug": "suv-hybrid-4xe",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "SUVs Hybrid 4xe",
+      "models": [
+        {
+          "make": "Jeep",
+          "model": "Renegade UPLAND Hybrid 4xe",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 237.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 2,
+        "transmission": "automatic",
+        "fuel": "hybrid",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": true,
+        "androidAuto": true,
+        "cruiseControl": false,
+        "keyless": true,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/dae92d8839d000236c4dfacd3a5f5c4e.png",
+        "normalized": "/fleet/normalized/77.webp"
+      },
+      "bookable": true,
+      "order": 24
+    },
+    {
+      "typeId": "78",
+      "slug": "suv-open-top-automatic",
+      "category": "suvs",
+      "vehicleType": "car",
+      "typeName": "SUVs Open Top Automatic",
+      "models": [
+        {
+          "make": "Jeep",
+          "model": "Renegade 4x4 Full Extra Panorama Open Roof",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 66.5,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 2,
+        "handbags": 1,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/d13c96473512723498c8a91bee1a15ac.png",
+        "normalized": "/fleet/normalized/78.webp"
+      },
+      "bookable": true,
+      "order": 25
+    },
+    {
+      "typeId": "79",
+      "slug": "9-seater",
+      "category": "people-carriers",
+      "vehicleType": "car",
+      "typeName": "People Carriers 9 Seater",
+      "models": [
+        {
+          "make": "Volkswagen",
+          "model": "Transporter 9 Seater",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": null,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 9,
+        "doors": 4,
+        "luggages": 7,
+        "handbags": 4,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/430de688ef57e84a76ad58b8e48d2cfd.png",
+        "normalized": "/fleet/normalized/79.webp"
+      },
+      "bookable": false,
+      "order": 26
+    },
+    {
+      "typeId": "80",
+      "slug": "elite-scooter-125cc",
+      "category": "scooters",
+      "vehicleType": "moto",
+      "typeName": "Elite Scooters",
+      "models": [
+        {
+          "make": "Vespa",
+          "model": "Primavera 125cc",
+          "note": ""
+        }
+      ],
+      "priceFrom": 38,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 125,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/01df8245ef7d44addd7724abb3189485.png",
+        "normalized": "/fleet/normalized/80.webp"
+      },
+      "bookable": true,
+      "order": 27
+    },
+    {
+      "typeId": "81",
+      "slug": "medium-2024-manual",
+      "category": "compact",
+      "vehicleType": "car",
+      "typeName": "Medium 2024 Manual",
+      "models": [
+        {
+          "make": "Peugeot",
+          "model": "208 2024",
+          "note": "or similar"
+        }
+      ],
+      "priceFrom": 36.1,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 3,
+        "handbags": 2,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": true,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/5eb9eeea8a547e6a93bad396e408c77a.png",
+        "normalized": "/fleet/normalized/81.webp"
+      },
+      "bookable": true,
+      "order": 28
+    },
+    {
+      "typeId": "82",
+      "slug": "atv-550cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "ATV 550cc",
+      "models": [
+        {
+          "make": "Kymco",
+          "model": "Mxu550i",
+          "note": ""
+        }
+      ],
+      "priceFrom": 61.75,
+      "priceCurrency": "EUR",
+      "minimumDays": 2,
+      "specs": {
+        "passengers": null,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": false,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/dbb73fe4d500a30f707efc70a37f9ce5.png",
+        "normalized": "/fleet/normalized/82.webp"
+      },
+      "bookable": true,
+      "order": 29
+    },
+    {
+      "typeId": "83",
+      "slug": "utv-850cc",
+      "category": "atvs",
+      "vehicleType": "atv",
+      "typeName": "UTVs 850cc",
+      "models": [
+        {
+          "make": "CF Moto UTV",
+          "model": "ZFORCE 850cc",
+          "note": ""
+        }
+      ],
+      "priceFrom": 80.75,
+      "priceCurrency": "EUR",
+      "minimumDays": 1,
+      "specs": {
+        "passengers": 2,
+        "doors": null,
+        "luggages": null,
+        "handbags": null,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": 850,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": false,
+        "navigation": false,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/3c123fc0076c0286496b6448d8216e5c.png",
+        "normalized": "/fleet/normalized/83.webp"
+      },
+      "bookable": true,
+      "order": 30
+    },
+    {
+      "typeId": "84",
+      "slug": "crossover-manual",
+      "category": "crossover",
+      "vehicleType": "car",
+      "typeName": "Crossover Manual",
+      "models": [
+        {
+          "make": "Citroen",
+          "model": "C3",
+          "note": ""
+        }
+      ],
+      "priceFrom": 133,
+      "priceCurrency": "EUR",
+      "minimumDays": 1,
+      "specs": {
+        "passengers": 5,
+        "doors": 5,
+        "luggages": 3,
+        "handbags": 2,
+        "transmission": "manual",
+        "fuel": "petrol",
+        "cc": 1200,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": true,
+        "androidAuto": true,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": true,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/a5f000794fef8f48a8b8789d46e37391.png",
+        "normalized": "/fleet/normalized/84.webp"
+      },
+      "bookable": true,
+      "order": 31
+    },
+    {
+      "typeId": "85",
+      "slug": "elite-convertible-automatic",
+      "category": "convertible",
+      "vehicleType": "car",
+      "typeName": "Elite Convertibles Automatic",
+      "models": [
+        {
+          "make": "Mini",
+          "model": "Cooper Cabrio",
+          "note": ""
+        }
+      ],
+      "priceFrom": 171,
+      "priceCurrency": "EUR",
+      "minimumDays": null,
+      "specs": {
+        "passengers": 5,
+        "doors": 3,
+        "luggages": 2,
+        "handbags": 3,
+        "transmission": "automatic",
+        "fuel": "petrol",
+        "cc": null,
+        "airCondition": true
+      },
+      "features": {
+        "abs": true,
+        "bluetooth": true,
+        "navigation": true,
+        "usb": true,
+        "appleCarplay": false,
+        "androidAuto": false,
+        "cruiseControl": false,
+        "keyless": false,
+        "rearTrunk": false,
+        "tpms": false
+      },
+      "images": {
+        "local": null,
+        "remote": "https://antiparosrentacar.gocars.gr/online-admin/app/web/upload/models/3b2642258cecc3fde8e667add6ffaacd.png",
+        "normalized": "/fleet/normalized/85.webp"
+      },
+      "bookable": true,
+      "order": 32
+    }
+  ]
+}

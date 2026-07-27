@@ -1,0 +1,52 @@
+{
+  "_readme": [
+    "Stable URL slugs keyed by GoCars type_id. ASSIGNED ONCE, NEVER RE-DERIVED.",
+    "Slugs are deliberately NOT computed from type_name: a GoCars admin renaming",
+    "'SUVs Automatic' to 'SUV Automatic' would otherwise silently change the slug",
+    "and 404 eleven URLs plus their inbound links.",
+    "A new type_id with no entry here makes scripts/fleet/normalize.ts fail with a",
+    "proposed slug, requiring a human commit."
+  ],
+  "slugs": {
+    "48": "mini-manual",
+    "60": "mini-automatic",
+    "71": "premium-mini-automatic",
+
+    "50": "compact-manual",
+    "72": "compact-hybrid-manual",
+    "59": "medium-manual",
+    "81": "medium-2024-manual",
+
+    "52": "crossover-automatic",
+    "84": "crossover-manual",
+
+    "53": "4x4-offroad-manual",
+    "54": "elite-suv-automatic",
+    "75": "suv-manual",
+    "76": "suv-automatic",
+    "77": "suv-hybrid-4xe",
+    "78": "suv-open-top-automatic",
+
+    "51": "convertible-manual",
+    "73": "convertible-automatic",
+    "74": "convertible-hybrid-manual",
+    "85": "elite-convertible-automatic",
+
+    "55": "7-seater-manual",
+    "79": "9-seater",
+
+    "61": "scooter-50cc",
+    "62": "scooter-125cc",
+    "63": "scooter-150cc",
+    "64": "scooter-200cc",
+    "65": "scooter-300cc",
+    "80": "elite-scooter-125cc",
+
+    "58": "buggy-500cc",
+    "68": "atv-300cc",
+    "69": "atv-450cc",
+    "70": "atv-520cc",
+    "82": "atv-550cc",
+    "83": "utv-850cc"
+  }
+}

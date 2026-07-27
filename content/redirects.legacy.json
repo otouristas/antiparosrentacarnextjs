@@ -1,0 +1,192 @@
+[
+  {
+    "source": "/de/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/de/",
+    "permanent": true
+  },
+  {
+    "source": "/de/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/de/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/el/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/el/",
+    "permanent": true
+  },
+  {
+    "source": "/el/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/el/limani-enoikiasis-aftokiniton-sto-aerodromio-tis-parou/",
+    "permanent": true
+  },
+  {
+    "source": "/es/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/es/",
+    "permanent": true
+  },
+  {
+    "source": "/es/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/es/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/fr/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/fr/",
+    "permanent": true
+  },
+  {
+    "source": "/fr/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/fr/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/it/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/it/",
+    "permanent": true
+  },
+  {
+    "source": "/it/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/it/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/nl/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/nl/",
+    "permanent": true
+  },
+  {
+    "source": "/nl/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/nl/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/pt/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/pt/",
+    "permanent": true
+  },
+  {
+    "source": "/pt/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/pt/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/ru/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/ru/",
+    "permanent": true
+  },
+  {
+    "source": "/ru/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/ru/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/sv/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/sv/",
+    "permanent": true
+  },
+  {
+    "source": "/sv/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/sv/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/tr/?uicore-tb=corporate-services-mega-menu",
+    "destination": "/tr/",
+    "permanent": true
+  },
+  {
+    "source": "/tr/paros-rent-a-car-airport-port-pickup-antiparos/",
+    "destination": "/tr/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/bike-fleet/",
+    "destination": "/antiparos-scooter-rentals/",
+    "permanent": true
+  },
+  {
+    "source": "/scooter-fleet-2/",
+    "destination": "/atvs-antiparos/",
+    "permanent": true
+  },
+  {
+    "source": "/scooter-fleet/",
+    "destination": "/antiparos-scooter-rentals/",
+    "permanent": true
+  },
+  {
+    "source": "/paros-rent-a-car-with-aggelos-rentals/",
+    "destination": "/rent-a-car-in-paros-with-aggelos-rentals/",
+    "permanent": true
+  },
+  {
+    "source": "/antiparos-rent-a-car/",
+    "destination": "/rent-a-car-antiparos-aggelos/",
+    "permanent": true
+  },
+  {
+    "source": "/hotel-partners/",
+    "destination": "/paros-rent-a-car/",
+    "permanent": true
+  },
+  {
+    "source": "/check/",
+    "destination": "/",
+    "permanent": true
+  },
+  {
+    "source": "/locations-car-rental/",
+    "destination": "/paros-rent-a-car/",
+    "permanent": true
+  },
+  {
+    "source": "/locations-car-rental/antiparos-island/",
+    "destination": "/rent-a-car-antiparos-aggelos/",
+    "permanent": true
+  },
+  {
+    "source": "/locations-car-rental/paros-island/",
+    "destination": "/paros-rent-a-car/",
+    "permanent": true
+  },
+  {
+    "source": "/car-fleet/",
+    "destination": "/fleet/",
+    "permanent": true
+  },
+  {
+    "source": "/fleet/cars/",
+    "destination": "/fleet/",
+    "permanent": true
+  },
+  {
+    "source": "/aggelos-fleet/",
+    "destination": "/fleet/",
+    "permanent": true
+  },
+  {
+    "source": "/bicycles-fleet/",
+    "destination": "/fleet/bikes/",
+    "permanent": true
+  },
+  {
+    "source": "/fleet/bicycles/",
+    "destination": "/fleet/bikes/",
+    "permanent": true
+  },
+  {
+    "source": "/paros-car-rental/",
+    "destination": "/paros-rent-a-car/",
+    "permanent": true
+  },
+  {
+    "source": "/paros-airport-car-rental/",
+    "destination": "/paros-airport-rent-a-car-port/",
+    "permanent": true
+  },
+  {
+    "source": "/paros-port-car-rental/",
+    "destination": "/paros-port-parikia-rent-a-car/",
+    "permanent": true
+  }
+]
