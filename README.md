@@ -28,13 +28,15 @@ curl -s 'http://localhost:3000/api/gocars/search?pickup_id=1&return_id=1&date_fr
 ## Deploy on Netlify
 
 1. Connect this GitHub repo in the [Netlify Dashboard](https://app.netlify.com/).
-2. Build settings are in `netlify.toml` (`npm run build`, Node 22).
-3. Optional environment variables:
+2. Build settings come from `netlify.toml` (`npm run build`, publish `.next`, Node 22).
+3. Confirm Site settings → Build & deploy → **Framework** is Next.js (or blank so auto-detect works). Do **not** set Publish directory to `out` or `public`.
+4. After deploy, the build log must mention `@netlify/plugin-nextjs` / Next.js runtime. If you only see static files published from `.next` with no plugin, you will get Netlify’s “Page not found”.
+5. Optional environment variables:
    - `CONTACT_WEBHOOK_URL` — contact form forwarding
    - `NEXT_PUBLIC_GSC_VERIFICATION` — Google Search Console meta
    - `NETLIFY_NEXT_SKEW_PROTECTION=true` — skew protection
 
-Netlify auto-applies the [OpenNext Next.js adapter](https://docs.netlify.com/build/frameworks/framework-setup-guides/nextjs/overview/) — do not pin `@netlify/plugin-nextjs`.
+English URLs are under `/en/` (locale prefix is always on). `/` redirects via middleware.
 
 ## Brand
 

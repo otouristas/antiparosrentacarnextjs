@@ -1,4 +1,5 @@
-# Next.js on Netlify — OpenNext adapter is auto-applied (do not pin @netlify/plugin-nextjs).
+# Next.js on Netlify — OpenNext adapter must run or Netlify serves .next as
+# static files and every URL 404s with the platform "Page not found" page.
 # Docs: https://docs.netlify.com/build/frameworks/framework-setup-guides/nextjs/overview/
 
 [build]
@@ -8,12 +9,16 @@
 [build.environment]
   NODE_VERSION = "22"
   NEXT_TELEMETRY_DISABLED = "1"
-  # Optional: enable skew protection in Netlify UI / env
-  # NETLIFY_NEXT_SKEW_PROTECTION = "true"
+
+# Force the Next.js runtime (SSR, middleware, ISR). Without this, a bare
+# publish=".next" deploy has no index.html and Netlify returns its 404 page.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
 
 # Optional site env (set in Netlify UI → Environment variables):
 #   CONTACT_WEBHOOK_URL
 #   NEXT_PUBLIC_GSC_VERIFICATION
+#   NETLIFY_NEXT_SKEW_PROTECTION=true
 
 [[headers]]
   for = "/*"
